@@ -12,7 +12,7 @@ def match_sentences(ch_known, ch_learn):
     window_size = 3
     DIMINISH_FACTOR = 0.1
 
-    f_name = "ch4depl.txt"
+    f_name = "ch5depl.txt"
     with open(f_name, "w"):
         pass
     f_handle = open(f_name, "a+")
@@ -47,12 +47,17 @@ def match_sentences(ch_known, ch_learn):
         if k > last_k:
             print("+", l, int(k))
             # print(f"{sim[k]}\n{l}:{repr(sents_learn[l])}\n{k}:{repr(sents_known[last_k:k+1])}\n\n")
-            learn_sentences_to_print = "".join(sents_learn[last_l:l])
-            known_sentences_to_print = "".join(sents_known[last_k:k])
-            print(
-                f"{last_l}-{l}[{lg_learn}]:{learn_sentences_to_print}\n{last_k}-{k}[{lg_known}]:{known_sentences_to_print}\n--",
-                file=f_handle,
-            )
+            learn_sentences_to_print = f"\n[{lg_learn}] ".join(sents_learn[last_l:l])
+            known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[last_k:k])
+            printable_sents = f"""{last_k}-{k}[{lg_known}]:{known_sentences_to_print}
+{last_l}-{l}[{lg_learn}]:{learn_sentences_to_print}
+--
+"""
+            print(printable_sents, file=f_handle)
+            # print(
+            #     f"{last_l}-{l}[{lg_learn}]:{learn_sentences_to_print}\n{last_k}-{k}[{lg_known}]:{known_sentences_to_print}\n--",
+            #     file=f_handle,
+            # )
             last_k = k
             last_l = l
         else:
@@ -60,18 +65,24 @@ def match_sentences(ch_known, ch_learn):
 
     learn_sentences_to_print = "".join(sents_learn[last_l:])
     known_sentences_to_print = "".join(sents_known[last_k:])
-    print(
-        f"{last_l}-END[{lg_learn}]:{learn_sentences_to_print}\n{last_k}-END[{lg_known}]:{known_sentences_to_print}\n--",
-        file=f_handle,
-    )
+    printable_sents = f"""{last_k}-END[{lg_known}]:{known_sentences_to_print}
+{last_l}-END[{lg_learn}]:{learn_sentences_to_print}
+--
+"""
+    print(printable_sents, file=f_handle)
+
+    # print(
+    #         f"{last_l}-END[{lg_learn}]:{learn_sentences_to_print}\n{last_k}-END[{lg_known}]:{known_sentences_to_print}\n--",
+    #         file=f_handle,
+    #     )
     f_handle.close()
 
 
 def main():
-    ch4de = open("ch4de.txt", "r").read()
-    ch4pl = open("ch4pl.txt", "r").read()
-    ch4en = open("ch4en.txt", "r").read()
-    match_sentences(ch4pl, ch4de)
+    ch_de = open("ch5de.txt", "r").read().replace("\n", " ").replace("\r", "")
+    ch_pl = open("ch5pl.txt", "r").read().replace("\n", " ").replace("\r", "")
+    ch_en = open("ch5en.txt", "r").read().replace("\n", " ").replace("\r", "")
+    match_sentences(ch_pl, ch_de)
 
 
 if __name__ == "__main__":
