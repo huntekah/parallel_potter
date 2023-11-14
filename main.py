@@ -80,8 +80,8 @@ def match_sentences(ch_known, ch_learn):
 
 def main():
     ch_de = open("ch5de.txt", "r").read().replace("\n", " ").replace("\r", "")
-    ch_pl = open("ch5pl.txt", "r").read().replace("\n", " ").replace("\r", "")
-    ch_en = open("ch5en.txt", "r").read().replace("\n", " ").replace("\r", "")
+    ch_pl = open("ch5pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+    ch_en = open("ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
     match_sentences(ch_pl, ch_de)
 
 
