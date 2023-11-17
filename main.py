@@ -1,9 +1,13 @@
+from typing import List, Tuple
 import torch
 from tqdm import tqdm
 
 from nlp import (compare_embeddings, get_embeddings, sentence_transformer,
                  split_to_sentences)
 
+def match_by_sim_score() -> List[Tuple[int,int]]:
+    pass
+    # Match by sim score, and then locate non-sequential
 
 def match_sentences(ch_known, ch_learn):
     book = ""
@@ -12,7 +16,7 @@ def match_sentences(ch_known, ch_learn):
     window_size = 3
     DIMINISH_FACTOR = 0.1
 
-    f_name = "ch5depl.txt"
+    f_name = "chapters/ch6depl.txt"
     with open(f_name, "w"):
         pass
     f_handle = open(f_name, "a+")
@@ -79,9 +83,9 @@ def match_sentences(ch_known, ch_learn):
 
 
 def main():
-    ch_de = open("ch5de.txt", "r").read().replace("\n", " ").replace("\r", "")
-    ch_pl = open("ch5pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
-    ch_en = open("ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+    ch_de = open("chapters/ch6de.txt", "r").read().replace("\n", " ").replace("\r", "")
+    ch_pl = open("chapters/ch6pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+    # ch_en = open("chapters/ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
     match_sentences(ch_pl, ch_de)
 
 
