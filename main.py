@@ -4,7 +4,9 @@ from tqdm import tqdm
 
 from nlp import (compare_embeddings, get_embeddings, sentence_transformer,
                  split_to_sentences)
+from get_chapter import get_german_chapter, get_polish_chapter
 
+chapter_n = 10
 def match_by_sim_score() -> List[Tuple[int,int]]:
     pass
     # Match by sim score, and then locate non-sequential
@@ -16,12 +18,11 @@ def match_sentences(ch_known, ch_learn):
     window_size = 3
     DIMINISH_FACTOR = 0.1
 
-    f_name = "chapters/ch6depl.txt"
+    f_name = f"chapters/ch{chapter_n}depl.txt"
     with open(f_name, "w"):
         pass
     f_handle = open(f_name, "a+")
 
-    print(len(ch_known), len(ch_learn))
     sents_learn = split_to_sentences(ch_learn[:], lg_learn)
     sents_known = split_to_sentences(ch_known[:], lg_known)
 
@@ -55,8 +56,7 @@ def match_sentences(ch_known, ch_learn):
             known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[last_k:k])
             printable_sents = f"""{last_k}-{k}[{lg_known}]:{known_sentences_to_print}
 {last_l}-{l}[{lg_learn}]:{learn_sentences_to_print}
---
-"""
+--"""
             print(printable_sents, file=f_handle)
             # print(
             #     f"{last_l}-{l}[{lg_learn}]:{learn_sentences_to_print}\n{last_k}-{k}[{lg_known}]:{known_sentences_to_print}\n--",
@@ -71,8 +71,7 @@ def match_sentences(ch_known, ch_learn):
     known_sentences_to_print = "".join(sents_known[last_k:])
     printable_sents = f"""{last_k}-END[{lg_known}]:{known_sentences_to_print}
 {last_l}-END[{lg_learn}]:{learn_sentences_to_print}
---
-"""
+--"""
     print(printable_sents, file=f_handle)
 
     # print(
@@ -83,8 +82,11 @@ def match_sentences(ch_known, ch_learn):
 
 
 def main():
-    ch_de = open("chapters/ch6de.txt", "r").read().replace("\n", " ").replace("\r", "")
-    ch_pl = open("chapters/ch6pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+    ch_de = get_german_chapter(chapter_n).replace("\n\n","\n")
+    ch_pl = get_polish_chapter(chapter_n).replace("\n\n","\n")
+    print(f"{len(ch_pl)=},{len(ch_de)=}")
+    # ch_de = open("chapters/ch7de.txt", "r").read().replace("\n", " ").replace("\r", "")
+    # ch_pl = open("chapters/ch7pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
     # ch_en = open("chapters/ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
     match_sentences(ch_pl, ch_de)
 
