@@ -6,7 +6,7 @@ from nlp import (compare_embeddings, get_embeddings, sentence_transformer,
                  split_to_sentences)
 from get_chapter import get_german_chapter, get_polish_chapter
 
-chapter_n = 10
+chapter_n = 9
 def match_by_sim_score() -> List[Tuple[int,int]]:
     pass
     # Match by sim score, and then locate non-sequential
@@ -82,8 +82,8 @@ def match_sentences(ch_known, ch_learn):
 
 
 def main():
-    ch_de = get_german_chapter(chapter_n).replace("\n\n","\n")
-    ch_pl = get_polish_chapter(chapter_n).replace("\n\n","\n")
+    ch_de = get_german_chapter(chapter_n).replace("\n"," ")
+    ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
     print(f"{len(ch_pl)=},{len(ch_de)=}")
     # ch_de = open("chapters/ch7de.txt", "r").read().replace("\n", " ").replace("\r", "")
     # ch_pl = open("chapters/ch7pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
