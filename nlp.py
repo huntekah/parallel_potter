@@ -21,8 +21,10 @@ def split_to_sentences(text, lang) -> List[str]:
 
 
 def compare_embeddings(emb1, emb2):
+    """result is of resolution sim[ len(emb1) ][ len(emb2) ]"""
     return util.cos_sim(emb1, emb2)
 
 
 def get_embeddings(texts: List[str]):
     return sentence_transformer.encode(texts)
+
