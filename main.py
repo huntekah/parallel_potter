@@ -14,11 +14,15 @@ def match_by_sim_score(embeddings_learn, embeddings_known) -> List[Tuple[int,int
     # sims[l][k]
     # sims[l][?] -> how l matches each of sentences from k
     # sims[?][k] -> how known sentence k matches any of the learn sentences
-    best_k_matches = torch.argmax(sims,dim=1) # max for each row
-    best_l_matches = torch.argmax(sims,dim=0) # max for each column
+    # TODO MAY Switch dim 0 and dim 1, not sure if correct.
+    best_k_matches = list(map(int,torch.argmax(sims,dim=1))) # best k matches for each of l. max for each row
+    best_l_matches = list(map(int,torch.argmax(sims,dim=0))) # max for each column
 
-    increasing_subsequence_k = longest_increasing_subsequence(best_k_matches)
-    increasing_subsequence_l = longest_increasing_subsequence(best_l_matches)
+    increasing_subsequence_k = longest_increasing_subsequence([int(k_match) for k_match in best_k_matches])
+    increasing_subsequence_l = longest_increasing_subsequence([int(l_match) for l_match in best_l_matches])
+
+    print(f"{increasing_subsequence_k=}")
+    print(f"{increasing_subsequence_l=}")
 
     print(f"{len(best_l_matches)=}")
     print(f"{len(best_k_matches)=}")
@@ -32,14 +36,14 @@ def match_by_sim_score(embeddings_learn, embeddings_known) -> List[Tuple[int,int
                                     best_l_matches,
                                     best_k_matches)
     # all_matches = fill_in_gaps(perfect_matches, sims)
-    # print(perfect_matches)
+    print(f"{perfect_matches=}")
     return perfect_matches
 
 def print_perfect_matches(f_handle, perfect_matches, sents_learn, sents_known, lg_learn, lg_known):
     next_l = 0
     next_k = 0
     for k,l in perfect_matches:
-        print(f"{k=},{l=},{next_k=},{next_l=}")
+        # print(f"{k=},{l=},{next_k=},{next_l=}")
         if k == next_k and l == next_l:
             learn_sentences_to_print = sents_learn[l]
             known_sentences_to_print = sents_known[k]
@@ -51,7 +55,7 @@ def print_perfect_matches(f_handle, perfect_matches, sents_learn, sents_known, l
             next_k += 1
             next_l += 1
         else:
-            printable_sents = "~v~\n"
+            printable_sents = "" # prefix on top of section
             if next_k < k + 1:
                 known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[next_k:k + 1])
                 printable_sents += f"{next_k}-{k}[{lg_known}]:{known_sentences_to_print}\n"
@@ -60,7 +64,7 @@ def print_perfect_matches(f_handle, perfect_matches, sents_learn, sents_known, l
                 learn_sentences_to_print = f"\n[{lg_learn}] ".join(sents_learn[next_l:l + 1])
                 printable_sents += f"{next_l}-{l}[{lg_learn}]:{learn_sentences_to_print}\n"
                 next_l = l + 1
-            printable_sents += "~^~"
+            printable_sents += "~^" # suffix on bottom of section
         print(printable_sents, file=f_handle)
     if next_k < len(sents_known):
         known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[next_k:])
@@ -74,7 +78,7 @@ def print_perfect_matches(f_handle, perfect_matches, sents_learn, sents_known, l
 
 def prepare_file(chapter_n, lg_know, lg_learn):
     f_name = f"chapters/ch{chapter_n}{lg_know}{lg_learn}.txt"
-    return open(f_name, "a+")
+    return open(f_name, "w")
 
 
 def process_sentences(ch_text, lg_text):
@@ -133,7 +137,7 @@ def match_sentences(ch_known, ch_learn, chapter_n):
 
 
 def main():
-    chapter_n = 12
+    chapter_n = 11
     ch_de = get_german_chapter(chapter_n).replace("\n"," ")
     ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
     print(f"{len(ch_pl)=},{len(ch_de)=}")

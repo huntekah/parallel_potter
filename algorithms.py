@@ -36,14 +36,26 @@ def longest_increasing_subsequence(X):
 
 def prefect_match(increasing_subsequence_l, increasing_subsequence_k, best_l_matches, best_k_matches):
     perfect_l_matches = []
-    for k,l in enumerate(best_l_matches):
-        if l in increasing_subsequence_l:
-            perfect_l_matches.append((k,int(l)))
+    # Here we should reverse the for, so that we add to perfect_l_matches only increasing subsequence...
+    last_k = -1
+    for l_filtered in increasing_subsequence_l:
+        for k,l_match in enumerate(best_l_matches):
+            if l_filtered == l_match and k >= last_k:
+                perfect_l_matches.append((k,l_match))
+                last_k = k
+                break
+
     print(f"{perfect_l_matches=}")
+
+    last_l = -1
     perfect_k_matches = []
-    for l,k in enumerate(best_k_matches):
-        if k in increasing_subsequence_k:
-            perfect_k_matches.append((int(k),l))
+    for k_filtered in increasing_subsequence_k:
+        for l,k_match in enumerate(best_k_matches):
+            if k_filtered == k_match and l >= last_l:
+                perfect_k_matches.append((k_match,l))
+                last_l = l
+                break
+
     print(f"{perfect_k_matches=}")
     #intersection of perfect matches
     perfect_matches = sorted(list(set(perfect_l_matches) & set(perfect_k_matches)))
