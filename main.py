@@ -56,14 +56,14 @@ def print_perfect_matches(f_handle, perfect_matches, sents_learn, sents_known, l
             next_l += 1
         else:
             printable_sents = "" # prefix on top of section
-            if next_k < k + 1:
-                known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[next_k:k + 1])
+            if next_k < k:
+                known_sentences_to_print = f"\n[{lg_known}] ".join(sents_known[next_k:k])
                 printable_sents += f"{next_k}-{k}[{lg_known}]:{known_sentences_to_print}\n"
-                next_k = k + 1
-            if next_l < l+1:
-                learn_sentences_to_print = f"\n[{lg_learn}] ".join(sents_learn[next_l:l + 1])
+                next_k = k
+            if next_l < l:
+                learn_sentences_to_print = f"\n[{lg_learn}] ".join(sents_learn[next_l:l])
                 printable_sents += f"{next_l}-{l}[{lg_learn}]:{learn_sentences_to_print}\n"
-                next_l = l + 1
+                next_l = l
             printable_sents += "~^" # suffix on bottom of section
         print(printable_sents, file=f_handle)
     if next_k < len(sents_known):
@@ -137,7 +137,7 @@ def match_sentences(ch_known, ch_learn, chapter_n):
 
 
 def main():
-    chapter_n = 11
+    chapter_n = 13
     ch_de = get_german_chapter(chapter_n).replace("\n"," ")
     ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
     print(f"{len(ch_pl)=},{len(ch_de)=}")
