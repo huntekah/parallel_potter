@@ -1,0 +1,938 @@
+0-1[pl]:ROZDZIAŁ PIĘTNASTY ARAGOG  
+0-1[de]:Aragog Langsam zog der Sommer über die Ländereien des Schlosses.
+~^
+1-2[pl]:Na otaczające zamek łąki wpełzało lato: niebo i jezioro przybrało kolor kwiatów barwinka, a w cieplarniach wystrzeliły wielkie jak kapusty kwiaty.
+1-2[de]:Himmel und See färbten sich grünblau und in den Gewächshäusern trieben Blumen kohlkopfgroße Blüten aus.
+~^
+2-3[pl]:Bez Hagrida, krążącego po łąkach z Kłem przy nodze, zielona sceneria, na którą Harry patrzył z okien zamku, wydawała mu się jednak dziwnie nieprzyjemna i jakby niepełna.
+2-3[de]:Doch ohne Hagrid, den Harry oft vom Fenster aus beobachtet hatte, wie er mit Fang auf den Fersen umherschlenderte, kam es ihm vor, als stimmte an diesem Bild etwas nicht.
+~^
+3-4[pl]:Nie lepiej było zresztą i wewnątrz zamku, gdzie coraz trudniej było wytrzymać.
+3-4[de]:Und nicht besser war es drinnen im Schloss, wo die Dinge so fürchterlich falsch liefen.
+~^
+4-5[pl]:Harry i Ron spróbowali odwiedzić Hermionę, ale teraz wszelkie odwiedziny w skrzydle szpitalnym zostały zakazane.
+4-5[de]:Harry und Ron hatten versucht Hermine zu besuchen, doch Besuche im Krankenflügel waren jetzt verboten.
+~^
+5-7[pl]:- Nie chcemy ryzykować - powiedziała pani Pomfrey przez szparę w szpitalnych drzwiach.
+[pl] - Nie, bardzo mi przykro, ale istnieje możliwość, że napastnik wróci, żeby wykończyć tych biedaków...
+5-7[de]:»Wir gehen kein Risiko mehr ein«, erklärte ihnen Madam Pomfrey mit strenger Miene durch einen Spalt in der Hospitaltür.
+[de] »Nein, tut mir Leid, es könnte durchaus sein, dass der Angreifer zurückkommt, um seine Opfer endgültig zu erledigen ...«
+~^
+7-9[pl]:Po odejściu Dumbledore’a lęk ogarnął wszystkich.
+[pl] Gotyckie podwójne okna zamku zdawały się nie przepuszczać słońca ogrzewającego mury.
+7-8[de]:Seit Dumbledore fort war, hatte sich eine nie gekannte Furcht im Schloss breit gemacht, und die Sonne, die die Schlossmauern draußen erwärmte, schien an den Doppelfenstern Halt zu machen.
+~^
+9-10[pl]:Trudno było napotkać nie zasępioną twarz, a przypadkowy śmiech na korytarzu brzmiał nienaturalnie i natychmiast cichł, zduszony zalegającą wszędzie ponurością.
+8-9[de]:In der Schule sah man kaum ein Gesicht, das nicht besorgt und angespannt wirkte, und alles Lachen, das durch die Gänge hallte, klang schrill und unnatürlich und erstarb rasch.
+~^
+10-11[pl]:Harry wciąż powtarzał sobie w duchu ostatnie słowa Dumbledore’a.
+9-10[de]:Harry rief sich immer wieder die letzten Worte Dumbledores in Erinnerung:
+~^
+11-15[pl]:Naprawdę opuszczę szkołę tylko wtedy, kiedy już nikt w całym Hogwarcie nie pozostanie mi wierny...
+[pl] Ci, którzy o pomoc poproszą, zawsze ją otrzymają.
+[pl] Co z tego wynika?
+[pl] Kto ma poprosić o pomoc, skoro wszyscy są tak przerażeni i rozbici?
+10-13[de]:»Ich werde die Schule erst dann endgültig verlassen, wenn mir hier keiner mehr die Treue hält ... Wer immer in Hogwarts um Hilfe bittet, wird sie auch bekommen.«
+[de] Doch was  nützten diese Worte?
+[de] Wen sollten sie denn um Hilfe rufen, wenn alle andern genauso ratlos und verängstigt waren?
+~^
+15-18[pl]:O wiele łatwiej było zrozumieć uwagę Hagrida o pająkach, tyle że teraz nigdzie nie było ani śladu tych pożytecznych stworzeń.
+[pl] Harry rozglądał się za nimi uważnie wszędzie, gdzie szedł, wspomagany (raczej niechętnie) przez Rona.
+[pl] Oczywiście, trudniej im było szukać, bo nie mogli chodzić po zamku samotnie, tylko w dużej grupie wszystkich Gryfonów.
+13-16[de]:Hagrids Fingerzeig auf die Spinnen war viel leichter zu verstehen - das Problem war nur, dass im Schloss offenbar keine einzige Spinne mehr übrig geblieben war, der sie hätten folgen können.
+[de] Wo immer Harry auch hinging, hielt er Ausschau nach einer Spinne, und Ron half ihm dabei (wenn auch eher widerstrebend).
+[de] Natürlich störte sie das Verbot, allein umherzuwandern, und die anderen Gryffindors waren immer dabei.
+~^
+18-19[pl]:Większość ich kolegów wydawała się zadowolona z tego, że nauczyciele prowadzili ich od klasy do klasy, ale Harry’ego strasznie to denerwowało.
+16-17[de]:Wie eine Schafherde wurden sie von den Lehrern von Klassenzimmer zu Klassenzimmer geführt, und die meisten schienen froh darüber zu sein, doch Harry fand es sehr lästig.
+~^
+19-20[pl]:Był jednak ktoś, kto wyraźnie cieszył się z gęstej atmosfery podejrzeń i lęków.
+17-18[de]:Einer jedoch schien die Stimmung aus Angst und Misstrauen von ganzem Herzen zu genießen.
+~^
+20-21[pl]:Draco Malfoy chodził po szkole dumny jak paw, jakby go właśnie mianowano naczelnym prefektem.
+18-19[de]:Draco Malfoy stolzierte in der Schule herum, als ob er gerade zum Schulsprecher ernannt worden wäre.
+~^
+21-22[pl]:Harry nie zdawał sobie sprawy, co go tak cieszy, aż do pewnej lekcji eliksirów, jakieś dwa tygodnie po odejściu Dumbledore’a i Hagrida, kiedy siedząc tuż za Malfoyem, podsłuchał, jak się chwali przed Crabbe'em i Goyle'em.
+19-21[de]:Worüber Draco sich so freute, wurde Harry erst gut zwei Wochen nach Dumbledores und Hagrids Fortgang klar.
+[de] im Zaubertrankunterricht, wo er eine Reihe hinter Malfoy saß, hörte er ihn vor Crabbe und Goyle prahlen.
+~^
+22-23[pl]:- Zawsze uważałem, że tylko mój ojciec może wykurzyć starego Dumbledore’a - powiedział, nie starając się nawet ściszyć głosu.
+21-22[de]:»Ich hab immer gewusst, dass Vater es schaffen wird, Dumbledore aus dem Weg zu räumen«, sagte er, ohne sich groß anzustrengen, leise zu sprechen.
+~^
+23-24[pl]:- Mówiłem wam, że uważa Dumbledore’a za najgorszego dyrektora, jakiego szkoła kiedykolwiek miała.
+22-23[de]:»Hab euch ja gesagt, seiner Meinung nach ist Dumbledore der schlechteste Schulleiter, den die Schule je gehabt hat.
+~^
+24-25[pl]:Może teraz dostaniemy wreszcie kogoś z klasą.
+23-24[de]:Vielleicht kriegen wir jetzt einen anständigen Rektor.
+~^
+25-26[pl]:Kogoś, kto dopilnuje, żeby nie zamknięto Komnaty Tajemnic.
+24-25[de]:jemand, der gar nicht will, dass die Kammer des Schreckens geschlossen wird.
+~^
+26-27[pl]:McGonagall też już długo nie pociągnie, zresztą tylko odwala papierkową robotę...
+25-26[de]:McGonagall wird nicht lange bleiben, sie ist nur eingesprungen ...«
+~^
+27-30[pl]:Obok Harry’ego przeszedł Snape, powstrzymując się od uwagi na temat pustego miejsca i kociołka Hermiony.
+[pl] - Panie profesorze - powiedział głośno Malfoy.
+[pl] - Panie profesorze, dlaczego pan nie kandyduje na stanowisko dyrektora?
+26-27[de]:Snape rauschte an Harry vorbei, ohne ein Wort über Hermines leeren Platz und Kessel zu verlieren.
+~^
+30-31[pl]:- No, no, Malfoy - odrzekł Snape, ale nie mógł powstrzymać bladego uśmiechu.
+27-28[de]:»Sir«, sagte Malfoy laut, »Sir, warum bewerben Sie sich nicht um das Amt des Schulleiters?«  »Schon gut, Malfoy«, sagte Snape, auch wenn er ein dünnlippiges Lächeln nicht unterdrücken konnte.
+~^
+31-33[pl]:- Profesor Dumbledore został jedynie zawieszony przez radę nadzorczą.
+[pl] Mam nadzieję, że wkrótce do nas wróci.
+28-29[de]:»Professor Dumbledore ist von den Schulräten nur beurlaubt worden, ich würde sagen, er wird schon bald wieder bei uns sein.«
+~^
+33-37[pl]:- Taaak, na pewno - powiedział Malfoy, chichocąc.
+[pl] - Ale gdyby pan kandydował, to według mnie mógłby pan liczyć na głos mojego ojca.
+[pl] Powiem ojcu, że pan jest najlepszym nauczycielem, panie profesorze...
+[pl] Snape również zachichotał, krążąc po lochu.
+29-32[de]:Ja, schon«, sagte Malfoy hämisch grinsend.
+[de] »Ich bin mir aber sicher, mein Vater würde für Sie stimmen, Sir, wenn Sie sich um die Stelle bewerben - ich jedenfalls werde Vater sagen, dass Sie der beste Lehrer an der Schule sind, Sir -«
+[de] Mit einem gekünstelten Lächeln rauschte Snape davon.
+~^
+37-38[pl]:Na szczęście nie zauważył Seamusa Finnigana, który udawał, że wymiotuje do kociołka.
+32-33[de]:Glücklicherweise bemerkte er Seamus Finnigan nicht, der so tat, als erbreche er sich in seinen Kessel.
+~^
+38-39[pl]:- Dziwię się, że szlamy nie spakowały już swoich kufrów - ciągnął Malfoy.
+33-34[de]:»Es überrascht mich doch, dass die Schlammblüter inzwischen nicht alle die Koffer gepackt haben«, fuhr Malfoy fort.
+~^
+39-40[pl]:- Założę się o pięć galeonów, że wkrótce ktoś wykorkuje.
+34-35[de]:»Wette fünf Galleonen, dass der nächste stirbt.
+~^
+40-42[pl]:Szkoda, że nie Granger...
+[pl] Rozległ się dzwonek, co było szczęśliwym zbiegiem okoliczności, bo po ostatnich słowach Malfoya Ron zerwał się z taboretu, więc w ogólnym rozgardiaszu jego próba rzucenia się na Malfoya została niezauważona.
+35-39[de]:Schade, dass es nicht die Granger war -«
+[de] In diesem Moment läutete die Glocke, und das war ein Glück.
+[de] Denn bei Malfoys letzten Worten war Ron aufgesprungen, und weil jetzt alle hastig ihre Taschen und Bücher zusammenkramten, fiel nicht weiter auf, dass er sich auf Malfoy stürzen wollte.
+[de] »Lasst mich zu dem Kerl«, knurrte Ron;
+~^
+42-45[pl]:- Puśćcie mnie, muszę mu dołożyć - warczał, kiedy Harry i Dean uwiesili się na jego ramionach.
+[pl] - Mam wszystko gdzieś, nie potrzebuję różdżki, zabiję go gołymi rękami...
+[pl] - Pospieszcie się, zaraz was zaprowadzę na zielarstwo! - pokrzykiwał Snape nad głowami uczniów.
+39-41[de]:Harry und Dean hielten ihn an den Armen fest.
+[de] »Ist mir egal, ich brauch meinen Zauberstab nicht, ich bring ihn mit meinen bloßen Händen um -« »Beeilung, ich muss euch zu Kräuterkunde bringen«, bellte Snape über die Köpfe der Schüler hinweg, und sie marschierten in Zweierreihen los.
+~^
+45-47[pl]:Wyszli długim rzędem (Ron nazywał ten szyk „krokodylim”), z Harrym, Ronem i Deanem w ogonie.
+[pl] Ron wciąż usiłował się wyrwać z ich uścisków.
+41-42[de]:Harry und Dean bildeten die Nachhut und schleppten Ron, der sich immer noch losreißen wollte, hinter sich her.
+~^
+47-48[pl]:Puścili go dopiero wtedy, gdy Snape wyprowadził ich z zamku i szli ścieżką wiodącą między grządkami warzyw w kierunku cieplarni.
+42-44[de]:Erst als Snape am Schlossportal zurückgeblieben war und sie durch das Gemüsefeld hinüber zu den Gewächshäusern gingen, konnten sie ihn loslassen.
+[de] In Kräuterkunde herrschte gedrückte Stimmung;
+~^
+48-49[pl]:Na zielarstwie wydarzenia ostatnich miesięcy najbardziej dawały o sobie znać: brakowało Justyna i Hermiony.
+44-45[de]:jetzt fehlten schon zwei von ihnen, Justin und Hermine.  
+~^
+49-52[pl]:Profesor Sprout kazała im przycinać abisyńskie figi.
+[pl] W pewnym momencie Harry podszedł z naręczem łodyg do kupy kompostu i spotkał przy niej Erniego Macmillana.
+[pl] Ernie wziął głęboki oddech i powiedział bardzo formalnym tonem: - Chcę ci tylko powiedzieć,
+45-48[de]:Professor Sprout gab ihnen die Aufgabe, die abessinischen Schrumpelfeigenbäume zu beschneiden.
+[de] Harry ging mit einem Arm voll verdorrter Stiele hinüber zum Komposthaufen.
+[de] Dort stand Ernie Macmillan und suchte seinen Blick.
+~^
+52-53[pl]:Harry, że bardzo mi przykro, że podejrzewałem ciebie.
+48-49[de]:Ernie holte tief Luft und sagte sehr förmlich: »Ich wollte dir nur sagen, Harry, dass es mir Leid tut, dass ich dich verdächtigt habe.
+~^
+53-56[pl]:Wiem, że nigdy byś nie napadł na Hermionę Granger i przepraszam za wszystkie świństwa, jakie o tobie powiedziałem.
+[pl] Jedziemy teraz na jednym wózku
+[pl] , więc... Wyciągnął pulchną dłoń, a Harry ją uścisnął.
+49-51[de]:Ich weiß, du würdest niemals Hermine Granger angreifen, und ich entschuldige mich für all das Zeug, das ich gesagt habe.
+[de] Wir sitzen jetzt alle im selben Boot, und, naja -« Er streckte seine plumpe Hand aus und Harry schüttelte sie.
+~^
+56-57[pl]:Ernie i jego przyjaciółka Hanna znaleźli się przy tej samej fidze, co Harry i Ron.
+51-52[de]:Ernie und seine Freundin Hannah arbeiteten am selben Schrumpelfeigenbaum und kamen zu Harry und Ron herüber.
+~^
+57-59[pl]:- Ten Draco Malfoy to niezłe ziółko - powiedział Ernie, odłamując martwe gałązki.
+[pl] - Zdaje się, że to wszystko bardzo go rajcuje, prawda?
+52-53[de]:»Dieser Typ, Draco Malfoy«, sagte Ernie, während er vertrocknete Stiele abknickte, »der scheint sich über die ganze Geschichte riesig zu freuen.
+~^
+59-60[pl]:Wiecie co, według mnie to on jest dziedzicem Slytherina.
+53-54[de]:Wisst ihr, ich glaube, er könnte der Erbe Slytherins sein.«
+~^
+60-61[pl]:- Ale z ciebie mądrala - mruknął Ron, który nie zaakceptował Erniego tak szybko, jak Harry.
+54-55[de]:»Das ist schlau von dir«, sagte Ron, der Ernie nicht so bereitwillig verziehen hatte wie Harry.
+~^
+61-62[pl]:- A ty, Harry, myślisz, że to może być on? - zapytał Ernie.
+55-56[de]:»Glaubst du, es ist Malfoy, Harry?«, fragte Ernie.
+~^
+62-63[pl]:- Nie - odpowiedział Harry tak stanowczo, że Ernie i Hanna wlepili w niego oczy.
+56-57[de]:»Nein«, sagte Harry so bestimmt, dass Ernie und Hannah ihn verdutzt anstarrten.
+~^
+63-64[pl]:Chwilę później Harry zobaczył coś, co sprawiło, że uderzył Rona sekatorem w rękę.
+57-58[de]:Eine Sekunde später bemerkte Harry etwas, das ihn zwang, Ron mit seiner Gartenschere eins über die Hände zu geben.
+~^
+64-66[pl]:- Auuu!
+[pl] Co ty...
+58-59[de]:»Au!
+~^
+66-67[pl]:Harry wskazał na ziemię, kilka stóp od nich.
+59-60[de]:Was soll -« Harry deutete auf den Boden ein paar Meter vor ihnen.
+~^
+67-70[pl]:Maszerowało po niej kilkanaście wielkich pająków.
+[pl] - Ach, taaak - powiedział Ron, daremnie starając się zrobić ucieszoną minę.
+[pl] - Ale teraz nie możemy za nimi iść...
+60-62[de]:Mehrere große Spinnen krabbelten über die Erde.
+[de] »0 ja«, sagte Ron und versuchte - vergeblich - eine erfreute Miene aufzusetzen.
+~^
+70-71[pl]:Ernie i Hanna słuchali tego z najwyższym zainteresowaniem.
+62-63[de]:»Aber wir können ihnen jetzt nicht folgen -« Ernie und Hannah hörten ihnen neugierig zu.  
+~^
+71-74[pl]:Harry patrzył, jak pająki oddalają się coraz bardziej.
+[pl] - Wygląda na to, że zmierzają do Zakazanego Lasu...
+[pl] Ron zrobił jeszcze bardziej nieszczęśliwą minę.
+63-66[de]:Harry sah den flüchtenden Spinnen nach.
+[de] »Sieht aus, als seien sie auf dem Weg in den Verbotenen Wald ...«
+[de] Daraufhin sah Ron nicht glücklicher aus.
+~^
+74-75[pl]:Po zielarstwie profesor Snape odprowadził ich na obronę przed czarną magią.
+66-67[de]:Nach Ende der Stunde führte sie Professor Snape hinüber in Verteidigung gegen die dunklen Künste.
+~^
+75-76[pl]:Harry i Ron zostali w tyle, żeby spokojnie porozmawiać.
+67-68[de]:Harry und Ron ließen sich ein wenig zurückfallen, um ungestört reden zu können.
+~^
+76-77[pl]:- Będziemy musieli znowu użyć peleryny-niewidki - powiedział Harry.
+68-69[de]:»Wir brauchen noch einmal den Tarnumhang«, sagte Harry.
+~^
+77-78[pl]:- Możemy zabrać ze sobą Kła.
+69-70[de]:»Wir können Fang mitnehmen.
+~^
+78-80[pl]:Zawsze chodził po lesie z Hagridem, może okazać się pomocny.
+[pl] - Dobra - odpowiedział Ron, wyczyniając jakieś dziwne rzeczy ze swoją różdżką.
+70-72[de]:Er geht mit Hagrid öfter in den Wald und könnte uns vielleicht nützen.«
+[de] »Stimmt«, sagte Ron, der seinen Zauberstab nervös in den Fingern drehte.
+~^
+80-81[pl]:A kiedy zajęli swoje zwykłe miejsca w klasie Lockharta, dodał: - Ee... czy tam... no... czy w tym lesie nie ma wilkołaków?
+72-73[de]:»Ähm - soll es nicht - soll es nicht Werwölfe im Wald geben?«, fügte er hinzu, als sie ihre Stammplätze ganz hinten in Lockharts Klassenzimmer eingenommen hatten.
+~^
+81-83[pl]:Harry wolał pominąć to pytanie, więc powiedział: - Niektóre leśne stworzenia są zupełnie w porządku.
+[pl] Na przykład centaury...
+73-74[de]:Harry wollte auf diese Frage lieber nicht antworten und sagte: »Es gibt dort auch Gutes.
+~^
+83-84[pl]:jednorożce...
+74-75[de]:Die Zentauren sind in Ordnung, und die Einhörner ...«
+~^
+84-85[pl]:Ron jeszcze nigdy nie był w Zakazanym Lesie.
+75-76[de]:Ron war nie im Verbotenen Wald gewesen.
+~^
+85-86[pl]:Harry był tam tylko raz i wówczas miał głęboką nadzieję, że już nigdy do niego nie wróci.
+76-77[de]:Harry hatte ihn nur einmal betreten und seither gehofft, es nie wieder tun zu müssen.
+~^
+86-87[pl]:Wkroczył Lockhart i wszystkie oczy zwróciły się na niego.
+77-78[de]:Lockhart kam hereingestürmt und die Klasse starrte ihn an.
+~^
+87-88[pl]:Wszyscy inni nauczyciele mieli miny bardziej ponure niż zwykle, ale on wydawał się nie tracić pogody ducha.
+78-79[de]:Alle anderen Lehrer der Schule wirkten bedrückter als sonst, doch Lockhart kam ihnen geradezu ausgelassen vor.
+~^
+88-90[pl]:- No, co jest, młodzieży? - zawołał, szczerząc zęby.
+[pl] - Co to za ponure miny?
+79-81[de]:»Na, was denn?«, rief er umherstrahlend.
+[de] »Warum all die langen Gesichter?«
+~^
+90-91[pl]:Uczniowie spojrzeli po sobie ze złością, ale milczeli.
+81-82[de]:Sie tauschten ärgerliche Blicke, doch keiner antwortete.
+~^
+91-93[pl]:- Co, jeszcze do was nie dotarło - powiedział bardzo powoli, jakby miał do czynienia z gromadą półgłówków - że niebezpieczeństwo już minęło?
+[pl] Głównego winowajcy już tu nie ma!
+82-84[de]:»Ist euch eigentlich nicht klar«, sagte Lockhart langsam, als wären sie alle ein bisschen einfältig, »dass die Gefahr vorüber ist!
+[de] Der Schurke wurde abgeführt -«
+~^
+93-94[pl]:- To znaczy kogo? - zapytał głośno Dean Thomas.
+84-85[de]:»Sagt wer?«, rief Dean Thomas.  
+~^
+94-95[pl]:- Drogi młodzieńcze, minister magii nie zabrałby stąd Hagrida, gdyby nie był na sto procent pewny, że to on - odpowiedział Lockhart takim tonem, jakby wyjaśniał Deanowi, że jeden plus jeden to dwa.
+85-86[de]:»Mein lieber junger Mann, der Zaubereiminister hätte Hagrid nicht festgenommen, wenn er sich nicht hundertprozentig sicher wäre, dass er der Schuldige ist«, sagte Lockhart im Ton eines Lehrers, der erklären muss, dass eins und eins zwei ergibt.
+~^
+95-96[pl]:- Wcale nie był pewny - powiedział Ron, jeszcze głośniej niż Dean.
+86-87[de]:»0 doch, das würde er«, sagte Ron noch lauter als Dean.
+~^
+96-97[pl]:- Pochlebiam sobie, że wiem troszkę więcej o aresztowaniu Hagrida niż pan, panie Weasley - rzekł Lockhart, wyraźnie zachwycony sobą.
+87-88[de]:»Ich schmeichle mir, ein klein wenig mehr über Hagrids Festnahme zu wissen als Sie, Mr Weasley«, sagte Lockhart selbstzufrieden.
+~^
+97-98[pl]:Ron już zaczynał odpowiadać, że jest akurat odwrotnie, ale urwał, kiedy Harry kopnął go z całej siły pod ławką.
+88-89[de]:Ron wollte schon sagen, da sei er anderer Meinung, brach jedoch mitten im Satz ab, als ihm Harry gegen das Schienbein trat.
+~^
+98-99[pl]:- Nie było nas tam, zapomniałeś? - warknął półgębkiem Harry.
+89-90[de]:»Wir waren nicht dabei, klar?«, zischelte Harry.
+~^
+99-100[pl]:Ale obrzydliwa wesołkowatość Lockharta, jego aluzje, że od dawna wiedział, kto jest winowajcą, jego zarozumiała pewność, że wszystko się skończyło, rozwścieczyła Harry’ego tak, że sam powstrzymał się z trudem, by nie cisnąć Włóczęg z ghulami prosto w jego głupkowatą twarz.
+90-92[de]:Doch Lockharts abstoßende Fröhlichkeit, seine Andeutungen, er habe ohnehin nie Gutes von Hagrid gehalten, seine Zuversicht, dass die ganze Angelegenheit nun abgeschlossen sei - das alles ärgerte Harry dermaßen, dass er große Lust hatte, Gammeln mit Ghulen in Lockharts dummes Gesicht zu schmeißen.
+[de] Stattdessen gab er sich damit zufrieden, eine Notiz für Ron zu kritzeln.
+~^
+100-101[pl]:Zadowolił się wyskrobaniem krótkiej notki do Rona: „Zrobimy to dzisiaj wieczorem”.
+92-93[de]:»Tun wir's heute Nacht.«
+~^
+101-102[pl]:Ron przeczytał, przełknął ślinę i zerknął na puste miejsce, zwykle zajęte przez Hermionę.
+93-94[de]:Ron las den Zettel, schluckte krampfhaft und sah hinüber zu dem leeren Platz, auf dem sonst Hermine saß.
+~^
+102-103[pl]:Ten widok musiał dodać mu odwagi, bo skinął głową.
+94-95[de]:Der Anblick bestärkte ihn offenbar in seinem Entschluss und er nickte.
+~^
+103-104[pl]:W tych dniach pokój wspólny Gryfonów był zawsze pełny, bo po szóstej nie wolno im było opuszczać wieży i nie mieli co ze sobą zrobić.
+95-96[de]:Im Gemeinschaftsraum der Gryffindors war jetzt immer viel los, denn ab sechs Uhr durften sie nirgendwo anders hingehen.
+~^
+104-106[pl]:Było zresztą tyle spraw do omówienia, że w pokoju wspólnym robiło się pusto dopiero po północy.
+[pl] Zaraz po kolacji Harry wyjął z kufra pelerynę-niewidkę i spędził cały wieczór, siedząc na niej i czekając, aż wszyscy pójdą spać.
+96-99[de]:Außerdem hatten sie viel zu besprechen, und die Folge war, dass sich der Gemeinschaftsraum oft erst nach Mitternacht leerte.
+[de] Harry ging nach dem Abendessen hoch, um den Tarnumhang zu holen.
+[de] Den ganzen Abend hockte er darauf und war tete, dass die andern endlich zu Bett gehen würden.
+~^
+106-107[pl]:Fred i George wyzwali Harry’ego i Rona na kilka partii Eksplodującego Durnia, a Ginny przyglądała się grze, siedząc w fotelu zwykle zajmowanym przez Hermionę.
+99-100[de]:Fred und George forderten Harry und Ron zu ein paar Spielen »Snape explodiert« heraus und Ginny saß ganz niedergeschlagen auf Hermines Stammplatz und sah ihnen zu.
+~^
+107-108[pl]:Harry i Ron specjalnie przegrywali, starając się jak najszybciej skończyć grę, ale i tak minęła już północ, kiedy Fred i George w końcu poszli spać.
+100-101[de]:Harry und Ron versuchten die Spiele rasch zu beenden und verloren dauernd mit Absicht, dennoch war es schon weit nach Mitternacht, als Fred, George und Ginny endlich zu Bett gingen.
+~^
+108-109[pl]:Harry i Ron nasłuchiwali, aż po raz ostatni trzasną drzwi obu dormitoriów, a wówczas chwycili pelerynę, narzucili ją na siebie i przeleźli przez dziurę w portrecie.
+101-102[de]:Harry und Ron warteten, bis sie weiter oben im Turm zwei Schlafsaaltüren zugehen hörten, dann warfen sie sich den Tarnumhang über und kletterten durch das Porträtloch.
+~^
+109-112[pl]:Czekała ich kolejna trudna wędrówka po zamku i omijanie wszystkich stojących na straży profesorów.
+[pl] W końcu dotarli do sali wejściowej, odsunęli zasuwę na drzwiach frontowych i prześliznęli się przez nie, starając się nie robić najmniejszego hałasu.
+[pl] Odetchnęli dopiero na zalanych światłem księżyca błoniach.
+102-106[de]:Wieder war es eine schwierige Wanderung durch das Schloss, bei der sie vielen Lehrern ausweichen mussten, bis sie endlich die Eingangshalle erreichten.
+[de] Sie entriegelten das eichene Tor und schoben es auf.
+[de] wobei sie Acht gaben, dass es nicht knarrte.
+[de] Dann traten sie hinaus auf das mondbeschienene Schlossgelände.
+~^
+112-115[pl]:- Oczywiście trzeba przyjąć i taką możliwość - powiedział nagle Ron, kiedy szli przez czarną traw?
+[pl] – że w lesie nie znajdziemy żadnych śladów.
+[pl] Te pająki mogły tam wcale nie dojść.
+106-108[de]:»Kann natürlich sein«, sagte Ron urplötzlich, während sie über das schwarze Gras marschierten, »dass wir zum Wald kommen und dann nicht wissen, wie weiter.
+[de] Die Spinnen sind vielleicht gar nicht dorthin gekrabbelt.
+~^
+115-116[pl]:Wiem, że wyglądały, jakby szły w tamtym kierunku, ale... Zawiesił głos, jakby miał wielką nadzieję, że w rzeczywistości wcale tam nie polazły.
+108-110[de]:Ich weiß, es sah so aus, als ob sie grob in die Richtung gegangen seien, aber ...«
+[de] Hoffnungsvoll verlor sich seine Stimme in der Dunkelheit.
+~^
+116-117[pl]:Doszli do chatki Hagrida, sprawiającej bardzo smutne wrażenie z nieoświetlonymi oknami.
+110-111[de]:Sie erreichten Hagrids Hütte, die mit ihren leeren Fenstern traurig und wehmütig aussah.
+~^
+117-118[pl]:Kiedy Harry otworzył drzwi, Kieł zwariował z radości na ich widok.
+111-112[de]:Harry stieß die Tür auf und als Fang sie erkannte, spielte er verrückt vor Freude.
+~^
+118-119[pl]:Obawiając się, że obudzi cały zamek swoim głuchym, donośnym ujadaniem, nakarmili go pospiesznie krajanką z melasy, która skleiła mu szczęki.
+112-113[de]:Aus Sorge, er könne mit seinem tiefen, donnernden Bellen das ganze Schloss aufwecken, gaben sie ihm hastig Sirupbonbons aus einer Dose auf dem Kaminsims zu fressen, die seine Zähne zusammenklebten.
+~^
+119-120[pl]:Harry zostawił pelerynę-niewidkę na stole Hagrida.
+113-114[de]:Harry ließ den Tarnumhang auf Hagrids Tisch zurück.
+~^
+120-121[pl]:I tak nie będzie im potrzebna w ciemnym lesie.
+114-116[de]:Im stockdunklen Wald würden sie ihn nicht brauchen.
+[de] »Komm mit, Fang, wir gehen spazieren«, sagte Harry und tätschelte Fang.
+~^
+121-124[pl]:- No, Kieł, idziemy na spacer - powiedział, klepiąc się po udzie, a rozradowany brytan wyskoczył za nimi z chatki, pomknął na skraj lasu i uniósł tylną nogę przy pniu wielkiej sykomory.
+[pl] Harry wyjął różdżkę, mruknął: Lumos! i na jej końcu zapłonęło światełko, w sam raz, by widzieli ścieżkę, wypatrując na niej śladów pająków.
+[pl] - Dobry pomysł - powiedział Ron.
+116-120[de]:Glücklich tollte Fang hinter ihnen her und  jagte hinüber zum Waldrand, wo er an einer hohen Platane das Bein hob.
+[de] Harry zückte seinen Zauberstab und murmelte »Lumos!«.
+[de] An der Spitze erschien ein kleines Licht, gerade hell genug, um den Weg nach Spinnen abzusuchen.
+[de] »Klug von dir«, sagte Ron.
+~^
+124-125[pl]:- Zapaliłbym i swoją, ale sam wiesz... mogłaby wybuchnąć albo coś w tym rodzaju...
+120-121[de]:»Ich würde meinen ja auch anzünden, aber du weißt ja - er würde wahrscheinlich explodieren oder so etwas ...«
+~^
+125-126[pl]:Harry trącił Rona w ramię, wskazując na trawę.
+121-122[de]:Harry tippte Ron auf die Schulter und deutete ins Gras.
+~^
+126-128[pl]:Dwa samotne pająki uciekały przed światłem w cień drzew.
+[pl] - W porządku - westchnął Ron, godząc się z losem.
+122-124[de]:Zwei einzelne Spinnen entflohen dem Licht des Zauberstabs in den Schatten der Bäume.
+[de] »Na schön«, seufzte Ron, als ob er sich mit dem Schlimmsten abgefunden hätte.
+~^
+128-129[pl]:- Jestem gotowy.
+124-125[de]:»Ich bin bereit.
+~^
+129-131[pl]:Idziemy.
+[pl] Tak więc weszli do lasu, a Kieł biegał wokół nich, obwąchując korzenie drzew i zeschłe liście.
+125-127[de]:Gehen wir.«
+[de] Mit dem wild herumtollenden und Baumwurzeln und Blätter beschnüffelnden Fang betraten sie den Wald.
+~^
+131-132[pl]:W świetle różdżki Harry’ego widzieli sznurek pająków posuwających się po ścieżce.
+127-128[de]:Im Schein von Harrys Zauberstab gingen sie den Spinnen nach, die immer wieder am Pfad entlang auftauchten.
+~^
+132-133[pl]:Szli za nimi przez blisko dwadzieścia minut, nasłuchując w milczeniu jakichkolwiek innych odgłosów poza trzaskiem łamanych gałązek i szelestem liści.
+128-129[de]:Gut eine Viertelstunde lang folgten sie ihnen schweigend, wobei sie angespannt auf andere Geräusche als das Knacken von Zweigen und das Rascheln von Blättern lauschten.
+~^
+133-136[pl]:A potem, kiedy drzewa zgęstniały tak, że nad głowami nie było już widać gwiazd, a różdżka Harry’ego rzucała krąg bladego światła w oceanie ciemności, zobaczyli, że pająki schodzą ze ścieżki.
+[pl] Harry zatrzymał się, żeby zobaczyć, dokąd pająki zmierzają, ale poza kręgiem światła roztaczała się nieprzenikniona ciemność.
+[pl] Poprzednim razem nie zawędrował tak daleko.
+129-132[de]:Dann jedoch - der Wald war so dicht geworden, dass sie die Sterne am Himmel nicht mehr sehen konnten und nur noch Harrys Zauberstab in das Meer der Dunkelheit strahlte - sahen sie, dass die Spinnen, die sie geführt hatten, den Pfad verließen.
+[de] Harry hielt an und versuchte zu erspähen, wo die Spinnen hinliefen, doch alles außerhalb des kleinen Lichtkegels war rabenschwarz.
+[de] So tief war er noch nie in den Wald vorgedrungen.
+~^
+136-137[pl]:Pamiętał, że Hagrid go ostrzegał, żeby nigdy nie zbaczał ze ścieżki.
+132-133[de]:Lebhaft erinnerte er sich noch an Hagrids Mahnung beim letzten Mal, nie den Pfad zu verlassen.
+~^
+137-140[pl]:Ale teraz Hagrid był setki, a może tysiące mil stąd, najprawdopodobniej w jednej z cel Azkabanu, a przed odejściem wyraźnie im powiedział, żeby poszli za pająkami.
+[pl] Coś mokrego dotknęło jego dłoni, i odskoczył, miażdżąc Ronowi stopę, ale był to tylko nos Kła.
+[pl] - Co robimy? - zapytał szeptem Rona, widząc tylko jego oczy, w których odbijało się światełko różdżki.
+133-137[de]:Doch Hagrid war jetzt meilenweit entfernt, vermutlich saß er in einer Zelle in Askaban, und immerhin hatte er selbst gesagt, sie sollten den Spinnen folgen.
+[de] Etwas Nasses berührte Harrys Hand, er zuckte zurück und trat auf Rons Fuß.
+[de] Doch es war nur Fangs Nase.  
+[de] »Was überlegst du?«, fragte Harry Ron, dessen Augen er gerade noch im Licht des Zauberstabes erkennen konnte.
+~^
+140-141[pl]:- Zaszliśmy tak daleko... - odpowiedział Ron.
+137-138[de]:»Wenn wir schon so weit gekommen sind ...«, sagte Ron.
+~^
+141-142[pl]:Weszli więc między drzewa za szybko poruszającymi się cieniami pająków.
+138-140[de]:Und so folgten sie den huschenden Schatten der Spinnen in das Dickicht der Bäume.
+[de] Sie kamen jetzt nur noch langsam voran;
+~^
+142-143[pl]:Teraz musieli zwolnić kroku, bo drogę zagradzały im korzenie drzew i spróchniałe pniaki, ledwo widoczne w ciemności.
+140-141[de]:Wurzeln und Baumstümpfe waren ihnen im Weg, den sie in der fast völligen Dunkelheit kaum sehen konnten.
+~^
+143-144[pl]:Harry czuł oddech Kła na swojej dłoni.
+141-142[de]:Harry konnte Fangs heißen Atem auf seiner Hand spüren.
+~^
+144-145[pl]:Co jakiś czas przystawali, a Harry pochylał się, by odnaleźć pająki w bladym świetle różdżki.
+142-143[de]:Mehr als einmal mussten sie anhalten, und Harry kniete sich hin, um die Spinnen im Zauberstablicht auf dem Waldboden zu suchen.
+~^
+145-153[pl]:Przedzierali się tak przez las z pół godziny, strzępiąc szaty na nisko zwieszających się gałęziach i sękach.
+[pl] Po chwili poczuli, że teren opada, choć drzewa nadal rosły tak samo gęsto jak uprzednio.
+[pl] Nagle Kieł zaszczekał głośno, tak że podskoczyli ze strachu, a szczekanie odbiło się dalekim echem.
+[pl] - Co jest? - wydyszał Ron, rozglądając się nerwowo i ściskając Harry’ego za łokieć.
+[pl] - Tam się coś rusza - odpowiedział Harry zduszonym szeptem.
+[pl] - Posłuchaj...
+[pl] Chyba coś dużego.
+[pl] Nasłuchiwali.
+143-149[de]:Mindestens eine halbe Stunde lang, so kam es ihnen vor, streiften sie quer durch den Wald, wobei sich ihre Umhänge immer wieder an niedrigen Zweigen und Dornensträuchern verhedderten.
+[de] Nach einer Welle schien es sanft bergab zu gehen, auch wenn die Bäume so dicht standen wie zuvor.
+[de] Dann ließ Fang plötzlich ein mächtiges, widerhallendes Bellen ertönen, das Harry und Ron fast aus der Haut springen ließ.
+[de] »Was ist?«, sagte Ron laut, starrte in der Dunkelheit umher und umklammerte fest Harrys Arm.
+[de] »Da drüben bewegt sich was«, flüsterte Harry,»hör mal ... klingt wie etwas Großes.«
+[de] Sie lauschten.
+~^
+153-155[pl]:Gdzieś na prawo coś wielkiego łamało gałęzie, przedzierając się przez las.
+[pl] - O nieee - jęknął Ron.
+149-150[de]:In einiger Entfernung rechts von ihnen bahnte sich das große Etwas ästebrechend eine Schneise durch die Bäume.
+~^
+155-157[pl]:- O nie, nie, nie... - Zamknij się - warknął Harry.
+[pl] - Usłyszy cię.
+150-151[de]:»0 nein«, sagte Ron. »0 nein, o nein, o -« »Sei still«, zischte Harry, »es hört dich sonst noch.«
+~^
+157-158[pl]:- Usłyszy mnie? - zapytał Ron nienaturalnie wysokim głosem.
+151-152[de]:»Mich hören?«, sagte Ron mit unnatürlich hoher Stimme.
+~^
+158-160[pl]:- Już usłyszało.
+[pl] Cicho, Kieł!
+152-153[de]:»Es hat schon längst Fang gehört!«
+~^
+160-161[pl]:Ciemność zdawała się wciskać im gałki oczu do wnętrza czaszek, kiedy tak stali, zmartwiali z przerażenia.
+153-155[de]:Starr vor Schreck standen sie da und warteten.
+[de] Die Dunkelheit schien auf ihre Augäpfel zu drücken.
+~^
+161-163[pl]:Coś dziwnie zadudniło i zrobiło się cicho.
+[pl] - Jak myślisz, co ono teraz robi? - zapytał Harry.
+155-157[de]:Es gab ein merkwürdiges Rumpeln und dann herrschte Stille.  
+[de] »Was glaubst du, tut es gerade?«, fragte Harry.
+~^
+163-167[pl]:- Myślę, że przygotowuje się do skoku - odpowiedział Ron.
+[pl] Nasłuchiwali, nie śmiejąc się poruszyć.
+[pl] - M-myślisz, że sobie poszło? - szepnął Harry.
+[pl] - Nie wiem...
+157-160[de]:»Macht sich wohl zum Sprung bereit«, antwortete Ron.
+[de] Sie warteten, am ganzen Leib zitternd, und wagten nicht, sich zu bewegen.
+[de] »Glaubst du, es ist fort?«, flüsterte Ron.
+~^
+167-168[pl]:A potem z prawej strony buchnęło białe światło, tak przeraźliwie jaskrawe w tej ciemności, że obaj zasłonili oczy rękami.
+160-161[de]:»Weiß nicht -« jäh und grell strömte Licht von rechts her und sie mussten die Hände schützend vor die Augen halten.
+~^
+168-170[pl]:Kieł zaskomlał i rzucił się do ucieczki, ale uwiązł w jakimś kolczastym krzaku i skomlał jeszcze głośniej.
+[pl] - Harry! - krzyknął Ron, a głos załamał mu się nagłą ulgą.
+161-163[de]:Fang jaulte auf und wollte wegrennen, verhedderte sich jedoch in einem Dorngestrüpp und jaulte noch lauter.
+[de] »Harry!«, rief Ron, und die Stimme versagte ihm vor Erleichterung.
+~^
+170-175[pl]:- Harry, to nasz samochód!
+[pl] - Co?
+[pl] - Chodź!
+[pl] Harry poszedł za nim ku światłu, potykając się i przewracając, i w chwilę później wyszli z lasu na polanę.
+[pl] Auto pana Weasleya stało pośrodku polanki, tak małej, że gęste gałęzie drzew tworzyły nad nim dach.
+163-169[de]:»Harry, es ist unser Wagen!«
+[de] »Was?« »Komm mit« Stolpernd folgte er Ron.
+[de] Nach kurzer Zeit betraten sie eine Lichtung.
+[de] Inmitten eines dichten Baumkreises und unter einem festen Dach aus Zweigen stand
+[de] Mr Weasleys Wagen, seine Scheinwerfer strahlten in die Nacht.
+[de] niemand saß darin.
+~^
+175-176[pl]:Reflektory tryskały światłem, a w środku nie było nikogo, lecz nagle auto ruszyło samo ku Ronowi, jak wielki, turkusowy pies witający swojego pana.
+169-170[de]:Als Ron mit offenem Mund auf den Wagen zuging, kam er ihm langsam entgegen, wie ein großer, türkisgrüner Hund, der sein Herrchen begrüßt.
+~^
+176-178[pl]:- Było tutaj przez cały czas! - zawołał uradowany Ron, obchodząc samochód.
+[pl] - Popatrz.
+170-172[de]:»Er war die ganze Zeit hier«, sagte Ron erleichtert und ging um das Auto herum.
+[de] »Schau ihn dir an.
+~^
+178-179[pl]:Zupełnie zdziczało w tym lesie...
+172-173[de]:Der Wald hat ihn wild gemacht ...«
+~^
+179-181[pl]:Skrzydła bagażnika były podrapane i umazane błotem: najwidoczniej samochód sam próbował wydostać się z puszczy.
+[pl] Kieł nie był zachwycony nowym towarzystwem, trzymał się tuż przy Harrym, który czuł, jak pies drży ze strachu.
+173-176[de]:Die Flügel des Wagens waren zerkratzt und schlammbeschmiert.
+[de] Offenbar hatte er Gefallen daran gefunden, auf eigene Faust im Wald umherzuhoppeln.
+[de] Fang schien überhaupt nicht scharf auf ihn zu sein.
+~^
+181-182[pl]:Harry powoli odzyskał oddech i schował różdżkę do kieszeni szaty.
+176-177[de]:Zitternd drängte er sich an Harrys Beine, während Harry allmählich wieder ruhig zu atmen begann und den Zauberstab wieder in den Umhang steckte.
+~^
+182-184[pl]:- A myśmy się bali, że się na nas rzuci! - zawołał Ron, pochylając się nad maską i klepiąc ją pieszczotliwie.
+[pl] - Nieraz sobie myślałem, co z nim się stało!
+177-180[de]:»Und wir dachten, er würde uns angreifen!«, sagte Ron.  
+[de] Er lehnte sich an den Wagen und tätschelte ihn.
+[de] »Hab mich oft gefragt, wo er hin ist!«
+~^
+184-185[pl]:Harry rozglądał się po jasno oświetlonej ziemi w poszukiwaniu pająków, ale wszystkie pouciekały przed blaskiem reflektorów.
+180-181[de]:Harry suchte im Licht der Scheinwerfer nach Spinnen auf dem Boden, doch alle waren vor dem gleißenden Licht geflohen.
+~^
+185-186[pl]:- Straciliśmy ślad - powiedział.
+181-182[de]:»Wir haben ihre Spur verloren«, sagte er.
+~^
+186-188[pl]:- Chodź, musimy je odnaleźć.
+[pl] Ron milczał.
+182-184[de]:»Komm, gehen wir sie suchen.«
+[de] Ron schwieg.
+~^
+188-189[pl]:Nie poruszał się.
+184-185[de]:Er bewegte sich nicht.
+~^
+189-191[pl]:Oczy miał utkwione w jakiś punkt znajdujący się z dziesięć stóp nad ziemią, tuż za Harrym.
+[pl] Na jego twarzy zastygł wyraz przerażenia.
+185-187[de]:Seine Augen waren auf einen Punkt etwa drei Meter über dem Waldboden gerichtet, direkt hinter Harry.
+[de] In seinem Gesicht stand das helle Entsetzen.
+~^
+191-193[pl]:Harry nie zdążył nawet się obrócić.
+[pl] Rozległ się dziwny klekot i nagle poczuł, że coś długiego i włochatego chwyta go za pas i unosi, tak że zawisł głową w dół.
+187-189[de]:Harry hatte nicht einmal die Zeit, sich umzudrehen.
+[de] Er hörte ein lautes Klicken und plötzlich spürte er, wie etwas Langes und Haariges sich um seine Hüfte schlang und ihn von den Füßen riss, so dass er mit dem Gesicht nach unten baumelte.
+~^
+193-197[pl]:Zaczął się wyrywać i wierzgać, ogarnięty śmiertelnym strachem, znowu usłyszał złowieszcze klikanie i zobaczył, jak nogi Rona również odrywają się od ziemi.
+[pl] W następnej chwili coś pociągnęło go w ciemność między drzewami.
+[pl] Kieł zaskomlał i zaszczekał rozpaczliwie.
+[pl] Wisząc głową w dół, Harry spostrzegł, że to, co go wlokło w mroczny gąszcz, posuwało się na sześciu niezwykle długich, włochatych nogach, z których dwie przednie trzymały go mocno pod parą lśniących czarnych szczypców.
+189-193[de]:Zu Tode erschrocken schlug er um sich, dann hörte er ein neuerliches Klicken und Sah, wie sich auch Rons Beine vom Boden hoben.
+[de] Fang wimmerte und heulte - und im nächsten Moment wurde auch er vom Boden gerissen und verschwand zwischen den dunklen Bäumen.
+[de] Kopfüber hängend erkannte Harry, was ihn gepackt hatte.
+[de] Es hatte sechs ungeheuer lange, haarige Beine, und die vorderen zwei hielten ihn fest umschlungen, dicht unterhalb eines Paars schimmernd schwarzer Greifzangen.
+~^
+197-198[pl]:Za sobą słyszał przedzierające się przez krzaki podobne stworzenie, niewątpliwie taszczące Rona.
+193-194[de]:Hinter sich konnte er noch eine dieser Kreaturen hören, die zweifellos Ron fortschleppten.
+~^
+198-199[pl]:Potwory kierowały się ku samemu sercu lasu.
+194-195[de]:Sie krabbelten geradewegs ins Herz des Waldes.
+~^
+199-200[pl]:Harry słyszał Kła, który usiłował się uwolnić z uścisku trzeciego potwora, warcząc i skamląc, ale sam nie był w stanie nawet pisnąć, bo wszystko wskazywało, że głos zostawił przy samochodzie na polance.
+195-197[de]:Harry konnte Fang hören, wie er laut wimmernd versuchte, sich von einem dritten Monster loszukämpfen, doch er selbst hätte nicht schreien können, selbst wenn er gewollt hätte;
+[de] seine Stimme schien beim Wagen auf der Lichtung zurückgeblieben zu sein.
+~^
+200-201[pl]:Nie miał pojęcia, jak długo znajdował się w uścisku włochatych odnóży.
+197-198[de]:Er konnte nicht sagen, wie lange er in den Krallen des Wesens gewesen war;
+~^
+201-203[pl]:Wiedział tylko, że nagle ciemność nieco zbladła i że zasłane zeschłymi liśćmi podłoże lasu roi się od pająków.
+[pl] Wyciągając szyję to tu, to tam, zobaczył, że są na skraju olbrzymiej zapadliny wolnej od drzew.
+198-199[de]:er wusste nur, dass die Dunkelheit plötz lich so viel von ihrer Schwärze verlor, dass er etwas erkennen konnte - auf dem blätterbedeckten Boden wimmelte es jetzt von Spinnen.
+~^
+203-204[pl]:Wkrótce gwiazdy oświetliły najstraszniejszą scenę, jaką kiedykolwiek widział w życiu.
+199-200[de]:Er reckte den Kopf zur Seite und sah, dass sie den Rand einer gewaltigen Senke erreicht hatten, in der keine Bäume standen, so dass die Sterne ihr Licht auf das schlimmste Schauspiel warfen, das er je gesehen hatte.
+~^
+204-205[pl]:Pająki.
+200-201[de]:Spinnen.
+~^
+205-206[pl]:Nie małe pajączki, jak te, które mrowiły się po liściach.
+201-202[de]:Nicht kleine Spinnen wie jene, die über die Blätter auf dem Boden huschten.
+~^
+206-209[pl]:Pająki wielkości koni pociągowych, z ośmioma ślepiami, ośmioma nogami, czarne, włochate, gigantyczne.
+[pl] Ten, który go niósł, wlazł do jaru i pomknął w dół zbocza, ku połyskującej mglisto tulei utkanej z pajęczyny.
+[pl] Zewsząd zbiegały się inne potwory, klekocąc szczypcami na widok jego zdobyczy.
+202-205[de]:Spinnen, so groß wie Kutschpferde, achtäugig, achtbeinig, schwarz, haarig, gigantisch.
+[de] Das massige Exemplar, das Harry trug, machte sich auf den Weg den steilen Abhang hinunter, hinüber zu einem Netz, das wie eine Kuppel aus Nebelschleiern in der Mitte der Senke hing.
+[de] Seine Artgenossen schlossen einen engen Kreis um sie und angesichts seiner Beute klickten sie aufgeregt mit ihren Greifern.
+~^
+209-212[pl]:Pająk puścił go i Harry wylądował na czworakach.
+[pl] Ron i Kieł upadli koło niego.
+[pl] Kieł już nie skamlał, skulił się tam, gdzie upadł.
+205-207[de]:Die Spinne ließ ihn los und Harry landete mit allen Vieren auf dem Boden.
+[de] Ron und Fang schlugen neben ihm auf, Fang heulte nicht mehr, sondern kauerte sich still zusammen.
+~^
+212-213[pl]:Ron wyglądał dokładnie tak, jak Harry się czuł.
+207-208[de]:Ron sah genauso aus, wie Harry sich fühlte.
+~^
+213-214[pl]:Usta miał otwarte, jakby krzyczał, a oczy wyłaziły mu z orbit.
+208-209[de]:Sein Mund war weit aufgerissen zu einem stummen Schrei und seine Augen hüpften.
+~^
+214-215[pl]:Harry zdał sobie nagle sprawę, że pająk, który go tu przyniósł, coś mówi.
+209-210[de]:Plötzlich hörte Harry, dass die Spinne, die ihn hatte fallen lassen, etwas sagte.
+~^
+215-218[pl]:Trudno go było zrozumieć, bo po każdym słowie klekotał szczypcami.
+[pl] - Aragog! - zawołał.
+[pl] - Aragog!
+210-212[de]:Es war schwer zu verstehen, denn sie klickte bei jedem Wort mit ihren Greifzangen.
+[de] »Aragog!«, rief sie, »Aragog!«
+~^
+218-220[pl]:Z tulejowatej mglistej sieci wyłonił się powoli pająk wielkości młodego słonia.
+[pl] Włosy na tułowiu i nogach przyprószone miał siwizną, a oczy mlecznobiałe.
+212-213[de]:Und aus der Mitte der schleierartigen Netzkuppel tauchte ganz langsam eine Spinne von der Größe eines kleinen Elefanten auf Ins Schwarz ihres Körpers und ihrer Beine war Grau gemischt und jedes Auge auf ihrem hässlichen, greiferbestückten Kopf war milchig weiß.
+~^
+220-222[pl]:Był ślepy.
+[pl] - Co to jest? - zapytał, klikając szybko szczypcami.
+213-215[de]:Sie war blind.
+[de] »Was ist?«, sagte sie und klickte schnell mit ihren Greifern.
+~^
+222-223[pl]:- Ludzie - odklekotał pająk, który przy wlókł Harry’ego.
+215-216[de]:»Menschen«, klickte die Spinne, die Harry gefangen hatte.
+~^
+223-224[pl]:- Czy to Hagrid? - zapytał Aragog, zbliżając się i przewracając mlecznymi oczami.
+216-217[de]:»Ist es Hagrid?«, sagte Aragog und kam näher, seine acht milchigen Augen schwammen ziellos umher.  
+~^
+224-225[pl]:- Obcy - odklikał pająk, który przyniósł Rona.
+217-218[de]:»Fremde«, klickte die Spinne, die Ron gebracht hatte.
+~^
+225-226[pl]:- Zabijcie ich - powiedział Aragog, wyraźnie rozdrażniony.
+218-219[de]:»Tötet sie«, klickte Aragog gereizt.
+~^
+226-227[pl]:- Spałem...
+219-220[de]:»Ich habe geschlafen ...«
+~^
+227-228[pl]:- Jesteśmy przyjaciółmi Hagrida! - krzyknął Harry.
+220-221[de]:»Wir sind Freunde von Hagrid«, rief Harry.
+~^
+228-229[pl]:Serce uwięzło mu w gardle i tłukło się tam, jakby chciało odzyskać wolność.
+221-222[de]:Sein Herz schien die Brust verlassen zu haben und in der Kehle zu pochen.
+~^
+229-230[pl]:Klik, klik, klik, zaklekotały szczypce pająków zgromadzonych na dnie dziury.
+222-224[de]:Klick, klick, klick, machten die Spinnenzangen im Umkreis der Senke.
+[de] Aragog hielt kurz inne.
+~^
+230-231[pl]:- Hagrid nigdy nie przysyłał nam tu ludzi - powiedział wolno Aragog.
+224-225[de]:»Hagrid hat nie zuvor Menschen in unsere Senke geschickt«, sagte er träge.
+~^
+231-232[pl]:- Hagrid ma kłopoty - rzekł Harry, z trudem łapiąc oddech.
+225-226[de]:»Hagrid steckt in Schwierigkeiten«, sagte Harry, und sein Atem rasselte.
+~^
+232-234[pl]:- Właśnie dlatego przyszliśmy.
+[pl] - Kłopoty? - powtórzył sędziwy pająk i Harry dosłyszał troskę w klekocie jego szczypców.
+226-228[de]:»Deshalb sind wir gekommen.«
+[de] »In Schwierigkeiten?«, sagte die alte Spinne und Harry meinte ein wenig Besorgnis aus dem Klicken herauszuhören.
+~^
+234-235[pl]:- Ale dlaczego przysłał was?
+228-229[de]:»Aber warum hat er euch geschickt?«
+~^
+235-237[pl]:Harry pomyślał, że dobrze byłoby wstać, ale uznał, że lepiej nie próbować, bo nogi mogą odmówić mu posłuszeństwa.
+[pl] Przemówił więc z ziemi, tak spokojnie, jak potrafił: - Tam, w szkole, myślą, że Hagrid wypuścił... e... e... coś na uczniów.
+229-233[de]:Harry überlegte, ob er aufstehen sollte, ließ es jedoch sein;
+[de] er glaubte nicht, dass ihn seine Beine tragen würden.
+[de] Und so sprach er vom Boden aus, so ruhig er konnte.
+[de] »Oben in der Schule glauben sie, Hagrid hätte ein - ein etwas auf die Schüler losgelassen.
+~^
+237-239[pl]:Zabrali go do Azkabanu.
+[pl] Aragog zaklikał wściekle szczypcami, co podchwyciły wszystkie pająki zgromadzone na dnie jamy; zabrzmiało to jak aplauz, tyle że aplauz zwykle nie sprawiał, że Harry’emu robiło się niedobrze ze strachu.
+233-236[de]:Sie haben ihn nach Askaban gebracht.«
+[de] Aragog klickte wütend mit den Greifzangen und in der ganzen Senke tat es ihm die Schar der Spinnen gleich;
+[de] es klang wie Beifall, nur dass Harry davon normalerweise nicht übel vor Angst wurde.
+~^
+239-240[pl]:- Ale to było przed wieloma laty - powiedział Aragog.
+236-237[de]:»Aber das war vor vielen Jahren«, sagte Aragog ungehalten.
+~^
+240-241[pl]:- Wiele lat temu.
+237-238[de]:»Vor vielen, vielen Jahren.
+~^
+241-242[pl]:Dobrze to pamiętam.
+238-239[de]:Ich erinnere mich gut daran.
+~^
+242-243[pl]:Dlatego wyrzucili go ze szkoły.
+239-240[de]:Deshalb haben sie ihn gezwungen, die Schule zu verlassen.
+~^
+243-244[pl]:Myśleli, że to ja jestem potworem mieszkającym w lochu, który nazywają Komnatą Tajemnic.
+240-241[de]:Sie glaubten, ich sei das Monster, das, wie sie sagen, in der Kammer des Schreckens haust.
+~^
+244-245[pl]:Myśleli, że Hagrid otworzył Komnatę i uwolnił mnie.
+241-242[de]:Sie glaubten, Hagrid habe die Kammer geöffnet und mich freigelassen.«
+~^
+245-246[pl]:- A ty... ty nie wyszedłeś z Komnaty Tajemnic? - zapytał Harry, który czuł, jak pot ścieka mu powoli po czole.
+242-243[de]:»Und du ... du kamst nicht aus der Kammer des Schreckens?«, sagte Harry, dem jetzt der kalte Schweiß auf der Stirn ausbrach.  
+~^
+246-247[pl]:- Ja?! - zaklikał ze złością Aragog.
+243-244[de]:»Ich!«, sagte Aragog und klapperte zornig.
+~^
+247-248[pl]:- Ja nie urodziłem się w zamku.
+244-245[de]:»Ich wurde nicht im Schloss geboren.
+~^
+248-249[pl]:Pochodzę z dalekiego kraju.
+245-246[de]:Ich komme aus einem fernen Land.
+~^
+249-250[pl]:Pewien podróżnik dał mnie Hagridowi, kiedy byłem jajkiem.
+246-247[de]:Ein Reisender schenkte mich Hagrid, als ich noch ein Ei war.
+~^
+250-251[pl]:Hagrid był wtedy jeszcze chłopcem, ale dbał o mnie, ukrył mnie w komórce w zamku, żywił resztkami ze stołu.
+247-248[de]:Hagrid war damals noch ein Junge, doch er sorgte für mich und versteckte mich in einem Schrank im Schloss und fütterte mich mit Essensresten vom Tisch.
+~^
+251-252[pl]:Hagrid to mój dobry przyjaciel, to dobry człowiek.
+248-249[de]:Hagrid ist mein Freund und ein guter Mann.
+~^
+252-253[pl]:Kiedy dowiedziano się o moim istnieniu i oskarżono o zabicie tej dziewczynki, Hagrid mnie ocalił.
+249-250[de]:Als man mich entdeckte und mir die Schuld für den Tod des Mädchens gab, da beschützte er mich.
+~^
+253-254[pl]:Odtąd zamieszkałem tutaj, w lesie, a Hagrid wciąż mnie odwiedza.
+250-251[de]:Seither lebe ich hier im Wald, wo Hagrid mich immer noch besucht.
+~^
+254-255[pl]:Znalazł mi nawet żonę, Mosag, i sam widzisz, jak rozrosła się nasza rodzina...
+251-252[de]:Er hat sogar eine Frau für mich gefunden, Mosag, und du siehst, wie unsere Familie gewachsen ist;
+~^
+255-256[pl]:Dzięki dobroci Hagrida...
+252-253[de]:alles dank Hagrids Güte ...«
+~^
+256-257[pl]:Harry zebrał w sobie resztki odwagi.
+253-254[de]:Harry raffte den letzten Rest Mut zusammen.
+~^
+257-259[pl]:- Więc nigdy... nigdy nikogo nie zaatakowałeś?
+[pl] - Nigdy.
+254-256[de]:»Also hast du nie - nie jemanden angegriffen?«
+[de] »Niemals«, krächzte die alte Spinne.
+~^
+259-262[pl]:Byłoby to zgodne z moim instynktem, ale z szacunku do Hagrida nigdy nie zrobiłem krzywdy człowiekowi.
+[pl] Ciało tej dziewczynki znaleziono w łazience, a ja nigdy nie opuściłem komórki, w której wyrosłem.
+[pl] My, pająki, lubimy ciemność i spokój...
+256-259[de]:»Es wäre nur natürlich für mich gewesen, aber aus Achtung für Hagrid habe ich nie einem Menschen Leid angetan.
+[de] Die Leiche des Mädchens, das getötet wurde, hat man in einer Toilette gefunden.
+[de] Ich habe nie einen anderen Teil des Schlosses gesehen als den Schrank, in dem ich aufwuchs.
+~^
+262-263[pl]:- Ale... Wiesz, kto zabił tę dziewczynkę? - zapytał Harry.
+259-261[de]:Unsereins mag das Dunkle und die Stille ...« »Aber dann ... weißt du, was wirklich das Mädchen getötet hat?
+[de] «, sagte Harry. »
+~^
+263-264[pl]:- Bo cokolwiek to było, wróciło i znowu napada na ludzi...
+261-262[de]:Denn was immer es ist, es ist zurück und greift wieder Menschen an -«
+~^
+264-268[pl]:Jego słowa utonęły w złowrogim klekocie mnóstwa nóg.
+[pl] Otoczyły go podniecone czarne kształty.
+[pl] - To jest coś, co mieszka w zamku - rzekł Aragog.
+[pl] - Prastara istota, której my, pająki, boimy się najbardziej.
+262-265[de]:Seine Worte ertranken in lautem Zangenklicken und im Rascheln vieler langer Beine, die wütend über den Boden scharrten;
+[de] um ihn her huschten große schwarze Schatten.
+[de] »Das Wesen, das im Schloss lebt«, sagte Aragog, »ist eine uralte Kreatur, die wir Spinnen mehr als alles andere fürchten.
+~^
+268-271[pl]:Dobrze pamiętam, jak błagałem Hagrida, żeby pozwolił mi odejść, kiedy wyczułem obecność tej bestii w szkole.
+[pl] - Co to jest?
+[pl] Znowu rozległo się podniecone klekotanie i chrzęst chitynowych odnóży; pająki zbliżały się do Harry’ego coraz bardziej.
+265-269[de]:Ich erinnere mich noch gut, wie ich Hagrid angefleht habe, mich gehen zu lassen, als ich spürte, dass das Biest in der Schule umherstreifte.«
+[de] »Was ist es?«, fragte Harry eindringlich.  
+[de] Abermals lautes Klicken und Rascheln;
+[de] die Spinnen schienen den Kreis enger zu ziehen.
+~^
+271-272[pl]:- My o tym nie mówimy! - krzyknął Aragog.
+269-270[de]:»Wir sprechen nicht davon!«, sagte Aragog zornig.
+~^
+272-273[pl]:- Nie nazywamy tego!
+270-271[de]:»Wir nennen es nicht beim Namen!
+~^
+273-274[pl]:Nawet Hagridowi nigdy nie wyjawiłem imienia tej strasznej istoty, choć prosił mnie o to wiele razy.
+271-272[de]:Nicht einmal Hagrid habe ich je den Namen dieser fürchterlichen Kreatur genannt, obwohl er mich viele Male gefragt hat.«
+~^
+274-275[pl]:Harry nie chciał przeciągać struny, zwłaszcza wobec tłumu pająków otaczających go ze wszystkich stron.
+272-273[de]:Harry wollte nicht weiter auf ihn einreden, nicht angesichts all dieser Spinnen, die von allen Seiten her auf ihn zudrängten.
+~^
+275-276[pl]:Aragog sprawiał wrażenie, jakby go zmęczyła ta rozmowa.
+273-274[de]:Aragog schien des Redens müde zu sein.
+~^
+276-277[pl]:Wycofywał się powoli w głąb sieci, natomiast jego krewniacy wciąż przysuwali się do Harry’ego i Rona.
+274-275[de]:Langsam wich er in sein Kuppelnetz zurück, doch seine Artgenossen drangen ganz allmählich weiter auf Harry und Ron vor.
+~^
+277-278[pl]:- No to my już sobie pójdziemy! - zawołał Harry rozpaczliwie do Aragoga, słysząc za sobą szelest liści.
+275-276[de]:»Dann gehen wir jetzt einfach«, rief Harry verzweifelt Aragog zu, und schon raschelten die Blätter hinter ihm.
+~^
+278-280[pl]:- Pójdziemy? - powtórzył powoli Aragog.
+[pl] - Nie sądzę...
+276-277[de]:»Gehen?«, sagte Aragog langsam.
+~^
+280-281[pl]:- Ale... ale... - Moi synowie i moje córki nigdy nie skrzywdzą Hagrida, bo taka jest moja wola.
+277-278[de]:»Ich glaube nicht ...« »Aber ... aber ...« »Meine Söhne und Töchter rühren Hagrid nicht an, auf meinen Befehl hin.
+~^
+281-284[pl]:Nie mogę jednak zakazać im świeżego mięsa, kiedy samo włazi do naszej nory.
+[pl] Zegnajcie, przyjaciele Hagrida!
+[pl] Harry odwrócił się gwałtownie.
+278-281[de]:Doch ich kann ihnen frisches Fleisch nicht verwehren, wenn es so bereitwillig in unsere Mitte kommt.
+[de] Adieu, Freund von Hagrid.«
+[de] Harry wirbelte herum.
+~^
+284-285[pl]:Tuż przed nim piętrzyła się zwarta ściana pająków, klekocących zawzięcie i błyskających ślepiami osadzonymi w obrzydliwych czarnych głowach...
+281-283[de]:Wenige Meter von ihm entfernt ragte eine feste Wand aus Spinnen empor, die mit ihren Greifern klickten.
+[de] Ihre Augen schimmerten wie hässliche schwarze Knöpfe.
+~^
+285-289[pl]:Harry sięgnął po różdżkę, ale wiedział już, że to ich nie uratuje.
+[pl] Pająków było za dużo.
+[pl] Postanowił jednak powstać i umrzeć, walcząc.
+[pl] A kiedy to uczynił, rozległ się głośny warkot i jaskrawe światło omiotło skraj jamy.
+283-285[de]:Schon als er nach seinem Zauberstab griff, wusste Harry, dass es nichts nützen würde, es waren zu viele.
+[de] Doch als er aufzustehen versuchte, bereit, kämpfend zu sterben, hörte er einen lauten, lang gezogenen Ton, und ein Lichtblitz flammte durch die Senke.
+~^
+289-290[pl]:Samochód pana Weasleya zjeżdżał na dno zapadliny, rycząc, dudniąc, wyjąc klaksonem i błyskając reflektorami, a przede wszystkim roztrącając pająki jak suche krzaki.
+285-286[de]:Mr Weasleys Wagen donnerte den Abhang herunter, mit gleißenden Scheinwerfern und schrill hupend, und er rempelte dabei rechts und links Spinnen um;
+~^
+290-299[pl]:Niektóre przewróciły się na grzbiety i leżały, wymachując długimi nogami w powietrzu.
+[pl] Samochód zatrzymał się przed Harrym i Ronem.
+[pl] Drzwi otworzyły się z rozmachem.
+[pl] - Bierz Kła! - ryknął Harry, dając nurka na przednie siedzenie.
+[pl] Ron złapał brytana wpół i wrzucił go, skamlącego, na tylne siedzenie.
+[pl] Drzwi zatrzasnęły się.
+[pl] Ron nawet nie dotknął pedału gazu, bo samochód wcale tego nie potrzebował: silnik zaryczał i ruszyli pod górę, roztrącając jeszcze więcej pająków.
+[pl] Wyjechali z zapadliny i wkrótce zaczęli się przedzierać przez gęsty las.
+[pl] Gałęzie łomotały w szyby, koła podskakiwały na korzeniach, kiedy samochód sprytnie omijał najgorsze wyrwy i najgrubsze pnie, posuwając się po szlaku, który najwidoczniej znał.
+286-293[de]:mehrere von ihnen landeten auf dem Rücken, und ihre endlos langen Beine ruderten durch die Luft.
+[de] Kreischend hielt der Wagen vor Harry und Ron und die Türen flogen auf,  »Hol Fang!«, schrie Harry und hechtete auf den Beifahrersitz;
+[de] Ron packte den Saurüden um den Bauch und sie landeten japsend auf dem Rücksitz - die Türen schlugen zu Ron saß absolut reglos da, doch der Wagen brauchte ihn nicht;
+[de] mit dröhnendem Motor fuhren sie davon und warfen unterwegs noch mehr Spinnen auf den Rücken;
+[de] sie rasten den Abhang hoch und aus der Senke heraus.
+[de] Bald jagten sie krachend durch den Wald, Äste peitschten gegen den Wagen, während er sich pfiffig seinen Weg durch die breitesten Baumlücken bahnte.
+[de] Offenbar wusste er, wo es langging.
+~^
+299-301[pl]:Harry zerknął z boku na Rona.
+[pl] Ron miał wciąż otwarte usta, ale oczy nie wyłaziły mu już orbit.
+293-295[de]:Harry drehte sich zu Ron um.
+[de] Sein Mund war immer noch zu einem stummen Schrei geöffnet, doch seine Augen hüpften nicht mehr.
+~^
+301-302[pl]:- Nic ci nie jest?
+295-296[de]:»Bist du in Ordnung?«
+~^
+302-307[pl]:Ron wpatrywał się przed siebie, nie mogąc wykrztusić słowa.
+[pl] Auto przedzierało się dzielnie przez poszycie, miażdżąc gałązki z głośnym trzaskiem, Kieł wył na tylnym siedzeniu, a Harry zobaczył, jak odpada boczne lusterko, kiedy o centymetry minęli gruby pień dębu.
+[pl] Po kilkunastu minutach hałaśliwej jazdy po dzikich wertepach i chaszczach las przerzedził się i znowu pojawiły się gwiazdy.
+[pl] Samochód zatrzymał się tak raptownie, że mało brakowało, a wylecieliby przez przednią szybę.
+[pl] Znajdowali się na skraju lasu.
+296-302[de]:Ron starrte geradeaus und brachte kein Wort heraus.
+[de] Der Wagen krachte durch das Unterholz.
+[de] Fang heulte laut auf, und als sie knapp an einer großen Eiche vorbeizischten, brach ein Seitenspiegel ab.
+[de] Nach zehn lärmerfüllten, holprigen Minuten lichteten sich die Bäume, und Harry konnte hier und da einen Fleck Himmel erkennen.
+[de] Der Wagen stoppte so j« äh, dass sie fast durch die Windschutzscheibe flogen.
+[de] Sie hatten den Waldrand erreicht.
+~^
+307-308[pl]:Kieł rzucił się na okno, pragnąc za wszelką cenę uwolnić się z tego straszliwego pudła, a kiedy Harry otworzył drzwi, wyskoczył i z podkulonym ogonem pomknął prosto do chatki Hagrida.
+302-303[de]:Fang warf sich gegen das Fenster, so ungestüm drängte er nach draußen, und als Harry die Tür öffnete, peste er mit eingezogenem Schwanz los durch die Bäume hindurch auf Hagrids Hütte zu.
+~^
+308-309[pl]:Harry również wysiadł, a po minucie albo dwóch Ron też odzyskał czucie w nogach i wytoczył się na zewnątrz.
+303-304[de]:Auch Harry stieg aus und nach einer Weile schien auch Ron seine Glieder wieder zu spüren und folgte ihm mit steifen Bewegungen und starrem Blick.
+~^
+309-310[pl]:Harry poklepał pieszczotliwie karoserię, a auto cofnęło się do lasu i znikło im z oczu.
+304-305[de]:Harry gab dem Wagen einen dankbaren Klaps und der fuhr zurück in den Wald und verschwand.
+~^
+310-313[pl]:Harry wrócił do chatki Hagrida po pelerynę-niewidkę.
+[pl] Kieł wlazł do swojego koszyka i schował się pod koc, wciąż dygocąc ze strachu.
+[pl] Kiedy Harry wyszedł, znalazł Rona nękanego gwałtownymi mdłościami na grządce dyni.
+305-308[de]:Harry ging noch einmal in Hagrids Hütte, um den Tarnumhang zu holen.
+[de] Fang lag zitternd unter einer Decke in  seinem Korb.
+[de] Als Harry wieder nach draußen kam, sah er Ron im Kürbisbeet stehen und sich herzhaft übergeben.
+~^
+313-314[pl]:- Idźcie za pająkami - wybełkotał Ron, ocierając usta rękawem.
+308-309[de]:»Folgt den Spinnen«, sagte Ron matt und wischte sich mit dem Ärmel den Mund ab.
+~^
+314-315[pl]:- Nigdy tego Hagridowi nie przebaczę.
+309-310[de]:»Das werd ich Hagrid nie verzeihen.
+~^
+315-316[pl]:Mamy szczęście, że jeszcze żyjemy.
+310-311[de]:Wir können von Glück reden, dass wir am Leben sind.«
+~^
+316-317[pl]:- Na pewno myślał, że Aragog nie zrobi krzywdy jego przyjaciołom - powiedział Harry.
+311-312[de]:»Ich wette, er glaubte, Aragog würde seinen Freunden nichts tun«, sagte Harry.
+~^
+317-318[pl]:- I to jest właśnie problem z tym Hagridem! - krzyknął Ron, bębniąc pięściami w ścianę chatki.
+312-313[de]:»Das ist ja gerade Hagrids Problem!«, sagte Ron und hämmerte mit der Faust gegen die Hüttenwand.
+~^
+318-320[pl]:- Zawsze mu się wydaje, że potwory nie są tak złe, jak wyglądają!
+[pl] I dokąd go to zaprowadziło?
+313-314[de]:»Er glaubt ständig, Monster seien nicht so schlimm wie ihr Ruf, und du siehst ja, wohin ihn das gebracht hat!
+~^
+320-325[pl]:Do celi w Azkabanie!
+[pl] - Teraz dygotał już na całym ciele.
+[pl] - I po co nas wysłał do tego lasu?
+[pl] Czego się tam dowiedzieliśmy?
+[pl] - Że Hagrid nigdy nie otworzył Komnaty Tajemnic - powiedział Harry, zarzucając pelerynę na Rona i ciągnąc go za rękę.
+314-319[de]:In eine Zelle in Askaban!«
+[de] Er zitterte jetzt hilflos am ganzen Körper.
+[de] »Was hat es gebracht, uns da reinzuschicken?
+[de] Was haben wir herausgefunden, möchte ich gern wissen?«
+[de] »Dass Hagrid die Kammer des Schreckens nicht geöffnet hat«, sagte Harry, warf Ron den Umhang über und zog ihn am Arm, um ihn zum Gehen zu bewegen.
+~^
+325-326[pl]:- Jest niewinny.
+319-320[de]:»Er war unschuldig.«
+~^
+326-327[pl]:Ron prychnął głośno.
+320-321[de]:Von Ron kam ein lautes Schnauben.
+~^
+327-329[pl]:Trzymanie Aragoga w komórce najwyraźniej nie mieściło się w jego rozumieniu niewinności.
+[pl] Zbliżali się do zamku i Harry obciągnął pelerynę, żeby nie wystawały im spod niej stopy, a potem pchnął skrzypiące dębowe drzwi.
+321-323[de]:Offenbar stellte er sich etwas anderes unter Unschuld vor, als Aragog in einem Schrank zu päppeln.
+[de] Das Schloss ragte nun über ihnen auf und Harry zog am Tarnurnhang, damit ihre Füße bedeckt waren.
+~^
+329-330[pl]:Przeszli ostrożnie przez salę wejściową i wspięli się po marmurowych schodach, wstrzymując oddech, kiedy mijali korytarze, po których spacerowali czuwający w nocy wartownicy.
+323-324[de]:Sie schoben vorsichtig das knarrende Tor auf, durchquerten die Eingangshalle, stiegen die Marmortreppe empor und huschten mit angehaltenem Atem durch die Gänge, in denen aufmerksame Wächter umherliefen.
+~^
+330-331[pl]:W końcu znaleźli się w bezpiecznym pokoju wspólnym Gryffindoru, gdzie na kominku wciąż żarzył się ogień.
+324-326[de]:Endlich erreichten sie den Gemeinschaftsraum der Gryffindors, wo vom Feuer nur noch glühende Asche übrig geblieben war.
+[de] Hier waren sie in Sicherheit.
+~^
+331-332[pl]:Zdjęli pelerynę i krętymi schodami wspięli się do swojego dormitorium.
+326-327[de]:Sie nahmen den Tarnumhang ab und kletterten die Wendeltreppe zum Schlafsaal hoch.
+~^
+332-333[pl]:Ron padł na łóżko, nawet się nie rozbierając.
+327-328[de]:Ron sank ins Bett, ohne sich die Mühe zu machen, die Kleider auszuziehen.
+~^
+333-334[pl]:Harry nie był jednak śpiący.
+328-329[de]:Harry jedoch fühlte sich nicht beson ders müde.
+~^
+334-337[pl]:Usiadł na skraju łóżka, rozmyślając nad tym, co powiedział mu Aragog.
+[pl] W zamku nadal ukrywa się gdzieś potwór...
+[pl] potwór straszliwy jak sam Voldemort, skoro inne potwory nie chciały nawet wymówić jego imienia.
+329-331[de]:Er saß auf dem Bettrand und dachte angestrengt über alles nach, was Aragog gesagt hatte.
+[de] Die Kreatur, die irgendwo im Schloss lauerte, hörte sich nach einer Art monsterhaftem Voldemort an - selbst andere Ungetüme wollten es nicht beim Namen nennen.
+~^
+337-338[pl]:Po tych wszystkich okropnych przygodach on i Ron nie zbliżyli się wcale do odkrycia, co to za potwór, gdzie mieszka i w jaki sposób petryfikuje swoje ofiary.
+331-332[de]:Doch er und Ron waren keinen Schritt weitergekommen bei ihrem Versuch, herauszufinden, was es war oder wie es seine Opfer versteinerte.
+~^
+338-340[pl]:Nawet Hagrid nigdy się nie dowiedział, kto mieszka w Komnacie Tajemnic.
+[pl] Harry wyciągnął się na łóżku i oparł na poduszkach, obserwując księżyc, patrzący na niego przez wąskie okno wieży.
+332-335[de]:Selbst Hagrid hatte nie gewusst, was in der Kammer des Schreckens steckte.
+[de] Harry schwang die Beine aufs Bett und lehnte sich gegen die Kissen.
+[de] Durch das Turmfenster funkelte der Mond.
+~^
+340-342[pl]:Nie miał pojęcia, co jeszcze mogą zrobić.
+[pl] Po raz kolejny znaleźli się w ślepym zaułku.
+335-337[de]:Er wusste nicht, was sie noch tun konnten.
+[de] Überall waren sie auf lose Enden gestoßen.
+~^
+342-343[pl]:Riddle schwytał niewłaściwą osobę, dziedzic Slytherina przyczaił się i nikt nie wiedział, czy to on, czy ktoś inny otworzył Komnatę tym razem.
+337-338[de]:Riddle hatte den Falschen erwischt, der Erbe Slytherins war davongekommen, und keiner konnte sagen, ob es dieselbe Person war oder eine andere, die diesmal die Kammer geöffnet hatte.
+~^
+343-344[pl]:Nie było już kogo zapytać.
+338-339[de]:Es blieb niemand übrig, den sie fragen konnten.
+~^
+344-345[pl]:Harry leżał, wciąż rozmyślając nad tym, co powiedział mu Aragog.
+339-340[de]:Harry legte sich hin und dachte über die Worte Aragogs nach.
+~^
+345-349[pl]:Ogarniała go już senność, kiedy nagle zaświtało mu w głowie coś, co wydało mu się ich ostatnią nadzieją.
+[pl] Usiadł gwałtownie na łóżku.
+[pl] - Ron - syknął w ciemności.
+[pl] - Ron!
+340-341[de]:Er war schon halb eingeschlafen, als ihm etwas einfiel, was ihm wie ihre letzte Hoffnung vorkam, und plötzlich saß er wieder kerzengerade auf dem Bett.
+~^
+349-351[pl]:Ron zaskomlał zupełnie jak Kieł, otworzył oczy, rozejrzał się nieprzytomnie i zobaczył Harry’ego.
+[pl] - Ron...
+341-342[de]:»Ron«, zischte er durch die Dunkelheit, »Ron -« Ron wachte mit einem jaulen auf, das an Fang erinnerte, blickte wild umher und erkannte dann Harry.
+~^
+351-352[pl]:ta dziewczyna, która zginęła.
+342-343[de]:»Ron - dieses Mädchen, das gestorben ist.
+~^
+352-353[pl]:Aragog powiedział, że znaleziono ją w łazience - szeptał gorączkowo, nie zważając na niecierpliwe posapywanie Neville’a w kącie sypialni.
+343-344[de]:Aragog sagte, sie sei in einer Toilette gefunden worden«, sagte Harry und achtete nicht auf Nevilles schnaubendes Schnarchen in der Ecke.
+~^
+353-354[pl]:- A jeśli ona nigdy nie opuściła łazienki?
+344-345[de]:»Was, wenn sie dieses Klo nie verlassen hat?
+~^
+354-355[pl]:Może nadal tam jest?
+345-346[de]:Was, wenn sie immer noch da ist?«
+~^
+355-356[pl]:Ron przetarł oczy, marszcząc czoło w świetle księżyca.
+346-347[de]:Ron rieb sich die Augen und blinzelte stirnrunzelnd durch das Mondlicht.
+~^
+356-358[pl]:I nagle do niego dotarło.
+[pl] - Chyba nie myślisz, że... że to Jęcząca Marta?
+
+347-349[de]:Und dann begriff auch er.
+[de] »Du glaubst doch nicht etwa - nicht die Maulende Myrte?«
+
