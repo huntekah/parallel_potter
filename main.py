@@ -137,14 +137,15 @@ def match_sentences(ch_known, ch_learn, chapter_n):
 
 
 def main():
-    chapter_n = 13
-    ch_de = get_german_chapter(chapter_n).replace("\n"," ")
-    ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
-    print(f"{len(ch_pl)=},{len(ch_de)=}")
-    # ch_de = open("chapters/ch7de.txt", "r").read().replace("\n", " ").replace("\r", "")
-    # ch_pl = open("chapters/ch7pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
-    # ch_en = open("chapters/ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
-    match_sentences(ch_pl, ch_de,chapter_n)
+    for chapter_n in range(1,19):
+        print(f"Chapter {chapter_n}")
+        ch_de = get_german_chapter(chapter_n).replace("\n"," ")
+        ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
+        print(f"{len(ch_pl)=},{len(ch_de)=}")
+        # ch_de = open("chapters/ch7de.txt", "r").read().replace("\n", " ").replace("\r", "")
+        # ch_pl = open("chapters/ch7pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+        # ch_en = open("chapters/ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
+        match_sentences(ch_pl, ch_de,chapter_n)
 
 
 if __name__ == "__main__":
