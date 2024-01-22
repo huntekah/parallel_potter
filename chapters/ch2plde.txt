@@ -1,0 +1,636 @@
+0-1[pl]:ROZDZIAŁ DRUGI OSTRZEŻENIE ZGREDKA  Harry’emu udało się nie krzyknąć, ale niewiele brakowało.
+0-1[de]:Dobbys Warnung Harry schaffte es gerade noch, einen Aufschrei zu unterdrücken.
+~^
+1-4[pl]:Mały stwór siedzący na jego łóżku miał wielkie uszy nietoperza i wyłupiaste zielone oczy wielkości piłek tenisowych.
+[pl] Harry natychmiast poznał te oczy: to one wpatrywały się w niego z żywopłotu.
+[pl] Z dołu dobiegł głos Dudleya: - Państwo pozwolą, że wezmę ich płaszcze.
+1-5[de]:Das kleine Geschöpf auf dem Bett hatte große, fledermausähnliche Ohren und hervorquellende grüne Augäpfel, so groß wie Tennisbälle.
+[de] Harry war sofort klar, dass dieses Wesen ihn heute Morgen aus der Hecke heraus beobachtet hatte.
+[de] Während sie sich anstarrten, hörte Harry Dudleys Stimme aus der Diele.
+[de] »Darf ich Ihnen bitte die Jacken abnehmen, Mr und Mrs Mason?«
+~^
+4-5[pl]:Stwór ześliznął się z łóżka i skłonił tak nisko, że koniec jego długiego, cienkiego nosa dotknął dywanu.
+5-6[de]:Das Geschöpf glitt vom Bett herunter und verneigte sich so tief, dass die Spitze seiner langen schmalen Nase den Teppich berührte.
+~^
+5-7[pl]:Harry zauważył, że stwór ma na sobie coś, co przypominało starą poszewkę na poduszkę, z dziurami na ręce i nogi.
+[pl] - Eee... cześć - powiedział niepewnie Harry.
+6-8[de]:Harry sah, dass es eine Art alten Kissenüberzug anhatte, mit Löchern für die Arme und die Beine.
+[de] »Ahm - hallo«, sagte Harry unsicher.
+~^
+7-8[pl]:- Harry Potter! - zapiszczał stwór tak przenikliwym głosem, iż Harry był pewny, że słyszą go na dole.
+8-9[de]:»Harry Potter«, sagte das Geschöpf mit so durchdringender Piepsestimme, dass Harry ganz sicher war, man würde sie unten hören.
+~^
+8-11[pl]:- Ach, sir, Zgredek od tak dawna pragnął pana zobaczyć...
+[pl] Cóż za zaszczyt...
+[pl] - Dź-dziękuję - wyjąkał Harry, przemykając się pod ścianą i siadając przy biurku, tuż obok Hedwigi, która jak zwykle spała w swojej klatce.
+9-12[de]:»Dobby hat so lange darauf gewartet, Sie zu treffen, Sir ... Welche Ehre ...«
+[de] »D-danke«, sagte Harry.
+[de] Er drängte sich an der Wand entlang und ließ sich auf seinen Schreibtischstuhl sinken, direkt neben die schlafende Hedwig in ihrem großen Käfig.
+~^
+11-16[pl]:Chciał zapytać: „Czym jesteś?”, ale pomyślał, że zabrzmiałoby to zbyt obcesowo, więc zapytał: - Kim jesteś?
+[pl] - Jestem Zgredek, łaskawy panie - odpowiedział stwór.
+[pl] - Po prostu Zgredek.
+[pl] Domowy skrzat.
+[pl] - Och... naprawdę?
+12-16[de]:Er wollte fragen: Was bist du eigentlich?, doch das hielt er für ziemlich grob, und so sagte er: »Wer sind Sie?«
+[de] »Dobby, Sir.
+[de] Einfach Dobby.
+[de] Dobby, der Hauself«, sagte das Geschöpf  »Ach - wirklich?«, sagte Harry.
+~^
+16-17[pl]:Eee... nie chcę być nieuprzejmy, ale... to niezbyt szczęśliwa pora na odwiedziny domowego skrzata w mojej sypialni.
+16-17[de]:»Ahm - ich möchte ja nicht unhöflich sein, aber - das ist nicht der passende Augenblick für mich, um einen Hauselfen im Schlafzimmer zu haben.«
+~^
+17-19[pl]:Z salonu dobiegł głośny, sztuczny śmiech ciotki Petunii.
+[pl] Skrzat zwiesił głowę.
+17-19[de]:Aus dem Wohnzimmer drang Tante Petunias schrilles und falsches Lachen empor.
+[de] Der Elf ließ den Kopf hängen.
+~^
+19-21[pl]:- Oczywiście bardzo się cieszę - powiedział szybko Harry - ale... ee... czy jest jakiś szczególny powód tych odwiedzin?
+[pl] - Och, tak, łaskawy panie - odpowiedział duszek.
+19-22[de]:»Natürlich freue ich mich, Sie zu treffen«, setzte Harry rasch hinzu, »aber, ähm, gibt es einen besonderen Grund für Ihren Besuch?«
+[de] »0 ja, Sir«, sagte Dobby mit ernster Miene.
+[de] »Dobby ist hier, Sir, um Ihnen zu sagen ...
+~^
+21-22[pl]:- Zgredek przyszedł, żeby panu powiedzieć, sir... to dość trudne...
+22-23[de]:Es ist schwierig, Sir ...
+~^
+22-28[pl]:Zgredek nie wie, od czego zacząć...
+[pl] - Usiądź.
+[pl] - Harry wskazał łóżko.
+[pl] Ku jego przerażeniu, skrzat wybuchnął płaczem, a robił to bardzo hałaśliwie.
+[pl] - U-usiądź! - zaszlochał.
+[pl] - Jeszcze nigdy, nigdy... Harry’emu wydało się, że głosy na dole jakby przycichły.
+23-28[de]:Dobby weiß nicht, wo er anfangen soll ...«
+[de] »Setzen Sie sich«, sagte Harry höflich und deutete aufs Bett.
+[de] Zu seinem Entsetzen brach der Elf in Tränen aus - sehr geräuschvolle Tränen.
+[de] »S-setzen Sie sich!«, jammerte er, »nie ... niemals ...«
+[de] Harry meinte die Stimmen unten verstummen zu hören.
+~^
+28-36[pl]:- Bardzo przepraszam - wyszeptał.
+[pl] - Nie chciałem cię urazić, naprawdę.
+[pl] - Urazić?! - zaskrzeczał przenikliwie skrzat.
+[pl] - Jeszcze nigdy żaden czarodziej nie zaprosił Zgredka, żeby usiadł...
+[pl] jak równy z równym...
+[pl] Harry, starając się jednocześnie powiedzieć „Ciiiicho!” i mieć uprzejmą minę, zdołał nakłonić Zgredka, by usiadł z powrotem na łóżku, co też skrzat uczynił, nękany głośną czkawką.
+[pl] Przypominał teraz wielką i bardzo brzydką lalkę.
+[pl] W końcu udało mu się opanować czkawkę i zaczął wpatrywać się w Harry’ego z niemym zachwytem.
+28-31[de]:»Es tut mir Leid«, flüsterte er, »ich wollte Sie nicht verletzen -«
+[de] »Dobby verletzen«, schluchzte der Elf, »Noch nie hat ein Zauberer Dobby aufgefordert, sich zu setzen - von Gleich zu Gleich -« Harry zischte »Schhh« und versuchte Dobby zugleich tröstend anzublicken und einladend aufs Bett zu weisen.
+[de] Da saß er nun wieder, wie eine große, hässliche Puppe mit einem Schluckauf Endlich sammelte er sich und starrte Harry mit einem Ausdruck der Bewunderung in den großen wässrigen Augen an.
+~^
+36-38[pl]:- Chyba nie spotkałeś wielu przyzwoitych czarodziejów - powiedział Harry, próbując dodać mu otuchy.
+[pl] Zgredek potrząsnął głową.
+31-32[de]:»Sie haben bestimmt noch keinen anständigen Zauberer kennen gelernt«, sagte Harry aufmunternd.
+~^
+38-41[pl]:A potem, bez ostrzeżenia, zeskoczył z łóżka i zaczął walić głową w szybę, wrzeszcząc: - Zły Zgredek!
+[pl] Niedobry Zgredek!
+[pl] - Przestań...
+32-35[de]:Dobby schüttelte den Kopf, Dann, ohne Warnung, sprang er auf und begann den Kopf wie rasend gegen das Fenster zu hämmern.
+[de] »Böser Dobby!
+[de] Böser Dobby!«, schrie er.
+~^
+41-42[pl]:co ty wyprawiasz! - syknął Harry, podbiegając do niego i zaciągając go z powrotem na łóżko.
+35-36[de]:»Nicht doch, was tun Sie denn da?«, zischte Harry, sprang  auf und zerrte Dobby zurück aufs Bett.
+~^
+42-45[pl]:Hedwiga obudziła się z wyjątkowo donośnym skrzekiem i zaczęła tłuc skrzydłami w pręty klatki.
+[pl] - Zgredek musi się sam ukarać - oznajmił duszek mający już lekkiego zeza.
+[pl] - Zgredek o mały włos nie wyraziłby się źle o swojej rodzinie...
+36-38[de]:Hedwig wachte mit einem lauten Kreischen auf und schlug wild mit den Flügeln gegen die Käfigstangen.
+[de] »Dobby musste sich bestrafen, Sir«, sagte der Elf, nun mit einem leichten Schielen in den Augen, »fast hätte Dobby schlecht von seiner Familie gesprochen, Sir ...«
+~^
+45-46[pl]:- O swojej rodzinie?
+38-39[de]:»Ihrer Familie?«
+~^
+46-48[pl]:- O rodzinie czarodziejów, której Zgredek służy, sir...
+[pl] Zgredek jest domowym skrzatem... zobowiązanym służyć na wieki jednemu domowi i jednej rodzinie...
+39-41[de]:»Die Zaubererfamilie, der Dobby dient, Sir ...
+[de] Dobby ist ein Hauself, er muss immer und ewig in einem Haus bleiben und einer Familie dienen ...«
+~^
+48-51[pl]:- Oni wiedzą, że tutaj jesteś? - zapytał z zaciekawieniem Harry.
+[pl] - Och, nie, sir, nie...
+[pl] Zgredek będzie musiał ukarać się surowo za to, że tu przyszedł, żeby się zobaczyć z wielmożnym panem, sir.
+41-44[de]:»Wissen die, dass Sie hier sind?«, fragte Harry neugierig.
+[de] Dobby erschauderte.
+[de] »0 nein, Sir, nein ... Dobby wird sich ganz fürchterlich bestrafen müssen, weil er zu Ihnen gekommen ist, Sir.
+~^
+51-52[pl]:Za karę Zgredek przytrzaśnie sobie uszy drzwiczkami piekarnika.
+44-46[de]:Dobby wird deswegen seine Ohren in die Herdklappe klemmen müssen.
+[de] Wenn die Familie das jemals erfährt, Sir -«
+~^
+52-53[pl]:Gdyby się dowiedzieli... och, sir... - Ale przecież się połapią, jak sobie przy trzaśniesz uszy drzwiczkami piekarnika...
+46-47[de]:»Aber wird es nicht auffallen, wenn Sie Ihre Ohren in die Herdklappe klemmen?«
+~^
+53-54[pl]:- Nie sądzę, sir.
+47-48[de]:»Das bezweifelt Dobby, Sir.
+~^
+54-57[pl]:Zgredek wciąż musi się za coś karać.
+[pl] Pozwalają mi na to.
+[pl] Czasami nawet mi przypominają...
+48-51[de]:Dobby muss sich immer für irgendetwas bestrafen, Sir.
+[de] Sie lassen Dobby machen, Sir.
+[de] Manchmal erinnern sie mich daran, dass ich ein paar Strafen vergessen habe ...«
+~^
+57-60[pl]:- Ale dlaczego po prostu nie odejdziesz?
+[pl] Nie uciekniesz?
+[pl] - Och, nie, domowy skrzat nie może sam odejść.
+51-53[de]:»Aber warum gehen Sie dann nicht fort?
+[de] Fliehen?«
+~^
+60-61[pl]:Trzeba go odprawić.
+53-54[de]:»Ein Hauself muss freigelassen werden, Sir.
+~^
+61-62[pl]:A ta rodzina nigdy Zgredka nie odprawi...
+54-55[de]:Und die Familie wird Dobby niemals freilassen...
+~^
+62-64[pl]:Zgredek będzie służył tej rodzinie aż do śmierci, sir...
+[pl] Harry spojrzał na niego ze zdumieniem.
+55-57[de]:Dobby wird der Familie d jenen, bis er stirbt, Sir ...«
+[de] Harry starrte ihn an.
+~^
+64-65[pl]:- A ja myślałem, że już nie wytrzymam następnych czterech tygodni w tym domu - powiedział.
+57-58[de]:»Und ich dachte, ich hätte ein elendes Los, weil ich noch vier Wochen hier bleiben muss«, sagte er.
+~^
+65-66[pl]:- Przy twojej rodzinie Dursleyowie wydają się prawie przyzwoitymi ludźmi.
+58-59[de]:»Dagegen benehmen sich die Dursleys ja fast menschlich.
+~^
+66-67[pl]:I nikt nie może ci jakoś pomóc?
+59-60[de]:Kann Ihnen niemand helfen?
+~^
+67-73[pl]:Może ja bym mógł?
+[pl] Prawie natychmiast pożałował tych słów.
+[pl] Z ust Zgredka popłynęła kaskada jękliwych wyrazów wdzięczności.
+[pl] - Błagam - szepnął gorączkowo Harry.
+[pl] - Trochę ciszej, proszę.
+[pl] Jeśli Dursleyowie coś usłyszą, jeśli się dowiedzą, że tu jesteś... - Harry Potter pyta, czy mógłby pomóc Zgredkowi...
+60-64[de]:ich vielleicht?«
+[de] Noch im selben Augenblick hätte sich Harry auf die Zunge beißen mögen.
+[de] Wieder wehklagte Dobby laut.  
+[de] »Bitte«, zischelte Harry angespannt, »bitte, seien Sie still, wenn die Dursleys etwas hören, wenn sie erfahren, dass Sie hier sind -« »Harry Potter fragt, ob er Dobby helfen kann ...
+~^
+73-77[pl]:Zgredek słyszał o twojej wielkości, sir, ale nie znał bezmiaru twojej wspaniałomyślności...
+[pl] Harry poczuł, że płoną mu policzki.
+[pl] - Kto ci naopowiadał jakichś bzdur o mojej wielkości?
+[pl] Nie jestem nawet najlepszym uczniem.
+64-66[de]:Dobby hat von Ihrer Größe gehört, Sir, aber von Ihrer Güte hat er nie erfahren ...«
+[de] Harry, dem jetzt ganz heiß im Gesicht war, sagte: »Was immer Sie über meine Größe gehört haben, ist völliger Unsinn.
+~^
+77-79[pl]:To Hermiona jest na pierwszym miejscu, ona... I urwał, bo sama myśl o Hermionie sprawiła mu ból.
+[pl] - Harry Potter jest wielki, dobry i skromny - rzekł z podziwem Zgredek, a jego wyłupiaste oczy zapłonęły blaskiem.
+66-68[de]:Ich bin nicht einmal Jahresbester in Hogwarts, das ist Hermine, sie -« Doch hielt er sofort inne, denn der Gedanke an Hermine schmerzte ihn.
+[de] »Harry Potter ist demütig und bescheiden«, sagte Dobby ehrfürchtig, und seine kugelrunden Augen erglühten.
+~^
+79-86[pl]:- Harry Potter nawet nie wspomina o swoim zwycięstwie nad Tym, Którego Imienia Nie Wolno Wymawiać.
+[pl] - Mówisz o Voldemorcie?
+[pl] Zgredek wetknął sobie pięści do uszu i jęknął: - Ach, sir, nie wypowiadaj tego imienia!
+[pl] Nie wypowiadaj go!
+[pl] - Przepraszam - powiedział szybko Harry.
+[pl] - Znam wielu, którzy tego nie lubią...
+[pl] mój przyjaciel Ron...
+68-71[de]:»Harry Potter spricht nicht von seinem Triumph über jenen, dessen Name nicht genannt werden darf -« »Voldemort?«, sagte Harry.
+[de] Dobby schlug die Hände gegen seine Fledermausohren und stöhnte: »Aah, sprechen Sie den Namen nicht aus, Sir, nennen Sie nicht den Namen!«
+[de] »Tut mir Leid«, sagte Harry rasch, »ich weiß, viele Leute mögen das nicht - mein Freund Ron -«
+~^
+86-87[pl]:Znowu urwał.
+71-72[de]:Wieder brach er ab.
+~^
+87-89[pl]:Wspomnienie Rona również sprawiło mu ból.
+[pl] Skrzat nachylił się do niego, a oczy mu płonęły jak dwa reflektory.
+72-74[de]:Auch an Ron zu denken tat weh.
+[de] Dobby beugte sich zu Harry herüber, die Augen hell wie Scheinwerfer.
+~^
+89-91[pl]:- Zgredek słyszał, jak mówiono - zachrypiał - że Harry Potter spotkał Czarnego Pana po raz drugi, zaledwie parę tygodni temu...
+[pl] I że Harry Potter znowu wyszedł z tego cało.
+74-75[de]:»Dobby ist zu Ohren gekommen«, sagte er mit heiserer Stimme, »dass Harry Potter dem Schwarzen Lord ein zweites Mal begegnet ist, erst vor ein paar Wochen ... und dass Harry Potter abermals entkommen ist.«
+~^
+91-92[pl]:Harry kiwnął głową, a w oczach Zgredka nagle zabłysły łzy.
+75-76[de]:Harry nickte und in Dobbys Augen glitzerten Tränen.
+~^
+92-93[pl]:- Ach, wielmożny panie! - zaszlochał, ocierając twarz rogiem poszewki od poduszki, którą miał na sobie.
+76-77[de]:»Ach, Sir«, stöhnte er und tupfte sich mit einer Ecke seines schmuddeligen Kissenbezugs das Gesicht.
+~^
+93-94[pl]:- Harry Potter jest mężny i odważny!
+77-78[de]:»Harry Potter ist kühn und tapfer!
+~^
+94-95[pl]:Uniknął już tylu zagrożeń!
+78-79[de]:Er hat schon so vielen Gefahren die Stirn geboten!
+~^
+95-96[pl]:Ale Zgredek przyszedł, żeby ostrzec Harry’ego Pottera, tak, nawet jeśli będzie musiał za to przytrzasnąć sobie uszy drzwiczkami od pieca...
+79-80[de]:Aber Dobby ist gekommen, um Harry Potter zu  schützen, um ihn zu warnen, selbst wenn er dafür die Ohren in die Herdklappe klemmen muss ...
+~^
+96-97[pl]:Harry Potter nie powinien wracać do Hogwartu.
+80-81[de]:Harry Potter darf nicht nach Hogwarts zurückkehren.«
+~^
+97-99[pl]:Zapanowała cisza przerywana tylko szczękaniem widelców i noży w jadalni oraz odległym dudnieniem głosu wuja Vernona.
+[pl] - C-cooo? - wyjąkał Harry.
+81-83[de]:Stille trat ein, nur unterbrochen vom Klingen der Messer und Gabeln im Esszimmer und dem fernen Dröhnen von Onkel Vernons Stimme.
+[de] »W-was?«, stammelte Harry.
+~^
+99-101[pl]:- Ale ja tam muszę wrócić... semestr zaczyna się pierwszego września.
+[pl] Tylko to powstrzymuje mnie przed ucieczką z tego domu.
+83-85[de]:»Aber ich muss zurück - das Schuljahr beginnt am ersten September.
+[de] Das ist das Einzige, worauf ich mich freuen kann.
+~^
+101-102[pl]:Nie wiesz, jak tu jest.
+85-86[de]:Sie wissen nicht, wie es hier ist.
+~^
+102-105[pl]:Ja nie należę do tego domu.
+[pl] Ja należę do twojego świata...
+[pl] w Hogwarcie.
+86-88[de]:Hier bin ich nicht zu Hause.
+[de] Ich gehöre nach Hogwarts.«
+~^
+105-106[pl]:- Nie, nie, nie - zaskrzeczał Zgredek, kręcąc tak gwałtownie głową, że uszy mu załopotały.
+88-89[de]:»Nein, nein, nein«, quiekte Dobby und schüttelte so heftig den Kopf, dass ihm die Ohren ins Gesicht schlackerten.
+~^
+106-113[pl]:- Harry Potter musi pozostać tam, gdzie jest bezpieczny.
+[pl] Harry Potter jest za wielki, za dobry, abyśmy go stracili.
+[pl] Jeśli Harry Potter wróci do Hogwartu, znajdzie się w śmiertelnym niebezpieczeństwie.
+[pl] - Dlaczego? - zapytał Harry, zupełnie zbity z tropu.
+[pl] - Tam jest spisek.
+[pl] Spisek, który ma na celu coś strasznego.
+[pl] Jeśli się powiedzie, w tym roku w Szkole Magii i Czarodziejstwa stanie się coś strasznego - wyszeptał Zgredek, dygocąc na całym ciele.
+89-95[de]:»Harry Potter muss da bleiben, wo er in Sicherheit ist.
+[de] Er ist zu groß, zu gut, um verloren zu gehen.
+[de] Wenn Harry Potter nach Hogwarts zurückgeht, ist er in tödlicher Gefahr.«
+[de] »Warum?«, fragte Harry verdutzt.
+[de] »Es gibt eine Verschwörung, Harry Potter.
+[de] Eine Verschwörung mit dem Ziel, dieses Jahr in der Hogwarts-Schule für Hexerei und Zauberei die schrecklichsten Dinge geschehen zu lassen«, flüsterte Dobby und zitterte plötzlich am ganzen Leib.
+~^
+113-114[pl]:- Zgredek wie o tym od paru miesięcy, sir.
+95-96[de]:»Dobby weiß es schon seit Monaten, Sir.
+~^
+114-118[pl]:Harry Potter nie może narażać się na pewną zgubę.
+[pl] Harry Potter jest zbyt ważną osobą!
+[pl] - O czym ty mówisz? - zapytał Harry.
+[pl] - Jakie straszne rzeczy?
+96-99[de]:Harry Potter darf sich nicht in Gefahr bringen.
+[de] Er ist zu wichtig, Sir!«
+[de] »Was für schreckliche Dinge?«, fragte Harry sofort nach.
+~^
+118-119[pl]:Kto spiskuje?
+99-100[de]:»Wer steckt dahinter?«
+~^
+119-121[pl]:Zgredek wydał z siebie dziwny odgłos, jakby się czymś dławił, po czym zaczął walić głową w ścianę.
+[pl] - No dobra! - krzyknął Harry, łapiąc skrzata za ramię, by go powstrzymać.
+100-102[de]:Dobby gab ein seltsam würgendes Geräusch von sich und schlug dann, wie von Sinnen, den Kopf gegen die Wand.
+[de] »Na schön!«, rief Harry und packte den Elfen am Arm, um ihn zu beruhigen.
+~^
+121-122[pl]:- Nie wolno ci powiedzieć, rozumiem.
+102-103[de]:»Sie können es nicht sagen, verstehe.
+~^
+122-123[pl]:Ale dlaczego mnie ostrzegasz?
+103-104[de]:Aber warum warnen Sie mich?«
+~^
+123-130[pl]:- Nagle wpadła mu do głowy niezbyt miła myśl.
+[pl] - Zaraz, zaraz... czy to ma coś wspólnego z Vol... z Sam-Wiesz-Kim?
+[pl] Możesz po prostu potrząsnąć albo kiwnąć głową - dodał pospiesznie, widząc, że głowa Zgredka znowu zbliża się niebezpiecznie do ściany.
+[pl] Zgredek powoli pokręcił głową.
+[pl] - Nie... to nie Ten, Którego Imienia Nie Wolno Wymawiać.
+[pl] Ale wciąż wytrzeszczał oczy, jakby chciał dać Harry’emu coś do zrozumienia.
+[pl] Harry nie miał jednak zielonego pojęcia, o kim mowa.
+104-110[de]:Plötzlich kam ihm ein beunruhigender Gedanke.
+[de] »Warten Sie - das hat doch nichts mit Vol - Verzeihung -, mit Du-weißt-schon-wem zu tun, oder doch?
+[de] Sie könnten einfach den Kopf schütteln oder nicken«,  fügte er hastig hinzu, da Dobbys Kopf sich schon wieder Besorgnis erregend nahe zur Wand hin neigte.
+[de] Dobby schüttelte bedächtig den Kopf.
+[de] »Nein - nicht jener, der nicht genannt werden darf, Sir -« Dobbys Augen jedoch waren weit aufgerissen und schienen Harry einen Hinweis geben zu wollen.
+[de] Harry allerdings war vollkommen ratlos.
+~^
+130-132[pl]:- On chyba nie ma brata, co?
+[pl] Zgredek potrząsnął głową i jeszcze bardziej wytrzeszczył oczy.
+110-113[de]:»Er hat doch keinen Bruder, oder?«
+[de] Dobby schüttelte den Kopf und riss die Augen noch weiter auf.
+[de] »Tja dann;
+~^
+132-133[pl]:- No to nie wiem, kto jeszcze mógłby dokonać jakichś strasznych rzeczy w Hogwarcie - powiedział Harry.
+113-114[de]:ich habe keine Ahnung, wer außer ihm die Macht hätte, in Hogwarts schreckliche Dinge geschehen zu lassen«, sagte Harry.
+~^
+133-137[pl]:- Przecież tam jest Dumbledore... chyba wiesz, kto to jest Dumbledore, co?
+[pl] Skrzat skinął głową.
+[pl] - Zgredek dobrze wie, sir.
+[pl] Albus Dumbledore jest największym dyrektorem, jakiego miał Hogwart.
+114-117[de]:»Ich meine, da ist zwar Dumbledore -Sie wissen doch, wer Dumbledore ist?«
+[de] Dobby neigte den Kopf »Albus Dumbledore ist der großartigste Schulleiter, den Hogwarts je hatte.
+[de] Dobby weiß das, Sir.
+~^
+137-138[pl]:Zgredek słyszał, że moc Dumbledore’a równa jest mocy Tego, Którego Imienia Nie Wolno Wymawiać, nawet u szczytu jego potęgi.
+117-118[de]:Dobby hat gehört, dass Dumbledores Zauberkräfte jenem, der nicht genannt werden darf, auch auf der Höhe seiner Macht ebenbürtig waren.
+~^
+138-139[pl]:Ale... sir - zniżył głos do natarczywego szeptu - są moce, których nawet Dumbledore nie... moce, których żaden przyzwoity czarodziej nie...
+118-119[de]:Aber, Sir, es gibt Zauberkräfte, die Dumbledore nicht ... Kräfte, die kein anständiger Zauberer ...«
+~^
+139-140[pl]:I zanim Harry zdążył go powstrzymać, zeskoczył z łóżka, chwycił z biurka lampę i zaczął się nią okładać po głowie, wydając z siebie ogłuszające wrzaski.
+119-120[de]:Und bevor Harry ihn festhalten konnte, stürzte sich Dobby vom Bett, packte Harrys Schreibtischlampe und schlug sie sich unter ohrenbetäubendem Jaulen um den Kopf.
+~^
+140-143[pl]:Na dole nagle zaległa cisza.
+[pl] Dwie sekundy później Harry usłyszał dochodzące z przedpokoju kroki wuja Vernona i jego głos: - Ach, ten nieznośny Dudley znowu nie wyłączył telewizora!
+[pl] - Szybko!
+120-123[de]:Unten im Erdgeschoss trat urplötzlich Stille ein.
+[de] Harrys Herz begann zu rasen und einen Augenblick später hörte er Onkel Vernon in die Diele treten und rufen:
+[de] »Dudley muss mal wieder seinen Fernseher angelassen haben, der kleine Schlingel!« »Schnell!
+~^
+143-144[pl]:Schowaj się! - syknął Harry, wpychając Zgredka do szafy, zamykając za nim drzwi i rzucając się na łóżko w ostatniej chwili, kiedy poruszyła się klamka w drzwiach pokoju.
+123-125[de]:Da hinein!«, zischte Harry, drängte Dobby in den Schrank, schloss die Tür und warf sich aufs Bett.
+[de] Schon drehte sich der Türknopf.
+~^
+144-145[pl]:- Co ty... do diabła... wyprawiasz? - zapytał wuj Vernon przez zaciśnięte zęby, zbliżając nabiegłą krwią twarz do twarzy Harry ego.
+125-126[de]:»Was zum Teufel treibst du hier?«, knurrte Onkel Vernon  mit zusammengebissenen Zähnen und beugte sich mit dem Gesicht ekelhaft nahe zu Harry hinab.
+~^
+145-147[pl]:- Właśnie zniszczyłeś mi puentę najlepszego dowcipu o japońskim graczu w golfa...
+[pl] Jeszcze jeden dźwięk
+126-127[de]:»Du hast mir gerade die Pointe von dem japanischen Golferwitz vermasselt ...
+~^
+147-148[pl]:, a pożałujesz, że się urodziłeś, przeklęty bachorze!
+127-128[de]:Noch ein Mucks, und du wirst dir wünschen, nie geboren worden zu sein, Junge«
+~^
+148-150[pl]:I wyszedł z pokoju, starając się nie robić hałasu.
+[pl] Harry, trzęsąc się cały, wypuścił Zgredka z szafy.
+128-131[de]:Mit stampfenden Schritten verließ er das Zimmer.
+[de] Harry befreite
+[de] Dobby mit zitternden Händen aus dem Schrank.
+~^
+150-151[pl]:- Widzisz, jak tu jest?
+131-132[de]:»Sehen Sie, wie es hier ist«, sagte er.
+~^
+151-152[pl]:Już rozumiesz, dlaczego muszę wrócić do Hogwartu?
+132-133[de]:»Sehen Sie, warum ich nach Hogwarts zurückmuss?
+~^
+152-154[pl]:To jedyne miejsce, w którym mam...
+[pl] no, myślę, że mam przyjaciół.
+133-134[de]:Das ist der einzige Ort, wo ich naja, wo ich glaube, dass ich Freunde habe.«
+~^
+154-156[pl]:- Przyjaciół, którzy nawet nie napiszą do Harry’ego Pottera? - zapytał chytrze skrzat.
+[pl] - Myślę, że są po prostu... zajęci - odrzekł Harry ze złością.
+134-137[de]:»Freunde, die Harry Potter nicht einmal schreiben?«, sagte Dobby hinterhältig.
+[de] »Ich denke, sie waren einfach -
+[de] Moment mal«, sagte Harry stirnrunzelnd.
+~^
+156-157[pl]:- A ty skąd wiesz, że moi przyjaciele do mnie nie piszą?
+137-138[de]:»Woher wissen Sie, dass meine Freunde mir nicht geschrieben haben?«
+~^
+157-162[pl]:Zgredek przestąpił dwa razy z nogi na nogę.
+[pl] - Niech się Harry Potter nie złości na Zgredka...
+[pl] Zgredek zrobił to dla jego dobra...
+[pl] - Zatrzymywałeś moje listy?
+[pl] - Zgredek ma je tutaj - odpowiedział duszek.
+138-141[de]:Dobby scharrte mit den Füßen.
+[de] »Harry Potter darf nicht zornig sein auf Dobby - Dobby hat es nur gut gemeint -« »Haben Sie meine Briefe abgefangen?«
+[de] »Dobby hat sie hier, Sir«, sagte der Elf.
+~^
+162-163[pl]:Odsunąwszy się od Harry’ego na bezpieczną odległość, wyjął gruby plik kopert z poszewki na poduszkę, w którą był odziany.
+141-142[de]:Hurtig entfernte er sich aus Harrys Reichweite und zog einen dicken Packen Umschläge aus seinem Kissenbezug.
+~^
+163-164[pl]:Harry poznał z daleka kaligrafię Hermiony, niedbałe pismo Rona, a nawet jakieś gryzmoły, które mogły być pismem gajowego Hogwartu, Hagrida.
+142-143[de]:Harry konnte Hermines fein säuberliche Handschrift erkennen, Rons wirres Gekrakel und selbst ein Gekritzel, das aussah, als stammte es von Hagrid, dem Wildhüter von Hogwarts.
+~^
+164-165[pl]:Zgredek zerknął z niepokojem na Harry’ego.
+143-144[de]:Dobby blinzelte ängstlich zu Harry empor.
+~^
+165-168[pl]:- Niech się Harry Potter nie gniewa...
+[pl] Zgredek miał nadzieję...
+[pl] no, jeśli Harry Potter pomyśli, że jego przyjaciele o nim zapomnieli... może nie zechce wrócić do szkoły...
+144-147[de]:»Harry Potter darf nicht böse sein ...
+[de] Dobby hat gehofft ... wenn Harry Potter glaubt, dass seine Freunde ihn vergessen hätten ...
+[de] dann würde Harry Potter vielleicht nicht mehr auf die Schule zurückwollen, Sir ...«
+~^
+168-169[pl]:Harry nie słuchał.
+147-148[de]:Harry hörte ihm nicht zu.
+~^
+169-170[pl]:Wyciągnął szybko rękę, chcąc mu wyrwać listy, ale Zgredek jeszcze szybciej odskoczył.
+148-149[de]:Er schnappte nach den Briefen, doch Dobby entkam ihm mit einem Sprung.
+~^
+170-171[pl]:- Harry Potter je dostanie, jeśli da Zgredkowi słowo, że nie wróci do Hogwartu.
+149-150[de]:»Harry Potter kann sie haben, Sir, wenn er Dobby sein  Wort gibt, dass er nicht nach Hogwarts zurückkehrt.
+~^
+171-176[pl]:Ach, jaśnie wielmożny czarodzieju, tam czeka cię straszliwe niebezpieczeństwo!
+[pl] Powiedz, że tam nie wrócisz!
+[pl] - Nie - powiedział Harry ze złością.
+[pl] - Oddaj mi listy od moich przyjaciół!
+[pl] - A więc Harry Potter nie pozostawia Zgredkowi wyboru - rzekł ponuro duszek.
+150-153[de]:Aah, Sir, dort droht eine Gefahr, der Sie nicht begegnen dürfen!
+[de] Sagen Sie, dass Sie nicht zurückgehen, Sir« »Nein«, sagte Harry zornig, »geben Sie mir die Briefe!«
+[de] »Dann lässt Harry Potter Dobby keine Wahl«, sagte der Elf traurig.
+~^
+176-177[pl]:I zanim Harry zdążył się ruszyć z miejsca, podbiegł do drzwi, otworzył je i zbiegł po schodach.
+153-154[de]:Noch bevor Harry auch nur die Hand rühren konnte, war Dobby schon zur Zimmertür gehechtet, hatte sie geöffnet und war die Treppe hinuntergerast.
+~^
+177-178[pl]:Harry’emu zaschło w ustach, żołądek podskoczył mu do gardła, ale rzucił się za nim w pogoń, starając się nie robić hałasu.
+154-155[de]:Mit trockenem Mund und zusammengezogenem Magen setzte ihm Harry nach, so leise er konnte.
+~^
+178-179[pl]:Przeskoczył przez ostatnie sześć stopni, wylądował jak kot na dywanie i rozejrzał się, szukając Zgredka.
+155-157[de]:Die letzten sechs Stufen übersprang er und landete katzengleich auf dem Läufer.
+[de] Er sah sich nach Dobby um.
+~^
+179-180[pl]:Z jadalni dobiegł go głos wuja Vernona: „...niech pan opowie Petunii tę zabawną historię o amerykańskich hydraulikach, panie Mason, bardzo chciała ją usłyszeć...”
+157-159[de]:Aus dem Esszimmer hörte er Onkel Vernons Stimme: »... erzählen Sie doch bitte Petunia diese unglaublich witzige Geschichte über die amerikanischen Klempner, Mrs.
+[de] Mason, meine Frau möchte sie unbedingt hören ...«
+~^
+180-181[pl]:Harry przebiegł przez przedpokój, wpadł do kuchni i poczuł, że po prostu nie ma już żołądka.
+159-161[de]:Harry rannte die Diele entlang und in die Küche.
+[de] Was er dort sah, gab seinem Magen den Rest.
+~^
+181-193[pl]:Wspaniała legumina ciotki Petunii unosiła się pod sufitem.
+[pl] Na szczycie kredensu siedział Zgredek.
+[pl] - Nie - zachrypiał Harry.
+[pl] - Błagam cię... oni mnie zabiją...
+[pl] - Harry Potter musi przyrzec, że nie wróci do szkoły...
+[pl] - Zgredku...
+[pl] błagam...
+[pl] - To proszę to przyrzec.
+[pl] - Nie mogę!
+[pl] Zgredek spojrzał na niego z żalem.
+[pl] - Więc Zgredek musi to zrobić.
+[pl] Dla dobra Harry’ego.
+161-167[de]:Tante Petunias Meisterwerk von einem Nachtisch, der Berg aus Sahne und kandierten Veilchenblättern, schwebte knapp unter der Decke.
+[de] Auf einem Schrank in der Ecke kauerte Dobby.
+[de] »Nein«, ächzte Harry, »bitte nicht ... die bringen mich um ...« »Harry Potter muss versprechen, dass er nicht in die Schule zurückgeht -« »Dobby - bitte ...«
+[de] »Sagen Sie es, Sir -« »Ich kann nicht -«
+[de] Dobby warf ihm einen schmerzerfüllten Blick zu.
+[de] »Dann muss Dobby es tun, Sir, nur zum Wohle Harry Potters.«  
+~^
+193-194[pl]:Legumina spadła na podłogę z okropnym łoskotem.
+167-168[de]:Die Platte fiel mit einem ohrenbetäubenden Splittern zu Boden.
+~^
+194-196[pl]:Krem obryzgał ściany i szyby w oknach.
+[pl] Po chwili rozległ się donośny trzask, jakby ktoś strzelił z bata, i Zgredek zniknął.
+168-170[de]:Sahne spritzte auf Fenster und Wände.
+[de] Mit einem peitschenden Knall verschwand Dobby.
+~^
+196-198[pl]:W pokoju jadalnym rozległy się krzyki i po chwili do kuchni wpadł wuj Vernon.
+[pl] Harry stał pośrodku, nie mogąc ruszyć się z miejsca, cały umazany legumina ciotki Petunii.
+170-172[de]:Aus dem Esszimmer drangen Schreie und Onkel Vernon kam in die Küche gestürzt:
+[de] Harry stand vor ihm, starr vor Schreck, von Kopf bis Fuß mit Tante Petunias Nachtisch besprenkelt.
+~^
+198-200[pl]:Z początku wydawało się, że wuj Vernon zbagatelizuje to wydarzenie („To tylko nasz siostrzeniec... okropnie nerwowy...
+[pl] obcy ludzie wyprowadzają go z równowagi, więc trzymamy go na górze”).
+172-174[de]:Zunächst schien es, als würde es Onkel Vernon gelingen, die Situation zu retten (»Nur unser Neffe - ganz verwirrt
+[de] -Fremde machen ihm Angst, daher sollte er oben bleiben ...«).
+~^
+200-201[pl]:Zagonił zszokowanych Masonów z powrotem do pokoju jadalnego, przyrzekł Harry’emu, że obedrze go ze skóry, i wręczył mu mopa.
+174-175[de]:Er drängte die überraschten Masons mit sanfter Gewalt zurück ins Esszimmer, versprach Harry, wenn der Besuch weg sei, würde es Prügel setzen, dass ihm Hören und Sehen verginge, und drückte ihm einen Wischmopp in die Hand.
+~^
+201-202[pl]:Ciotka Petunia wygrzebała z lodówki jakieś lody, a Harry, wciąż dygocąc, zaczął doprowadzać kuchnię do porządku.
+175-176[de]:Tante Petunia grub etwas Eis aus dem Kühlschrank, und Harry, immer noch zitternd, begann die Küche zu wischen.
+~^
+202-203[pl]:Wuj Vernon miałby jeszcze szansę zawarcia transakcji życia - gdyby nie sowa.
+176-177[de]:Vielleicht hätte Onkel Vernon seinen Auftrag doch noch unter Dach und Fach bringen können - wenn da nicht die Eule gewesen wäre.
+~^
+203-204[pl]:Ciotka Petunia właśnie częstowała wszystkich miętowymi pralinkami, kiedy przez okno jadalni wpadła wielka sowa uszata, upuściła list prosto na głowę pani Mason i wyleciała.
+177-178[de]:Tante Petunia reichte gerade eine Schachtel mit Pfefferminzplätzchen herum, als eine riesige Schleiereule durchs Esszimmerfenster geflattert kam, einen Brief auf Mrs Masons Kopf fallen ließ und wieder hinausflog.
+~^
+204-205[pl]:Pani Mason wrzasnęła jak upiór i wybiegła z domu, wykrzykując coś o wariatach.
+178-179[de]:Kreischend rannte Mrs Mason aus dem Haus, lauthals über »diese Verrückten« schimpfend.
+~^
+205-206[pl]:Pan Mason został jeszcze przez chwilę, żeby powiedzieć Dursleyom, że jego żona panicznie boi się wszelkich ptaków, i zapytać, czy uważają to za dowcipne.
+179-181[de]:Mr Mason nahm sich noch die Zeit zu erklären, dass seine Frau eine Heidenangst vor Vögeln aller Art und Größe habe.
+[de] Ob die Dursleys solche Scherze denn witzig fänden?
+~^
+206-207[pl]:Harry stał w kuchni, ściskając w ręku kij mopa, kiedy wuj Vernon zbliżył się do niego z diabelskim błyskiem w małych oczkach.
+181-182[de]:Harry stand in der Küche und klammerte sich am Wischmopp fest, als Onkel Vernon mit einem dämonischen Glimmen in den kleinen Augen auf ihn zumarschierte.
+~^
+207-209[pl]:- Przeczytaj to! - syknął mściwie, wyciągając do niego list, który dostarczyła sowa.
+[pl] - No, dalej, czytaj!
+182-183[de]:»Lies ihn«, zischelte er bösartig und fuchtelte mit dem Brief, den die Eule gebracht hatte, in der Luft herum.
+~^
+209-210[pl]:Harry wziął list.
+183-184[de]:»Nur zu - lies ihn«  Harry nahm den Brief in die Hand.
+~^
+210-211[pl]:Nie były to życzenia urodzinowe.
+184-186[de]:Ein Geburtstagsbrief war es nicht.
+[de] Sehr geehrter
+~^
+211-212[pl]:Szanowny Panie Potter, z naszego poufnego źródła otrzymaliśmy właśnie wiadomość, że tego wieczoru, o godzinie dziewiątej dwadzieścia, w miejscu Pańskiego przebywania użyto Zaklęcia Swobodnego Zwisu.
+186-187[de]:Mr Potter, wie uns zur Kenntnis gelangt ist, wurde an Ihrem Wohnort heute Abend um zwölf Minuten nach neun ein Schwebezauber verwendet.
+~^
+212-213[pl]:Jak Pan wie, niepełnoletnim czarodziejom nie wolno używać czarów poza szkołą.
+187-188[de]:Wie Sie wissen, ist es minderjährigen Zauberern nicht gestattet, außerhalb der Schule zu zaubern.
+~^
+213-214[pl]:Dalsze takie poczynania mogą doprowadzić do usunięcia Pana z rzeczonej szkoły (Ustawa o Uzasadnionych Restrykcjach wobec Niepełnoletnich Czarodziejów, 1875, paragraf C.)
+188-190[de]:Weitere Zaubertätigkeit Ihrerseits kann zum Verweis von besagter Schule führen (Erlass zur Vernunftgemäßen
+[de] Beschränkung der Zauberei Minderjähriger, 1875, Abschnitt C).
+~^
+214-215[pl]:Pragniemy również Panu przypomnieć, że wszelka działalność magiczna, która mogłaby być zauważona przez obywateli pozamagicznych (mugoli) stanowi poważne wykroczenie, zgodnie z 13 rozdziałem Zasad Tajności Międzynarodowej Konfederacji Czarodziejów.
+190-191[de]:Wir möchten Sie zugleich daran erinnern, dass jegliche magische Tätigkeit, die den Mitgliedern der nichtmagischen Gemeinschaft (Muggel) aufzufallen droht, gemäß Abschnitt 13 des Geheimhaltungsabkommens der Internationalen Zauberervereinigung ein schweres Vergehen ist.
+~^
+215-216[pl]:Życzę udanych wakacji!
+191-192[de]:Genießen Sie Ihre Ferien!
+~^
+216-218[pl]:Z wyrazami szacunku Mafalda Hopkirk WYDZIAŁ NIEWŁAŚCIWEGO UŻYWANIA CZARÓW
+[pl] Ministerstwo Magii Harry podniósł głowę znad listu i głośno przełknął ślinę.
+192-195[de]:Hochachtungsvoll, Mafalda Hopfkirch
+[de] Abteilung für unbefugte Zauberei
+[de] Zaubereiministerium Harry blickte auf und schluckte.
+~^
+218-219[pl]:- Nie powiedziałeś nam, że nie wolno ci używać czarów poza szkołą - rzekł wuj Vernon, a w jego oczach tańczyły iskierki szaleństwa.
+195-197[de]:»Du hast uns nicht erzählt, dass du außerhalb der Schule nicht zaubern darfst«, sagte Onkel Vernon.
+[de] Ein irrer Glanz funkelte in seinen Augen.
+~^
+219-220[pl]:- Pewno zapomniałeś... wyleciało ci to z pamięci...
+197-198[de]:»Hast wohl vergessen, es zu erwähnen ... ist dir einfach entfallen, würde ich mal sagen ...«
+~^
+220-221[pl]:Rzucił się na Harry’ego z obnażonymi zębami, jak wielki buldog.
+198-199[de]:Wie eine große Bulldogge beugte er sich mit gefletschten Zähnen über Harry.
+~^
+221-222[pl]:- No więc ja też mam dla ciebie wiadomość, chłopcze...
+199-200[de]:»Nun, ich habe Neuigkeiten für dich, Junge ...
+~^
+222-223[pl]:Zamykam cię...
+200-201[de]:Ich schließ dich ein.
+~^
+223-226[pl]:Już nigdy nie wrócisz do tej szkoły...
+[pl] nigdy...
+[pl] A jeśli spróbujesz uwolnić się za pomocą magii... sami cię wyrzucą!
+201-202[de]:Du gehst nie wieder in   diese Schule zurück ... nie ... und wenn du versuchen solltest, dich hier herauszuzaubern - dann werfen sie dich dort raus!«
+~^
+226-228[pl]:I chichocąc jak wariat, zaciągnął Harry’ego na górę.
+[pl] Wuj Vernon nie rzucał pogróżek na wiatr.
+202-204[de]:Und wie ein Wahnsinniger lachend schleifte er Harry die Treppe hoch.
+[de] Onkel Vernon war gemein genug, sein Versprechen zu halten.
+~^
+228-229[pl]:Następnego ranka sprowadził ślusarza, który wprawił kraty w okno sypialni Harry’ego.
+204-205[de]:Am folgenden Morgen ließ er ein Gitter vor Harrys Fenster anbringen.
+~^
+229-230[pl]:Sam zrobił w drzwiach małą klapkę, jaką zwykle robi się dla kota, aby można było przez nią podawać małe ilości jedzenia.
+205-206[de]:Die Katzenklappe baute er persönlich in die Zimmertür ein, so dass sie dreimal täglich ein wenig Nahrung hineinschieben konnten.
+~^
+230-231[pl]:Odtąd wypuszczano Harry’ego tylko dwa razy dziennie, rano i wieczorem, żeby skorzystał z łazienki.
+206-208[de]:Morgens und abends ließen sie Harry ins Badezimmer;
+[de] für den Rest des Tages schlossen sie ihn in sein Zimmer ein.
+~^
+231-232[pl]:Trzy dni później nic nie wskazywało, by Dursleyom zmiękły serca i Harry zrozumiał, że znalazł się w sytuacji bez wyjścia.
+208-209[de]:Drei Tage später machten die Dursleys immer noch keine Anstalten nachzugeben und Harry hatte keine Ahnung, wie er aus seiner vertrackten Lage herauskommen konnte.
+~^
+232-237[pl]:Leżał na łóżku, patrząc przez kraty na zachodzące słońce, i zastanawiał się smętnie, jaka go czeka przyszłość.
+[pl] Co mu przyjdzie z uwolnienia się z sypialni za pomocą czarów, skoro wyrzucą go za to z Hogwartu?
+[pl] Z drugiej strony, dalsze życie w domu przy Privet Drive stało się nie do zniesienia.
+[pl] Odkąd Dursleyowie upewnili się, że nie obudzą się zamienieni w nietoperze, utracił swoją jedyną broń.
+[pl] Zgredek może i ustrzegł go przed strasznymi wydarzeniami w Hogwarcie, ale wszystko wskazywało na to, że tutaj czeka go po prostu śmierć z głodu.
+209-215[de]:Auf dem Bett liegend sah er die Sonne hinter den Fenstergittern untergehen und fragte sich niedergeschlagen, wie es mit ihm weitergehen sollte.
+[de] Was nutzte es, sich aus dem Zimmer zu zaubern?
+[de] Dann würde er von Hogwarts fliegen.
+[de] Doch so elend war es ihm hier im Ligusterweg noch nie ergangen.
+[de] Nun, da die Dursleys wussten, dass sie nicht eines Tages als Fledermäuse aufwachen würden, hatte er seine einzige Waffe verloren.
+[de] Dobby mochte Harry vor schrecklichen Geschehnissen in Hogwarts bewahrt haben, doch so, wie die Dinge nun liefen, würde er ohnehin eines Tages verhungern.
+~^
+237-238[pl]:Klapka w drzwiach zagrzechotała i pojawiła się ręka ciotki Petunii z miską zupy z puszki.
+215-216[de]:Die Katzenklappe klapperte, Tante Petunias Hand erschien und schob eine Schale Dosensuppe ins Zimmer.
+~^
+238-239[pl]:Harry’emu żołądek skręcał się z głodu, więc zeskoczył z łóżka i porwał miskę.
+216-217[de]:Harry, der vor Hunger Bauchschmerzen hatte, sprang vom Bett und hob sie hoch.
+~^
+239-240[pl]:Zupa była zimna, ale wypił połowę jednym łykiem.
+217-218[de]:Die Suppe war eiskalt, doch er trank die Schale in einem Zug halb leer.
+~^
+240-242[pl]:Potem podszedł do klatki Hedwigi i zgarnął rozmokłe jarzyny do jej pustej miseczki.
+[pl] Nastroszyła pióra i spojrzała na niego z głęboką odrazą.
+218-219[de]:Dann ging er hinüber zu Hedwigs Käfig und warf das lasche Grünzeug vom Boden der Schale  in ihren leeren Futternapf Hedwig raschelte mit ihren Federn und warf ihm einen angeekelten Blick zu.
+~^
+242-243[pl]:- Nie ma co odwracać dzioba, to wszystko, co mamy - powiedział ponuro Harry.
+219-220[de]:»Nützt nichts, wenn es deinem Schnabel nicht gut genug ist, das ist alles, was wir haben«, sagte Harry grimmig.
+~^
+243-244[pl]:Postawił pustą miskę przy drzwiach i opadł z powrotem na łóżko, czując, że jest jeszcze bardziej głodny niż przed wypiciem zupy.
+220-221[de]:Er stellte die leere Schale zurück vor die Katzenklappe und legte sich wieder aufs Bett, seltsamerweise noch hungriger als vor der Suppe.
+~^
+244-245[pl]:Założywszy, że za cztery tygodnie będzie jeszcze żywy, co się stanie, jeśli nie stawi się w Hogwarcie?
+221-222[de]:Sollte er in vier Wochen noch am Leben sein, was würde geschehen, wenn er nicht in Hogwarts auftauchte?
+~^
+245-246[pl]:Czy wyślą kogoś, żeby sprawdzić, dlaczego nie przyjechał?
+222-223[de]:Würden sie jemanden schicken, um herauszufinden, warum er nicht gekommen war?
+~^
+246-247[pl]:Zdołają przekonać Dursleyów, żeby go wypuścili?
+223-224[de]:Konnten sie die Dursleys zwingen, ihn freizulassen?
+~^
+247-253[pl]:W pokoju robiło się coraz ciemniej.
+[pl] Wyczerpany, czując, jak mu okropnie burczy w brzuchu, przeżuwając wciąż i wciąż te same pytania, na które nie było odpowiedzi, w końcu zasnął.
+[pl] Śniło mu się, że siedzi w klatce w zoo.
+[pl] Na klatce była tabliczka: NIEPEŁNOLETNI CZARODZIEJ.
+[pl] Ludzie wytrzeszczali na niego oczy przez kraty, kiedy tak leżał na kupce słomy, wygłodniały i słaby.
+[pl] W tłumie zobaczył twarz Zgredka i zawołał do niego, błagając o pomoc, ale Zgredek odpowiedział: „Harry Potter jest tutaj bezpieczny, sir!” i zniknął.
+224-229[de]:Allmählich wurde es dunkel im Zimmer.
+[de] Erschöpft, mit knurrendem Magen und den Kopf voller unlösbarer Probleme, versank Harry in einen unruhigen Schlaf ihm träumte, er würde in einem Zoo ausgestellt, in einem Käfig mit dem Schild »Minderjähriger Zauberer«.
+[de] Leute glotzten durch die Gitter des Käfigs, wo er hungernd und geschwächt auf einer Strohmatte lag.
+[de] Er sah Dobbys Gesicht in der Menge und schrie um Hilfe, doch Dobby rief.
+[de] »Hier ist Harry Potter in Sicherheit, Sir«, und verschwand.
+~^
+253-256[pl]:A potem pojawili się Dursleyowie i Dudley zabębnił kijem po kratach, naśmiewając się z niego.
+[pl] - Przestań - wymamrotał Harry, bo bębnienie huczało mu w obolałej głowie.
+[pl] - Zostaw mnie w spokoju... przestań...
+229-233[de]:Dann tauchten die Dursleys auf und Dudley rüttelte an den Gitterstäben und lachte ihn aus.
+[de] »Hör auf damit«, murmelte Harry.
+[de] Das Rütteln dröhnte in seinem schmerzenden Kopf »Lass mich in Ruhe ...
+[de] Schluss damit...
+~^
+256-257[pl]:próbuję się zdrzemnąć...
+233-234[de]:Ich will schlafen ...«
+~^
+257-258[pl]:Otworzył oczy.
+234-235[de]:Er öffnete die Augen.
+~^
+258-260[pl]:Przez kraty w oknie świecił księżyc.
+[pl] I ktoś naprawdę wytrzeszczał na niego oczy zza krat: ktoś piegowaty, rudowłosy, z długim nosem...
+235-237[de]:Der Mond schien durch das Fenstergitter.
+[de] Und da war wirklich jemand, der ihn durch die Gitterstäbe anstarrte: ein sommersprossiger, rothaariger, langnasiger jemand.
+~^
+260-261[pl]:Zza okna patrzył na niego Ron Weasley.
+
+237-238[de]:Draußen vor Harrys Fenster war Ron Weasley.
+

@@ -1,0 +1,937 @@
+0-4[pl]:ROZDZIAŁ TRZECI NORA  Ron! - wydyszał Harry, podchodząc na palcach do okna i otwierając je, żeby mogli porozmawiać przez kraty.
+[pl] - Ron, jak ci się udało...
+[pl] Co to
+[pl] ...?! Rozdziawił usta, bo to, co zobaczył, zupełnie go zatkało.
+0-4[de]:Der Fuchsbau »Ron!«, keuchte Harry.
+[de] Er kroch zum Fenster und schob es hoch, so dass sie durch die Gitterstäbe miteinander sprechen konnten.
+[de] »Ron, wie bist du - was zum -?«
+[de] Die Worte blieben ihm im Hals stecken, als ihm klar wurde, was er da vor sich hatte.
+~^
+4-5[pl]:Ron wychylał się z tylnego okna starego turkusowego samochodu, zaparkowanego w powietrzu.
+4-5[de]:Ron lehnte sich aus dem hinteren Seitenfenster eines alten, türkisgrünen Autos, das mitten in der Luft geparkt war.
+~^
+5-6[pl]:Z przednich siedzeń szczerzyli do niego zęby Fred i George, dwaj bracia bliźniacy Rona.
+5-6[de]:Vorne im Wagen saßen Fred und George, Rons ältere Zwillingsbrüder, und grinsten ihn an.
+~^
+6-8[pl]:- Nic ci nie jest, Harry?
+[pl] - Co się dzieje, Harry? - zapytał Ron.
+6-8[de]:»Alles in Ordnung, Harry?«
+[de] »Was war denn los mit dir?«, fragte Ron.
+~^
+8-9[pl]:- Dlaczego nie odpowiadałeś na moje listy?
+8-9[de]:»Warum hast du meine Briefe nicht beantwortet?
+~^
+9-11[pl]:Zapraszałem cię ze dwanaście razy, a potem ojciec wrócił do domu i powiedział, że dostałeś oficjalne ostrzeżenie za użycie czarów w obecności mugoli...
+[pl] - To nie ja...
+9-10[de]:Ich hab dich ungefähr ein Dutzend Mal gebeten zu kommen, und dann kam heute Dad nach Hause und meinte, du hättest eine offizielle Verwarnung wegen Zauberei vor Muggeln erhalten -«
+~^
+11-12[pl]:Ale skąd on się o tym dowiedział?
+10-11[de]:»Das war nicht ich - und woher weiß er das eigentlich?«
+~^
+12-16[pl]:- Pracuje w ministerstwie - odrzekł Ron.
+[pl] - Przecież dobrze wiesz, że nie wolno nam używać zaklęć poza szkołą...
+[pl] - A wy to niby co? - powiedział Harry, gapiąc się na latający samochód.
+[pl] - Och, nie, to się nie liczy...
+11-14[de]:»Er arbeitet im Ministerium«, sagte Ron.
+[de] »Du weißt doch, dass wir außerhalb der Schule nicht zaubern dürfen -« »Das musst ausgerechnet du sagen«, erwiderte Harry mit einem Blick auf den schwebenden Wagen.
+[de] »Ach, das zählt nicht«, sagte Ron.
+~^
+16-17[pl]:Tylko go pożyczyliśmy, to wóz ojca, wcale go nie zaczarowaliśmy.
+14-16[de]:»Den haben wir nur geborgt, er gehört Dad.
+[de] Wir haben ihn nicht verzaubert.
+~^
+17-18[pl]:Ale używać czarów na oczach tych mugoli, u których mieszkasz...
+16-17[de]:Aber vor den Augen der Muggel, bei denen du lebst, auch noch zaubern -«
+~^
+18-19[pl]:- Już ci mówiłem, to nie ja... ale musiałbym ci za długo tłumaczyć.
+17-18[de]:»Ich hab dir doch gesagt, ich war's nicht - aber das erklär ich dir später.
+~^
+19-20[pl]:Słuchaj, mógłbyś wyjaśnić w Hogwarcie, że Dursleyowie mnie zamknęli i nie pozwalają mi wrócić do szkoły, i że oczywiście nie mogę się sam uwolnić za pomocą czarów, bo w ministerstwie pomyślą, że to już drugie zaklęcie użyte przeze mnie w ciągu trzech dni, więc... - Przestań nawijać - przerwał mu Ron.
+18-19[de]:Hör mal, kannst du in Hogwarts sagen, dass die  Dursleys mich eingesperrt haben und mich nicht zurücklassen, und selbst herauszaubern kann ich mich natürlich nicht, weil das Ministerium dann glaubt, es sei der zweite Zauber in drei Tagen, also -« »Hör auf, dummes Zeug zu quatschen«, sagte Ron.
+~^
+20-22[pl]:- Zabieramy cię do naszego domu.
+[pl] - Ale przecież wy też nie możecie używać czarów...
+19-21[de]:»Wir sind hier, um dich mit nach Hause zu nehmen.«
+[de] »Aber ihr dürft mich genauso wenig rauszaubern -«
+~^
+22-23[pl]:- Nie musimy - rzekł Ron, wskazując głową na przednie siedzenia i szczerząc zęby.
+21-22[de]:»Ist nicht nötig«, sagte Ron grinsend und wies mit einem Kopfnicken auf seine Brüder.
+~^
+23-24[pl]:- Zapomniałeś, kto mi towarzyszy.
+22-23[de]:»Du vergisst, wen ich dabeihabe.«
+~^
+24-25[pl]:- Przywiąż to do kraty - powiedział Fred, rzucając Harry’emu koniec liny.
+23-24[de]:»Schnür das um die Gitterstäbe«, sagte Fred und warf Harry das Ende eines Seils zu.
+~^
+25-30[pl]:- Jeśli Dursleyowie się obudzą, już mnie więcej nie zobaczycie - powiedział Harry, przywiązując linę do kraty.
+[pl] - Nie łam się - mruknął Fred, uruchamiając silnik - i odejdź od okna.
+[pl] Harry cofnął się w głąb, tuż obok klatki z Hedwigą, która zdawała się rozumieć, że chodzi o coś ważnego, i siedziała cicho.
+[pl] Fred dodał gazu, silnik zaryczał, a potem nagle coś okropnie chrupnęło i krata runęła w dół, kiedy samochód ruszył prosto w powietrze.
+[pl] Harry podbiegł do okna i zobaczył kratę dyndającą na linie parę stóp nad ziemią.
+24-30[de]:»Wenn die Dursleys aufwachen, bin ich ein toter Mann«, sagte Harry und band das Seil fest um das Gitter, während Fred den Motor aufheulen ließ.
+[de] »Keine Sorge«, sagte Fred. »
+[de] Aber geh vom Fenster weg.«
+[de] Harry wich ein paar Schritte in die Dunkelheit zurück und wartete neben Hedwigs Käfig.
+[de] Offenbar hatte sie erkannt, dass etwas Wichtiges vor sich ging, und gab keinen Mucks von sich.
+[de] Der Motor heulte auf, und mit einem Knirschen riss der Wagen das Gitter aus dem Fensterrahmen und schoss hoch in die Lüfte - Harry rannte zum Fenster zurück und sah das Gitter einige Meter über dem Boden pendeln.
+~^
+30-31[pl]:Ron, dysząc ciężko, wciągał ją do samochodu.
+30-31[de]:Ron zog es schwer atmend hoch ins Wageninnere.
+~^
+31-33[pl]:Harry nasłuchiwał z niepokojem, ale z sypialni Dursleyów nie dochodził żaden dźwięk.
+[pl] Kiedy krata spoczywała już bezpiecznie na tylnym siedzeniu obok Rona, Fred cofnął samochód i ustawił go tak blisko okna, jak to było możliwe.
+31-33[de]:Harry lauschte angespannt, doch aus dem Schlafzimmer der Dursleys war nichts zu hören.
+[de] Als das Gitter auf dem Rücksitz neben Ron verstaut war, setzte Fred rückwärts so nahe wie möglich an Harrys Fenster heran.
+~^
+33-40[pl]:- Właź - powiedział Ron.
+[pl] - Ale... moje przybory szkolne...
+[pl] różdżka...
+[pl] miotła...
+[pl] - Gdzie one są? - Zamknięte w komórce pod schodami, a ja nie mogę stąd wyjść...
+[pl] - Nie ma problemu - odezwał się George.
+[pl] - Harry, odsuń się.
+33-37[de]:»Steig ein«, sagte Ron.
+[de] »Aber meine ganzen Sachen für Hogwarts - mein Zauberstab, mein Besen -«
+[de] »Wo sind die Sachen?«  
+[de] »Im Schrank unter der Treppe eingeschlossen und ich kann nicht aus dem Zimmer -« »Kein Problem«, sagte George vom Beifahrersitz, »aus dem Weg, Harry.«
+~^
+40-41[pl]:Fred i George wleźli przez okno do pokoju Harry’ego.
+37-38[de]:Fred und George kletterten geschmeidig durchs Fenster in Harrys Zimmer.
+~^
+41-42[pl]:Harry z powątpiewaniem patrzył, jak George wyjmuje z kieszeni zwykłą spinkę do włosów i zaczyna nią grzebać w zamku.
+38-39[de]:Die verstehen ihr Handwerk, dachte Harry, als George eine Haarnadel aus der Tasche zog und im Türschloss zu stochern begann.
+~^
+42-43[pl]:- Wielu czarodziejów uważa, że takie sztuczki mugoli to strata czasu - powiedział Fred - ale my sądzimy, że warto je znać, nawet jeśli rzeczywiście zajmują trochę czasu.
+39-41[de]:»Viele Zauberer halten es für pure Zeitverschwendung, solche Muggeltricks zu lernen«, sagte Fred.
+[de] »Aber wir glauben, es lohnt sich, selbst wenn es damit ein bisschen länger dauert.«
+~^
+43-45[pl]:W zamku coś kliknęło i drzwi się otworzyły.
+[pl] - No więc... my pójdziemy po twój kufer...
+41-42[de]:Mit einem leisen Klicken ging die Tür auf.
+~^
+45-46[pl]:a ty zbierz, co ci będzie potrzebne, i podaj Ronowi - szepnął George.
+42-43[de]:»Also, wir holen deinen Koffer, du packst alles zusammen, was du aus deinem Zimmer brauchst, und gibst es Ron«, flüsterte George.
+~^
+46-48[pl]:- Uważajcie na dolny stopień, skrzypi - szepnął za nimi Harry, kiedy zniknęli w ciemnym korytarzu.
+[pl] Zaczął krążyć po pokoju, zbierając swoje rzeczy i podając je przez okno Ronowi.
+43-45[de]:»Passt auf die letzte Stufe auf, die knarrt«, wisperte Harry, und die Zwillingsbrüder verschwanden auf der dunklen Treppe.
+[de] Harry flitzte im Zimmer herum, sammelte seine Sachen ein und reichte sie Ron durch das Fenster hinaus.
+~^
+48-51[pl]:Potem poszedł pomóc bliźniakom wciągnąć po schodach ciężki kufer.
+[pl] Z sypialni Dursleyów dobiegł kaszel wuja Vernona.
+[pl] W końcu, dysząc i sapiąc, wtaszczyli kufer i ustawili w otwartym oknie.
+45-49[de]:Dann half er Fred und George, den großen Koffer die Treppe hochzuschleppen.
+[de] Onkel Vernon hustete im Schlafzimmer.
+[de] Endlich, völlig erschöpft, waren sie oben auf dem Treppenabsatz angelangt.
+[de] Sie trugen den Koffer durch Harrys Zimmer zum offenen Fenster.
+~^
+51-52[pl]:Fred i Ron ciągnęli go z samochodu, a Harry i George pchali od strony sypialni.
+49-50[de]:Fred kletterte zurück in den Wagen, um gemeinsam mit Ron zu ziehen, und Harry und George schoben von drinnen.
+~^
+52-56[pl]:Kufer przeciskał się przez okno cal po calu.
+[pl] Wuj Vernon zakaszlał po raz drugi.
+[pl] - Jeszcze trochę - wysapał Fred - jeszcze jedno mocne pchnięcie...
+[pl] Harry i George naprężyli mięśnie i kufer wylądował na tylnym siedzeniu samochodu.
+50-53[de]:Zentimeter um Zentimeter rutschte der Koffer durchs Fenster.
+[de] Wieder hustete Onkel Vernon.
+[de] »Noch ein wenig«, keuchte Fred, »einen kräftigen Schubser noch -« Harry und George warfen sich mit den Schultern gegen  den Koffer und er rutschte durch das Fenster auf den Rücksitz.
+~^
+56-57[pl]:- Dobra, zmywamy się stąd - szepnął George.
+53-54[de]:»Okay, gehen wir«, flüsterte George.
+~^
+57-58[pl]:Lecz kiedy Harry wspiął się już na parapet, usłyszał za sobą donośny skrzek, a po chwili grzmot głosu wuja Vernona: - TA PIEKIELNA SOWA!
+54-56[de]:Doch als Harry auf das Fensterbrett stieg, hörte er hinter sich plötzlich ein lautes Kreischen, unmittelbar gefolgt von der Donnerstimme Onkel Vernons.
+[de] »DIESE VERFLUCHTE EULE!«
+~^
+58-60[pl]:- Zapomniałem o Hedwidze!
+[pl] Harry przebiegł przez pokój, słysząc pstryknięcie kontaktu na korytarzu.
+56-58[de]:»Ich hab Hedwig vergessen!«
+[de] Harry rannte hinüber zu Hedwig und in diesem Augenblick ging das Flurlicht an.
+~^
+60-61[pl]:Chwycił klatkę z Hedwigą, rzucił się do okna i podał ją Ronowi.
+58-59[de]:Er packte Hedwigs Käfig, stürzte zurück zum Fenster und reichte ihn Ron hinaus.
+~^
+61-63[pl]:Wspinał się już na parapet, kiedy wuj Vernon załomotał w drzwi, które otworzyły się i rąbnęły o ścianę.
+[pl] Przez ułamek sekundy wuj Vernon stał w drzwiach jak zamurowany, a potem zaryczał jak rozwścieczony byk i rzucił się ku Harry’emu, chwytając go za kostkę.
+59-63[de]:- Er war gerade auf den Fenstersims gestiegen, als Onkel Vernon gegen die offene Tür schlug, die mit einem lauten Krachen aufflog.
+[de] Einen Augenblick lang blieb Onkel Vernon im Türrahmen stehen;
+[de] dann fing er an zu toben wie ein rasender Stier.
+[de] Er stürzte sich auf Harry und umklammerte seine Fußgelenke.
+~^
+63-64[pl]:Ron, Fred i George złapali Harry’ego za ramiona i ciągnęli ze wszystkich sił.
+63-64[de]:Ron, Fred und George packten Harrys Arme und zogen ihn mit aller Kraft nach draußen.
+~^
+64-70[pl]:- Petunio! - ryczał wuj Vernon.
+[pl] - Petunio, on ucieka!
+[pl] ON UCIEKA!
+[pl] Weasleyowie szarpnęli mocno i noga Harry’ego wyśliznęła się z uścisku wuja Vernona.
+[pl] Gdy tylko Harry znalazł się w samochodzie i zatrzasnął drzwiczki, Ron ryknął: - Fred, gazu!
+[pl] Samochód wystrzelił ku księżycowi.
+64-68[de]:»Petunia!«, röhrte Onkel Vernon.
+[de] »Er haut ab!
+[de] ER HAUT AB!«
+[de] Doch mit einem gewaltigen Ruck befreiten die Weasleys Harrys Füße aus Onkel Vernons Klammergriff - Harry war jetzt im Wagen - er hatte die Tür hinter sich zugeschlagen »Gib Gas, Fred!«, rief Ron, und schon jagte der Wagen dem Mond entgegen.
+~^
+70-71[pl]:Harry nie mógł uwierzyć - był wolny!
+68-69[de]:Harry konnte es nicht glauben - er war frei.
+~^
+71-73[pl]:Opuścił szybę, nocne powietrze zmierzwiło mu włosy.
+[pl] Spojrzał za siebie, na szybko malejące dachy Privet Drive.
+69-70[de]:Er kurbelte das Fenster herunter, die Nachtluft peitschte ihm durchs Haar und er sah hinab auf die schrumpfenden Dächer des Ligusterwegs.
+~^
+73-74[pl]:Wuj Vernon, ciotka Petunia i Dudley tkwili w oknie sypialni Harry’ego, jakby ich zamurowało.
+70-71[de]:Onkel Vernon, Tante Petunia und Dudley hingen wie vom Schlag getroffen aus Harrys Fenster.
+~^
+74-75[pl]:- Do zobaczenia w następne wakacje! - krzyknął Harry.
+71-72[de]:»Bis nächsten Sommer«, rief Harry.
+~^
+75-76[pl]:Weasleyowie ryknęli śmiechem, a Harry opadł na oparcie fotela, szczerząc zęby.
+72-73[de]:Von den Weasleys kam ein dröhnendes Lachen, und Harry ließ sich, von Ohr zu Ohr grinsend, in den Rücksitz sinken.  
+~^
+76-78[pl]:- Wypuśćmy Hedwigę - powiedział do Rona.
+[pl] - Może lecieć za nami.
+73-74[de]:»Lass Hedwig raus«, sagte er zu Ron, »sie kann hinter uns herfliegen.
+~^
+78-79[pl]:Już dawno nie miała okazji do wyprostowania skrzydeł.
+74-75[de]:Sie hat schon eine Ewigkeit ihre Flügel nicht mehr ausspannnen dürfen.«
+~^
+79-80[pl]:George wręczył Ronowi spinkę do włosów i po chwili uradowana Hedwigą wyleciała przez okno i pomknęła za nimi jak duch.
+75-76[de]:George gab Ron die Haarnadel, und einen Augenblick später war Hedwig schon glücklich aus dem Fenster nach draußen geschossen, wo sie jetzt wie ein Geistervogel neben ihnen herschwebte.
+~^
+80-81[pl]:- No więc opowiadaj, Harry - powiedział niecierpliwie Ron.
+76-77[de]:»Also, erzähl mal, Harry«, sagte Ron ungeduldig.
+~^
+81-83[pl]:- Co się stało?
+[pl] Harry opowiedział im o Zgredku, o jego ostrzeżeniu oraz smętnym końcu leguminy z fiołkami.
+77-79[de]:»Was ist passiert?«
+[de] Harry erzählte ihnen alles, von Dobbys Warnung bis zur Katastrophe mit dem Veilchennachtisch.
+~^
+83-84[pl]:Kiedy skończył, zapadła głucha cisza.
+79-80[de]:Eine lange, nachdenkliche Stille trat ein, als er geendet hatte.
+~^
+84-86[pl]:- Podejrzana sprawa - oświadczył w końcu Fred.
+[pl] - Śmierdzi z daleka - zgodził się George.
+80-82[de]:»Ganz faule Geschichte«, sagte Fred endlich.
+[de] »Ziemlich fies«, pflichtete ihm George bei.
+~^
+86-87[pl]:- Więc nie mówił ci nawet, kto coś knuje?
+82-83[de]:»Also wollte er dir nicht mal sagen, wer hinter der ganzen Geschichte steckt?«
+~^
+87-88[pl]:- Chyba nie mógł - powiedział Harry.
+83-84[de]:»Ich glaube, das konnte er nicht«, sagte Harry.
+~^
+88-89[pl]:- Za każdym razem, kiedy już mi się zdawało, że zaraz powie coś konkretnego, zaczynał walić głową w ścianę.
+84-85[de]:»Ich hab euch ja gesagt, jedes Mal, wenn ihm beinahe was rausgerutscht wäre, hat er den Kopf gegen die Wand geknallt.«
+~^
+89-92[pl]:Fred i George spojrzeli po sobie.
+[pl] - Co, myślicie, że robił mnie w konia? - zapytał Harry.
+[pl] - No cóż - rzekł Fred - można to tak ująć...
+85-87[de]:Fred und George sahen sich an.
+[de] »Wie? Ihr denkt, er hat mich angelogen?«
+~^
+92-93[pl]:Te domowe skrzaty dysponują dość dużą mocą magiczną, ale zwykle nie mogą jej użyć bez pozwolenia swoich panów.
+87-88[de]:»Naja«, sagte Fred, »sagen wir mal so, Hauselfen haben ihre eigenen starken Zauberkräfte, aber normalerweise können sie die nicht ohne Erlaubnis ihres Herrn einsetzen.
+~^
+93-95[pl]:Założę się, że ktoś wysłał tego starego zgreda, żeby cię powstrzymać od powrotu do Hogwartu.
+[pl] Coś w rodzaju dowcipu.
+88-90[de]:Ich denke mal, man hat Dobby geschickt, um dich davon abzuhalten, nach Hogwarts zurückzukommen.
+[de] Das fand jemand wohl besonders komisch.
+~^
+95-96[pl]:Nie przychodzi ci do głowy, komu w szkole mogłeś podpaść?
+90-92[de]:Gibt es jemanden in der Schule, der etwas gegen dich hat?«
+[de] >
+~^
+96-99[pl]:- Tak - powiedzieli razem Harry i Ron.
+[pl] - Draco Malfoy - wyjaśnił Harry.
+[pl] - On mnie nienawidzi.
+92-94[de]:Ja«, stießen Harry und Ron gleichzeitig hervor.
+[de] »Draco Malfoy«, sagte Harry, »Er hasst mich.«
+~^
+99-100[pl]:- Draco Malfoy? - powtórzył George, obracając się do niego.
+94-95[de]:»Draco Malfoy?«, wiederholte George und wandte sich um.
+~^
+100-107[pl]:- Ale chyba nie syn Lucjusza Malfoya?
+[pl] - Może on, przecież to bardzo rzadkie nazwisko, no nie?
+[pl] A co?
+[pl] - Słyszałem, jak tata o nim mówił, że to zagorzały sprzymierzeniec Sami-Wiecie-Kogo.
+[pl] - A kiedy Sami-Wiecie-Kto zniknął - rzekł Fred, wykręcając szyję, żeby spojrzeć na Harry’ego - Lucjusz Malfoy wrócił, przekonując wszystkich, że nie miał z nim nic wspólnego.
+[pl] Wciskał kit...
+[pl] Tata uważa, że Lucjusz należał do ścisłego grona zwolenników Sami-Wiecie-Kogo.
+95-101[de]:»Nicht etwa Lucius Malfoys Sohn?«
+[de] »Muss er wohl sein, denn der Name kommt nicht gerade häufig vor«, sagte Harry.
+[de] »Warum?«  »Ich hab gehört, wie Dad von ihm geredet hat«, sagte George.
+[de] »Er war ein großer Anhänger von Du-weißt-schonwem.« »Und als Du-weißt-schon-wer verschwunden war«, sagte Fred und drehte sich zu Harry um, »kehrte Lucius Malfoy zurück und behauptete, er hätte es gar nicht so gemeint.
+[de] Ein Haufen Mist.
+[de] Dad meint, er habe zum engsten Kreis von Du-weißt-schon-wem gehört.«
+~^
+107-108[pl]:Harry słyszał już te pogłoski o rodzinie Malfoya, więc nie był tym zaskoczony.
+101-103[de]:Harry hatte diese Gerüchte über Malfoys Familie schon häufiger gehört und sie überraschten ihn nicht.
+[de] Im Vergleich zu Malfoy kam ihm
+~^
+108-111[pl]:Draco Malfoy mógł sprawić, że nawet Dudley Dursley wyglądałby jak grzeczny, myślący i wrażliwy chłopiec.
+[pl] - Przecież nie wiemy, czy Malfoyowie mają domowego skrzata... - powiedział.
+[pl] - To jest możliwe.
+103-107[de]:Dudley Dursley wie ein netter und nachdenklicher Junge
+[de] vor
+[de] .
+[de] »Ich weiß nicht, ob die Malfoys einen Hauselfen haben ...«, sagte Harry.
+~^
+111-112[pl]:Takie skrzaty służą zwykle w bogatych domach starych czarodziejskich rodzin - zauważył Fred.
+107-108[de]:»Nun, wem immer der Elf gehört, es muss jedenfalls eine alte Zaubererfamilie sein, und eine reiche dazu«, sagte Fred.
+~^
+112-113[pl]:- Tak, mama zawsze marzyła o tym, żeby mieć skrzata... żeby za nią prasował - dodał George.
+108-109[de]:»ja, Mum hätte auch gern einen Hauselfen zum Bügeln«, sagte George.
+~^
+113-114[pl]:- Ale mamy tylko parszywego ghula na strychu i pełno gnomów w ogrodzie.
+109-110[de]:»Aber alles, was wir haben, ist ein lumpiger alter Ghul in der Dachkammer und Gnomen überall im Garten.
+~^
+114-116[pl]:Domowe skrzaty bywają zwykle w wielkich starych dworach i zamkach, u nas się takiego nie spotka...
+[pl] Harry milczał.
+110-112[de]:Hauselfen gehören zu großen alten Landsitzen und Schlössern und anderen Prachtbauten und in unserem Haus wirst du bestimmt keinem über den Weg laufen ...«
+[de] Harry schwieg.
+~^
+116-118[pl]:Sądząc po tym, że Draco Malfoy miał wszystko w najlepszym gatunku, jego rodzina musiała mieć mnóstwo złota.
+[pl] Tak, Malfoy bardzo dobrze pasował do bogatego dworu.
+112-114[de]:Wenn er bedachte, dass Draco Malfoy fast immer das Beste vom Besten hatte, musste sich seine Familie in Zauberergold wälzen können;
+[de] er sah Malfoy vor sich, wie er in einem großen alten Landhaus umherstolzierte.
+~^
+118-119[pl]:Wysłanie domowego sługi, by powstrzymał Harry’ego od powrotu do Hogwartu, też do niego znakomicie pasowało.
+114-115[de]:Den Familiendiener zu Schicken, um Harry von der Rückkehr nach Hogwarts abzuhalten - genau das sah Malfoy ähnlich.
+~^
+119-120[pl]:Czyżby rzeczywiście palnął głupstwo, traktując Zgredka poważnie?
+115-116[de]:War es eine Dummheit von ihm gewesen, Dobby ernst zu nehmen?
+~^
+120-121[pl]:- W każdym razie cieszę się, że wpadliśmy na pomysł, żeby cię odwiedzić - powiedział Ron.
+116-117[de]:»Ich bin jedenfalls froh, dass wir dich da rausgeholt haben«, sagte Ron.
+~^
+121-122[pl]:- Zacząłem się poważnie martwić, kiedy nie odpowiedziałeś na żaden z moich listów.
+117-118[de]:»Ich hab mir allmählich wirklich Sorgen um dich  gemacht, als du meine Briefe nicht beantwortet hast.
+~^
+122-123[pl]:Z początku myślałem, że to wina Errola...
+118-119[de]:Ich dachte erst, es wäre Errols Schuld.«
+~^
+123-127[pl]:- Jakiego Errola?
+[pl] - To nasz puchacz.
+[pl] Bardzo stary.
+[pl] Już nie raz zdarzyło mu się nawalić.
+119-123[de]:»Wer ist Errol?«
+[de] »Unsere Eule.
+[de] Schon steinalt.
+[de] Kann schon mal vorkommen, dass sie auf einem Botenflug einen Herzanfall bekommt.
+~^
+127-129[pl]:Więc próbowałem pożyczyć Hermesa...
+[pl] - Kogo?
+123-124[de]:Also hab ich versucht, mir Hermes zu borgen -« »Wen?«
+~^
+129-130[pl]:- To puchacz, którego mama i tata kupili Percy’emu, kiedy został prefektem - wyjaśnił Fred.
+124-125[de]:»Den Uhu, den Mum und Dad für Percy gekauft haben, als er zum Vertrauensschüler ernannt wurde«, erklärte Fred vom Fahrersitz aus.
+~^
+130-131[pl]:- Ale Percy nie chciał mi go pożyczyć - ciągnął Ron.
+125-126[de]:»Aber Percy wollte ihn nicht verleihen«, sagte Ron.
+~^
+131-132[pl]:- Powiedział, że będzie mu potrzebny.
+126-127[de]:»Meinte, er brauchte ihn.«
+~^
+132-133[pl]:- Tego lata Percy bardzo dziwnie się zachowywał - zauważył George, marszcząc czoło.
+127-128[de]:»Überhaupt führt sich Percy diesen Sommer ziemlich eigenartig auf«, sagte George stirnrunzelnd.
+~^
+133-136[pl]:- I rzeczywiście wciąż wysyłał listy...
+[pl] I często przesiadywał w swoim pokoju, zamykając się na klucz...
+[pl] Pewnie polerował odznakę prefekta...
+128-130[de]:»Und tatsächlich hat er einen Haufen Briefe verschickt und sich oft in seinem Zimmer eingeschlossen ...
+[de] Ich meine, so oft kannst du eine Vertrauensschülermedaille auch nicht polieren ...
+~^
+136-137[pl]:Fred, trochę za bardzo na zachód - dodał, wskazując na kompas na tablicy rozdzielczej.
+130-132[de]:Du fliegst zu weit nach Westen, Fred«, fügte er hinzu und deutete auf einen Kompass am Armaturenbrett.
+[de] Fred kurbelte das Steuer herum.
+~^
+137-140[pl]:- Powiedzieliście tacie, że wzięliście jego samochód? - zapytał Harry, dobrze wiedząc, jaką usłyszy odpowiedź.
+[pl] - Eee... no... nie - odrzekł Ron.
+[pl] - Musiał iść na noc do pracy.
+132-134[de]:»Sagt mal, weiß euer Vater eigentlich, dass ihr den Wagen habt?«, fragte Harry, obwohl er schon die Antwort ahnte.
+[de] »Ähm, nicht direkt«, sagte Ron, »er musste heute Abend zur Arbeit.
+~^
+140-141[pl]:Ale mam nadzieję, że odstawimy go do garażu, zanim mama zauważy, że go wzięliśmy.
+134-135[de]:Hoffentlich können wir den Wagen in die Garage zurückstellen, ohne dass Mum etwas merkt.«
+~^
+141-142[pl]:- A co właściwie wasz tata robi w Ministerstwie Magii?
+135-136[de]:»Was macht euer Vater überhaupt im Ministerium?«
+~^
+142-143[pl]:- Pracuje w najnudniejszym wydziale - odpowiedział Ron.
+136-137[de]:»Er arbeitet in der langweiligsten Abteilung«, sagte Ron.
+~^
+143-146[pl]:- Urząd Niewłaściwego Użycia Produktów Mugoli.
+[pl] - Czego?
+[pl] - No wiesz, chodzi o różne rzeczy produkowane przez mugoli, które zostają zaczarowane, a potem trafiają do któregoś z ich sklepów lub domów.
+137-141[de]:»Im Büro für den Missbrauch von Muggelartefakten.«
+[de] »Wo bitte?«
+[de] »Es hat mit dem Verhexen von Muggelsachen zu tun;
+[de] die dürfen auf keinen Fall in einem Muggelladen oder bei den Muggeln zu Hause landen.
+~^
+146-147[pl]:Na przykład w zeszłym roku zmarła pewna starsza wiedźma, a jej komplet do herbaty sprzedano do sklepu z antykami.
+141-142[de]:Letztes Jahr zum Beispiel wurde das Teeservice einer alten Hexe, die gestorben war, an ein  Antiquitätengeschäft verkauft.
+~^
+147-148[pl]:No i kupiła go jakaś mugolka, przyniosła do domu i próbowała podać w nim herbatę gościom.
+142-143[de]:Eine Muggelfrau hat es gekauft, heimgenommen und versucht ihren Freunden darin Tee zu servieren.
+~^
+148-151[pl]:To był koszmar...
+[pl] Tata pracował nad tym całymi tygodniami.
+[pl] - Co się stało?
+143-145[de]:Es war ein Alptraum, Dad musste wochenlang
+[de] Überstunden machen »Was ist denn passiert?«
+~^
+151-154[pl]:- Dzbanek dostał świra i porozlewał gorącą herbatę po całym pokoju, a jednego faceta musieli zabrać do szpitala, bo szczypce do cukru zakleszczyły mu nos i nie chciały się oderwać.
+[pl] Tata miał kupę roboty, w tym urzędzie jest tylko on i jeden stary czarodziej, musieli użyć kilku silnych zaklęć utraty pamięci i wielu innych sztuczek, żeby to jakoś zatuszować...
+[pl] - Ale twój tata... to auto... Fred roześmiał się.
+145-147[de]:»Die Teekanne ist ausgerastet und hat überall kochend heißen Tee verspritzt und ein Mann musste mit Zuckerzangen auf der Nase ins Krankenhaus gebracht werden.
+[de] Dad war vollkommen aus dem Häuschen, außer ihm und einem alten Hexenmeister namens Perkins ist nämlich keiner dafür zuständig, und sie mussten Gedächtniszauber und solche Dinge anwenden, um die Sache zu vertuschen -« »Aber euer Vater - dieses Auto -« Fred lachte.
+~^
+154-155[pl]:- Wiesz, ojciec ma fioła na punkcie rzeczy produkowanych przez mugoli, w szopie mamy kupę tych śmieci.
+147-148[de]:»ja, Dad ist verrückt nach allem, was mit den Muggeln zu tun hat, unser Schuppen ist voll gestopft mit Muggelzeug.
+~^
+155-156[pl]:Rozkłada je na części, zaczarowuje i składa z powrotem.
+148-149[de]:Er nimmt es auseinander, verzaubert es und setzt es wieder zusammen.
+~^
+156-157[pl]:Gdyby dokonał rewizji w naszym domu, musiałby się sam aresztować.
+149-150[de]:Wenn er unser Haus durchsuchen würde, müsste er auf der Stelle sich selbst verhaften.
+~^
+157-158[pl]:Mama dostaje szału.
+150-151[de]:Das treibt Mum zum Wahnsinn.«
+~^
+158-159[pl]:- O, tam jest główna droga - odezwał się George, wyglądając przez okno.
+151-152[de]:»Da ist die Hauptstraße«, sagte George und spähte durch die Windschutzscheibe.
+~^
+159-161[pl]:- Będziemy w domu za dziesięć minut...
+[pl] W sam raz, bo już się robi jasno...
+152-153[de]:»In zehn Minuten sind wir da ... wird auch Zeit, es wird langsam hell ...«
+~^
+161-162[pl]:Na wschodzie widać już było bladoróżową poświatę.
+153-154[de]:Im Osten begann der Horizont blassrosa zu schimmern.
+~^
+162-163[pl]:Fred obniżył lot samochodu i Harry zobaczył ciemną szachownicę pól i plamy drzew.
+154-155[de]:Fred ließ den Wagen sinken und Harry sah einen dunklen Flickenteppich aus Feldern und Baumgruppen.
+~^
+163-164[pl]:- Jesteśmy tuż za wioską - oznajmił George.
+155-156[de]:»Wir sind nicht weit vom Dorf«, sagte George, »Ottery St. Catchpole ...«
+~^
+164-165[pl]:Samochód zniżał się coraz bardziej.
+156-157[de]:Der fliegende Wagen sank tiefer und tiefer.
+~^
+165-167[pl]:Krawędź jasnoczerwonego słońca przeświecała przez drzewa.
+[pl] - Lądujemy! - zawołał Fred, a koła podskoczyły na gruncie.
+157-159[de]:Die ersten Strahlen der roten Sonnenkugel drangen durch die Bäume.
+[de] »Geschafft«, rief Fred, als sie mit einem leichten Rumpeln zu Boden gingen.
+~^
+167-168[pl]:Wylądowali na małym podwórku koło walącego się garażu i Harry po raz pierwszy zobaczył dom Weasleyów.
+159-160[de]:Sie waren neben einer baufälligen Garage in einem kleinen Hof gelandet, und zum ersten Mal sah Harry Rons Haus.  
+~^
+168-169[pl]:Wyglądał, jakby kiedyś był dużym kamiennym chlewem, do którego tu i tam dobudowano dodatkowe pomieszczenia, aż urósł na kilka pięter i tak się przechylił, że przed zawaleniem musiały go chyba chronić czary.
+160-161[de]:Es sah aus, als sei es früher ein großer steinerner Schweinestall gewesen, doch an allen Ecken und Enden waren weitere Räume angebaut worden, bis das Haus mehrere Stockwerke hoch war und so krumm, dass man meinen konnte, es würde durch Zauberkraft zusammengehalten (was, wie Harry überlegte, vermutlich stimmte).
+~^
+169-171[pl]:Z czerwonego dachu wyrastały cztery albo i pięć kominów.
+[pl] Na koślawej tabliczce tuż przy wejściu widniał napis: NORA.
+161-163[de]:Vom roten Dach ragten vier oder fünf Kamine empor.
+[de] Neben der Tür steckte ein Schild im Boden, auf dem verkehrt herum zu lesen war: »Fuchsbau«.
+~^
+171-172[pl]:Wokół drzwi leżał stos gumowych butów i bardzo zardzewiały kocioł.
+163-164[de]:Um den Eingang herum lagen haufenweise Gummistiefel und ein sehr rostiger Kessel.
+~^
+172-176[pl]:Po podwórku wałęsało się kilkanaście brązowych kurczaków.
+[pl] - Nic specjalnego - bąknął Ron.
+[pl] - Jest wspaniały! - zawołał Harry, wspominając Privet Drive.
+[pl] Wysiedli z samochodu.
+164-166[de]:Etliche fette braune Hühner pickten im Hof, »Nichts Besonderes«, sagte Ron.
+[de] »Es ist toll«, sagte Harry glücklich und dachte an den LigusterwegSie stiegen aus.
+~^
+176-182[pl]:- No dobra, idziemy na górę, tylko po cichu - powiedział Fred - i czekamy, aż mama zawoła nas na śniadanie.
+[pl] Wtedy ty, Ron, zbiegniesz na dół i zawołasz: „Mamo, zobacz, kto tu się w nocy zjawił!”, a ona ucieszy się na widok Harry’ego i nikt się nie dowie, że braliśmy auto.
+[pl] - Dobra - zgodził się Ron.
+[pl] - Chodź, Harry, ja śpię na...
+[pl] Ron pozieleniał na twarzy, utkwiwszy wzrok w domu.
+[pl] Wszyscy odwrócili się w tamtą stronę.
+166-171[de]:»Also - wir gehen jetzt ganz, ganz leise nach oben«, sagte Fred »und warten, bis Mum uns zum Frühstück ruft.
+[de] Dann rennst du die Treppe runter, Ron, und rufst: >Mum, schau mal, wer heute Nacht aufgetaucht ist!
+[de] <, und sie wird sich freuen, Harry zu sehen, und keiner braucht je zu wissen, dass wir mit dem Wagen geflogen sind.«
+[de] »In Ordnung«, sagte Ron.»Los komm, Harry, ich schlafe -ganz oben -« Ron, mit starrem Blick aufs Haus, lief plötzlich übelgrün an.
+[de] Die anderen drei wirbelten herum.
+~^
+182-183[pl]:Przez podwórko kroczyła pani Weasley, a kurczaki umykały spod jej stóp.
+171-172[de]:Links und rechts die Hühner aufscheuchend, kam Mrs Weasley über den Hof marschiert.
+~^
+183-184[pl]:Zadziwiające, jak ta niska, pulchna, o miłej twarzy kobieta mogła w tej chwili tak bardzo przypominać tygrysa szablastego.
+172-173[de]:Und für eine kleine, kugelrunde Frau mit freundlichem Gesicht sah sie einem Säbelzahntiger erstaunlich ähnlich.
+~^
+184-186[pl]:- Ach... - westchnął Fred.
+[pl] - A niech to szlag - powiedział George.
+173-175[de]:»Ah«, sagte Fred.
+[de] »Das darf nicht wahr sein«, sagte George.
+~^
+186-187[pl]:Pani Weasley zatrzymała się przed nimi, wsparła ręce na biodrach i przyjrzała się po kolei ich twarzom.
+175-176[de]:Mrs Weasley machte vor ihnen Halt, stemmte die Hände in die Hüften und sah von einem schuldbewussten Gesicht  zum nächsten.
+~^
+187-188[pl]:Miała na sobie szlafrok w kwiatki; z jednej kieszeni wystawała różdżka.
+176-177[de]:Sie trug eine geblümte Schürze, aus deren Tasche ein Zauberstab ragte.
+~^
+188-189[pl]:- No tak - powiedziała.
+177-178[de]:»So«, sagte sie.
+~^
+189-190[pl]:- Dzień dobry, mamo - rzekł George tonem, który tylko jemu wydawał się beztroski.
+178-179[de]:»Morgen, Mum«, sagte George mit einer Stimme, von der er offenbar glaubte, sie klinge unbekümmert und einschmeichelnd.
+~^
+190-191[pl]:- Czy wy w ogóle macie pojęcie, jak ja się o was martwiłam? - zapytała pani Weasley groźnym szeptem.
+179-180[de]:»Könnt ihr euch vorstellen, was für Sorgen ich mir gemacht habe«, zischte Mrs Weasley in giftigem Flüsterton.
+~^
+191-193[pl]:- Przepraszamy, mamo, ale... zrozum...
+[pl] musieliśmy...
+180-181[de]:»Tut uns Leid, Mum, aber wir mussten -«
+~^
+193-194[pl]:Wszyscy trzej synowie pani Weasley byli od niej wyżsi, ale teraz skulili się tak, że patrzyła na nich z góry.
+181-182[de]:Ihre drei Söhne waren Mrs Weasley ein ganzes Stück über den Kopf gewachsen, aber als ihr Wutausbruch über sie hereinbrach, schrumpften sie in sich zusammen.
+~^
+194-195[pl]:- Puste łóżka!
+182-183[de]:»Die Betten leer!
+~^
+195-205[pl]:Żadnej kartki!
+[pl] Samochód zniknął...
+[pl] przecież mogliście się gdzieś rozbić...
+[pl] Ja się zamartwiam przez całą noc...
+[pl] a wy?
+[pl] Pomyśleliście o tym?
+[pl] No nie, jak długo żyję...
+[pl] Poczekajcie, aż wróci wasz ojciec...
+[pl] Ani Bili, ani Charlie, ani Percy nigdy nam czegoś takiego nie zrobili...
+[pl] - Percy Perfekt - mruknął Fred.
+183-190[de]:Keine Nachricht!
+[de] Der Wagen weg, vielleicht gegen einen Baum gefahren, ich werd fast verrückt vor Sorgen, daran habt ihr wohl nicht gedacht?- Meiner Lebtage ist mir das noch nicht - wartet nur, bis euer Vater nach Hause kommt, nie haben uns Bill oder Charlie oder Percy solchen Kummer gemacht »Perfekter Percy«, murmelte Fred.
+[de] »
+[de] VON PERCY
+[de] KÖNNTET IHR
+[de] EUCH
+[de] GERN
+~^
+205-206[pl]:- MÓGŁBYŚ SIĘ OD NIEGO CZEGOŚ NAUCZYĆ! - ryknęła pani Weasley, celując palcem w jego pierś.
+190-191[de]:EINE SCHEIBE ABSCHNEIDEN!«, schrie Mrs Weasley und bohrte ihren Zeigefinger in Freds Brust.
+~^
+206-207[pl]:- Mogliście się pozabijać, mogli was zobaczyć, wasz ojciec mógł przez was stracić pracę...
+191-192[de]:»Ihr hättet sterben können, man hätte euch sehen können, euer Vater hätte entlassen werden können -«
+~^
+207-208[pl]:Trwało to bardzo długo.
+192-193[de]:Stundenlang schien es so weiterzugehen.
+~^
+208-209[pl]:Pani Weasley zupełnie ochrypła, zanim zwróciła się do Harry’ego, który trzymał się z boku.
+193-194[de]:Mrs Weasley hatte sich heiser geschrien, noch bevor sie sich Harry zuwandte, der vor ihr zurückwich.
+~^
+209-210[pl]:- Bardzo się cieszę, że cię widzę, Harry - powiedziała.
+194-195[de]:»Ich freue mich sehr, dich zu sehen, Harry, mein Lieber«, sagte sie.
+~^
+210-211[pl]:- Wchodź, kochaneczku, zaraz ci coś zrobię na śniadanie.
+195-196[de]:»Komm doch rein zum Frühstück.«
+~^
+211-212[pl]:Odwróciła się i weszła z powrotem do domu, a Harry, zerknąwszy nerwowo na Rona, który kiwnął zachęcająco głową, poszedł za nią.
+196-197[de]:Sie wandte sich um und ging zurück ins Haus, und nach einem nervösen Blick auf Ron, der ihm aufmunternd zunickte, folgte Harry ihr.
+~^
+212-214[pl]:Kuchnia była mała i zagracona.
+[pl] Pośrodku stał wyszorowany drewniany stół otoczony krzesłami i Harry usiadł na brzegu jednego z nich, rozglądając się dokoła.
+197-200[de]:Die Küche war klein und ziemlich voll gestopft.
+[de] In der Mitte standen ein abgenutzter Holztisch und Stühle;
+[de] Harry  setzte sich auf eine Stuhlkante und sah sich um.
+~^
+214-215[pl]:Jeszcze nigdy nie był w domu czarodziejów.
+200-201[de]:Noch nie war er in einem Zaubererhaus gewesen.
+~^
+215-216[pl]:Zegar na ścianie miał tylko jedną wskazówkę.
+201-202[de]:Die Uhr an der Wand gegenüber hatte nur einen Zeiger und überhaupt keine Ziffern.
+~^
+216-218[pl]:Zamiast cyfr na tarczy widniały różne napisy, na przykład: „Czas zaparzyć herbatę”, „Czas nakarmić kurczaki”, „Jesteś już spóźniona”.
+[pl] Gzyms kominka zawalony był książkami o tytułach takich, jak: Zaczaruj swój ser, Czary przy pieczeniu i Uczta w jedną minutę.
+202-205[de]:Am Rand entlang standen Dinge wie »Zeit für Tee«, »Zeit zum Hühnerfüttern« und »Du kommst zu spät«.
+[de] Der Kaminsims war drei Reihen tief voll gepackt mit Büchern:
+[de] So zaubern Sie Ihren eigenen Käse, lautete ein Titel, oder Magie beim Backen und Festessen in einer Minute - Das ist Hexerei!.
+~^
+218-219[pl]:I jeśli Harry’ego nie zawodził słuch, stare radio stojące tuż przy zlewie właśnie oznajmiło: „A teraz Godzina Czarów, a w niej wasza ulubiona śpiewająca czarownica Celestyna Warbeck”.
+205-206[de]:Und wenn Harry seinen Ohren trauen durfte, hatte eine Stimme aus dem alten Radio über der Spüle gerade die »Hexenstunde« angekündigt, »mit der bezaubernden singenden Hexe Celestina Warbeck«.
+~^
+219-221[pl]:Pani Weasley zaczęła krzątać się po kuchni, przygotowując śniadanie w nieco chaotyczny sposób i rzucając znad patelni wściekłe spojrzenia na swoich synów.
+[pl] Co jakiś czas mruczała pod nosem: „Nie mam pojęcia, co wy sobie myśleliście”, „Nigdy bym w to nie uwierzyła” i tym podobnie.
+206-207[de]:Mrs Weasley werkelte in der Küche herum und bereitete eher planlos das Frühstück zu, wobei sie ihren Söhnen böse Blicke zu und Würstchen in die Pfanne warf, Hin und wieder murmelte sie etwas wie: »Weiß nicht, was ihr euch eigentlich dabei gedacht habt«, und »Das hätte ich nie von euch erwartet«.
+~^
+221-222[pl]:- Nie mam pretensji do dębie, kochanie - zapewniła Harry’ego, nakładając mu na talerz z osiem albo dziewięć parówek.
+207-208[de]:»Dir mache ich keinen Vorwurf«, versicherte sie Harry und häufte acht oder neun Würstchen auf seinen Teller.
+~^
+222-223[pl]:- Artur i ja bardzo się o ciebie martwiliśmy.
+208-209[de]:»Arthur und ich haben uns genauso um dich Sorgen gemacht.
+~^
+223-225[pl]:Właśnie zeszłego wieczoru powiedzieliśmy sobie, że jeśli nie odpiszesz Ronowi do piątku, pojedziemy tam i sami cię zabierzemy.
+[pl] Ale... naprawdę - teraz zsuwała mu na talerz trzy jajka sadzone - latanie nielegalnym autem po całym kraju...
+209-211[de]:Letzte Nacht noch haben wir uns gesagt, wir gehen hin und holen ihn persönlich, wenn er Ron bis Freitag nicht geantwortet hat.
+[de] Aber hört mal« (jetzt schaufelte sie noch drei Spiegeleier auf Harrys Teller), »einen nicht zugelassenen Wagen übers halbe Land zu fliegen!
+~^
+225-226[pl]:przecież ktoś mógł was zobaczyć...
+211-212[de]:Hinz und Kunz hätten euch sehen können -«
+~^
+226-231[pl]:Machnęła od niechcenia różdżką w stronę zlewu i spoczywające w nim brudne naczynia zaczęły się same zmywać, poszczekując delikatnie.
+[pl] - Były chmury, mamo! - odezwał się Fred.
+[pl] - Nie gadaj, kiedy jesz! - warknęła pani Weasley.
+[pl] - Głodzili go, mamo!
+[pl] Chcieli go zagłodzić na śmierć - powiedział George.
+212-216[de]:Lässig schnippte sie mit dem Zauberstab gegen das Geschirr in der Spüle, das sich, leise im Hintergrund klirrend, selber abwusch.
+[de] »Es war bewölkt, Mum!«, sagte Fred.
+[de] »Sprich nicht mit vollem Mund!«, fauchte Mrs Weasley.
+[de] »Sie haben ihn ausgehungert, Mum!«, sagte George.  
+~^
+231-232[pl]:- Ty też siedź cicho! - fuknęła pani Weasley, ale twarz jej złagodniała, kiedy zaczęła kroić Harry’emu chleb i smarować kromki masłem.
+216-217[de]:»Das gilt auch für dich!«, sagte Mrs Weasley, doch mit leicht besänftigter Miene begann sie für Harry Brote zu schneiden und sie mit Butter zu bestreichen.
+~^
+232-233[pl]:W tym momencie pojawiła się mała, rudowłosa osóbka w nocnej koszuli, która pisnęła cicho i natychmiast wybiegła z kuchni.
+217-218[de]:In diesem Augenblick wurden sie von einer kleinen rothaarigen Gestalt in einem langen Nachthemd abgelenkt, die in der Küche erschien, ein leises Quieken ertönen ließ und wieder hinaushüpfte.
+~^
+233-234[pl]:- To Ginny - szepnął Ron do Harry’ego.
+218-219[de]:»Ginny«, sagte Ron mit gedämpfter Stimme zu Harry.
+~^
+234-235[pl]:- Moja siostra.
+219-220[de]:»Meine Schwester.
+~^
+235-236[pl]:Gadała o tobie przez całe lato.
+220-221[de]:Den ganzen Sommer schon redet sie von dir.«
+~^
+236-237[pl]:- Tak, marzy o twoim autografie, Harry - dodał Fred, szczerząc zęby, ale uchwycił spojrzenie matki i zamilkł, pochylając się nad talerzem.
+221-222[de]:»Tja, sie wird ein Autogramm von dir wollen, Harry«, grinste Fred, doch er fing den Blick seiner Mutter auf und machte sich stumm über seinen Teller her.
+~^
+237-238[pl]:Nikt już nic nie powiedział do czasu, kiedy wszystkie talerze były puste, a trwało to zaskakująco krótko.
+222-223[de]:Keiner sagte mehr ein Wort, bis alle vier Teller leer waren, was überraschend schnell ging.
+~^
+238-239[pl]:- A niech to, ale jestem skonany - ziewnął Fred, odkładając nóż i widelec.
+223-224[de]:»Mensch, bin ich müde«, gähnte Fred und legte endlich Messer und Gabel weg.
+~^
+239-241[pl]:- Chyba pójdę do łóżka i...
+[pl] - Nie ma mowy - warknęła pani Weasley.
+224-225[de]:»Ich glaub, ich geh ins Bett und -« »Das wirst du nicht«, fuhr ihn Mrs
+~^
+241-242[pl]:- Włóczyłeś się przez całą noc na własne życzenie.
+225-226[de]:Weasley an,»es ist dein Problem, dass du die ganze Nacht auf gewesen bist.
+~^
+242-244[pl]:Masz mi odgnomić ogród.
+[pl] Nie mogę sobie dać z nimi rady.
+226-227[de]:Du wirst jetzt den Garten für mich entgnomen, die spielen mal wieder völlig verrückt -«
+~^
+244-251[pl]:- Ale... mamo... - A wy mu pomożecie - powiedziała, rzucając gniewne spojrzenie na Rona i George’a.
+[pl] - Ty możesz się położyć, kochaneczku - dodała, patrząc na Harry’ego.
+[pl] - Nie prosiłeś ich, żeby cię wozili tym przeklętym samochodem.
+[pl] Harry’emu wcale nie chciało się spać.
+[pl] - Pomogę Ronowi.
+[pl] Jeszcze nigdy nie widziałem odgnomiania...
+[pl] - To bardzo miłe z twojej strony, kochanie, ale to nudne zajęcie - powiedziała pani Weasley.
+227-230[de]:»Ach Mum -« »Und ihr auch«" sagte sie mit wütendem Blick auf Ron und Fred.
+[de] »Du kannst nach oben ins Bett, mein Lieber«, sagte sie zu Harry gewandt, »du hast sie ja nicht angestiftet, diesen verkorksten Wagen zu fliegen.«
+[de] Doch Harry, der sich hellwach fühlte, sagte rasch: »Ich helfe Ron, ich hab noch nie beim Entgnomen -« »Das ist sehr lieb von dir, Harry, aber es ist eine stumpfsinnige Arbeit«, sagte Mrs Weasley.
+~^
+251-252[pl]:- No dobrze, zaraz zobaczymy, co Lockhart ma na ten temat do powiedzenia.
+230-231[de]:»Nun, hören wir Mai, was Lockhart dazu sagt -«
+~^
+252-258[pl]:I ze stosu książek nad kominkiem wzięła opasły tom.
+[pl] George jęknął.
+[pl] - Mamo, przecież wiemy, jak odgnomić ogród.
+[pl] Harry zerknął na okładkę książki.
+[pl] Wymyślnymi złotymi literami było tam napisane:
+[pl] Poradnik zwalczania szkodników domowych Gilderoya Lockharta.
+231-234[de]:Und sie zog einen dicken Wälzer vom Kaminsims.
+[de] George stöhnte auf,  »Mum, wir wissen, wie man einen Garten entgnomt -« Harry sah auf den Einband von Mrs Weasleys Buch.
+[de] In verschlungenen Goldlettern standen darauf die Worte: Gilderoy Lockharts Ratgeber für Schädlinge in Haus und Hof
+~^
+258-259[pl]:Była tam również wielka fotografia dobrze odżywionego czarodzieja z pofalowanymi jasnymi włosami i bystrymi oczami.
+234-235[de]:Auf dem Umschlag prangte das Foto eines sehr gut aussehenden Zauberers mit wehendem Blondhaar und hellblauen Augen.
+~^
+259-260[pl]:Jak zawsze w świecie czarodziejów, fotografia poruszała się: czarodziej, zapewne ów Gilderoy Lockhart, mrugał do nich łobuzersko.
+235-236[de]:Wie immer in der Zaubererwelt bewegte sich das Foto und der Abgebildete, offenbar Gilderoy Lockhart, zwinkerte ihnen verschmitzt zu.
+~^
+260-263[pl]:Pani Weasley uśmiechnęła się do niego.
+[pl] - Ach, on jest naprawdę nadzwyczajny...
+[pl] Wie wszystko o szkodnikach domowych...
+236-237[de]:Mrs Weasley sah mit strahlenden Augen zu ihm hinunter.
+~^
+263-265[pl]:w każdym razie to wspaniała książka...
+[pl] - Mama się w nim podkochuje - oznajmił Fred teatralnym szeptem.
+237-239[de]:»Ach, ein wunderbarer Mann«, sagte sie, »er kennt sich aus mit Haushaltsschädlingen, da könnt ihr Gift drauf nehmen, ein fabelhaftes Buch ...«
+[de] »Mum steht auf ihn«, flüsterte Fred laut und deutlich.
+~^
+265-268[pl]:- Nie bądź śmieszny, Fred - powiedziała pani Weasley, ale się zarumieniła.
+[pl] - No dobrze, jeśli uważacie, że jesteście mądrzejsi od Lockharta, idźcie i sami zróbcie z nimi porządek.
+[pl] I radzę wam, żeby w ogrodzie nie było ani jednego gnoma, kiedy przyjdę na inspekcję.
+239-241[de]:»Mach dich nicht lächerlich, Fred«, sagte Mrs Weasley mit deutlich rosa angehauchten Wangen.
+[de] »Na gut, wenn ihr glaubt, ihr wüsstet's besser als Lockhart, dann mal los, und wehe, es ist noch ein einziger Gnom im Garten, wenn ich nachschauen komme.«
+~^
+268-269[pl]:Ziewając i gderając, Weasleyowie wyszli na zewnątrz, a Harry za nimi.
+241-242[de]:Grummelnd und gähnend schlurften die Weasleys nach draußen, Harry im Schlepptau.
+~^
+269-270[pl]:Ogród był duży i wyglądał tak, jak powinien wyglądać ogród.
+242-243[de]:Der Garten war groß und genau nach Harrys Geschmack.
+~^
+270-271[pl]:Dursleyom na pewno by się nie spodobał - było w nim pełno chwastów, a trawy dawno nikt nie strzygł - ale przy murach rosły powykrzywiane drzewa, z każdej grządki wyrastały rośliny, jakich Harry nigdy w życiu nie widział, a w wielkiej zielonej sadzawce gęsto było od żab.
+243-245[de]:Die Dursleys hätten ihn nicht gemocht - es gab eine Menge Unkraut und das Gras hätte mal gemäht werden müssen - entlang der Mauer standen knorrige Bäume;
+[de] in den Blumenbeeten wucherten Pflanzen, die Harry noch nie gesehen hatte, und in einem großen grünen Teich quakten Frösche.
+~^
+271-272[pl]:- Wiesz, mugole też mają gnomy w ogrodach - powiedział Ronowi, kiedy szli przez trawnik.
+245-246[de]:»Auch Muggel haben Gartengnomen, musst du wissen«, sagte Harry, während sie über den Rasen gingen.
+~^
+272-274[pl]:- Aha, widziałem te ich podróbki, które nazywają gnomami - odpowiedział Ron, pochylając się i zaglądając pod krzak peonii.
+[pl] - Podobne do małych grubych świętych Mikołajów z wędkami...
+246-247[de]:»ja, ich hab die Dinger gesehen, die sie für Gnomen halten«, sagte Ron, kniete sich hin und steckte den Kopf tief in einen Pfingstrosenbusch, »zum Beispiel fette kleine Weihnachtsmänner mit Angelruten ...«  
+~^
+274-275[pl]:Krzak zadygotał, coś się pod nim gwałtownie zaczęło szamotać i Ron wyprostował się.
+247-248[de]:Es gab ein heftiges Gezerre, der Pfingstrosenbusch zitterte und Ron richtete sich auf.
+~^
+275-276[pl]:- To jest gnom - oznajmił mściwym tonem.
+248-250[de]:»Das ist ein Gnom sagte er grimmig.
+[de] »Loslassen, loslassen!«, fiepte der Gnom.
+~^
+276-277[pl]:Gnom z całą pewnością nie przypominał świętego Mikołaja.
+250-251[de]:Er sah ganz und gar nicht nach einem Weihnachtsmann aus.
+~^
+277-285[pl]:Był mały, skórzasty, z dużą łysą głową pokrytą guzami, bardzo przypominającą kartofel.
+[pl] Ron trzymał go z daleka od siebie, a gnom wyrywał się i wierzgał zrogowaciałymi nóżkami.
+[pl] Ron złapał go za kostki u nóg, głową w dół.
+[pl] - Oto, co się z nimi robi.
+[pl] - Ron uniósł gnoma i zaczął nim wywijać nad głową jak lassem.
+[pl] Widząc przerażoną minę Harry’ego, dodał: - Nic musie nie stanie...
+[pl] Trzeba je po prostu skołować, żeby nie mogły odnaleźć drogi do swoich dziur.
+[pl] I puścił kostki gnoma, który poszybował ze dwadzieścia stóp w powietrzu i z głuchym łupnięciem wylądował na polu za żywopłotem.
+251-259[de]:Er war klein und lederhäutig und hatte einen großen, knubbligen Glatzkopf wie eine Kartoffel.
+[de] Ron hielt ihn mit ausgestrecktem Arm von sich, weil er mit seinen hornhäutigen kleinen Füßen um sich trat;
+[de] er packte ihn um die Fußgelenke und ließ ihn mit dem Kopf nach unten baumeln.
+[de] »so macht man das«, sagte er.
+[de] Er hob den Gnomen hoch (»Loslassen!«) und begann ihn wie ein Lasso über seinem Kopf zu schwingen.
+[de] Als er Harrys erschrockenes Gesicht sah, sagte Ron: »Es tut ihnen nicht weh - man muss sie nur richtig schwindlig machen, damit sie nicht wieder in ihre Löcher zurückfinden.«
+[de] Er ließ los:
+[de] Der Gnom flog zehn Meter durch die Luft und landete mit einem Plumps im Feldjenseits der Hecke.
+~^
+285-286[pl]:- Żałosne - mruknął Fred.
+259-260[de]:»Erbärmlich«, kommentierte Fred den Wurf.
+~^
+286-287[pl]:- Założę się, że mój wyląduje za tamtym pniakiem.
+260-261[de]:»Ich wette, ich kann meinen bis zu diesem Baumstumpf schleudern.«
+~^
+287-289[pl]:Harry szybko nauczył się nie żałować gnomów.
+[pl] Postanowił sam przerzucić jednego poza żywopłot, ale gnom, wyczuwając słabość, zatopił ostre jak brzytwa zęby w jego palcu, tak że Harry strząsnął go z wielkim trudem, a wówczas... - Uau, Harry, to był rzut...
+261-264[de]:Harry merkte schnell, dass man nicht allzu viel Mitleid mit den Gnomen haben brauchte.
+[de] Den ersten, den er fing, wollte er einfach auf die andere Seite der Hecke fallen lassen, doch der Gnom, der seine Vorsicht spürte, versenkte seine messerscharfen Zähnchen in Harrys Finger.
+[de] Der hatte Mühe, ihn abzuschütteln, bis »Mensch, Harry!
+~^
+289-290[pl]:Chyba z pięćdziesiąt metrów!
+264-265[de]:Das müssen zwanzig Meter gewesen sein ...«
+~^
+290-291[pl]:W powietrzu zaroiło się od latających gnomów.
+265-266[de]:Bald war die Luft erfüllt von fliegenden Gnomen.
+~^
+291-292[pl]:- Jak widzisz, nie są zbyt inteligentne - powiedział George, łapiąc z pięć albo sześć gnomów za jednym razem.
+266-267[de]:»Siehst du, sie sind nicht allzu helle«, sagte George, der fünf oder sechs Gnomen gleichzeitig gepackt hatte.
+~^
+292-294[pl]:- Jak tylko się połapią, że zaczyna się odgnomianie, wszystkie wyłażą, żeby popatrzeć.
+[pl] Głupole, powinny już dawno skumać, że trzeba się chować.
+267-269[de]:»Sobald sie wissen, dass es mit dem Entgnomen losgeht, stürmen sie  hoch, um zuzusehen.
+[de] Man sollte meinen, inzwischen hätten sie gelernt, in ihren Löchern zu bleiben.«
+~^
+294-295[pl]:Wkrótce tłum gnomów na polu zaczął oddalać się od ogrodu.
+269-270[de]:Mit eingezogenen kleinen Schultern begannen die Gnomen auf dem Feld im Gänsemarsch davonzuziehen.
+~^
+295-297[pl]:- Wrócą - rzekł Ron, kiedy patrzyli, jak gnomy znikają pod żywopłotem na drugim końcu pola.
+[pl] - Uwielbiają nasz ogród.
+270-272[de]:»Die kommen zurück«, sagte Ron, während sie die Gnomen in der Hecke auf der anderen Seite des Feldes verschwinden sahen.
+[de] »Denen gefällt es hier ...
+~^
+297-300[pl]:Tata jest dla nich za miękki, uważa, że są takie śmieszne...
+[pl] W tym momencie rozległ się łoskot frontowych drzwi.
+[pl] - Wrócił! - krzyknął George.
+272-276[de]:Dad ist nicht streng genug mit ihnen.
+[de] Er findet sie lustig ...«
+[de] In diesem Augenblick fiel die Haustür ins Schloss.
+[de] »Er ist da!«, sagte George, »Dad.
+~^
+300-301[pl]:- Tata wrócił!
+276-277[de]:ist heimgekommen!«
+~^
+301-302[pl]:Pobiegli w stronę domu.
+277-278[de]:Sie rannten durch den Garten zurück ins Haus.
+~^
+302-303[pl]:Pan Weasley siedział już na kuchennym krześle; zdjął okulary, a oczy miał zamknięte.
+278-279[de]:Mit geschlossenen Augen und der Brille in der Hand war Mr Weasley auf einem Küchenstuhl zusammengesunken.
+~^
+303-304[pl]:Był to chudy mężczyzna zaczynający łysieć, ale resztka włosów, jaka mu jeszcze pozostała, była ruda jak włosy jego dzieci.
+279-280[de]:Er war dünn und hatte nur noch spärliches, doch ebenso rotes Haar wie seine Kinder.
+~^
+304-305[pl]:Miał na sobie długą zieloną szatę, zakurzoną i bardzo znoszoną.
+280-281[de]:Sein langer grüner Umhang war staubig und verschlissen.
+~^
+305-306[pl]:- Co za noc - wymamrotał, sięgając po kubek z herbatą, kiedy wszyscy usiedli wokół niego.
+281-282[de]:»Was für eine Nacht«, murmelte er und griff nach der Teekanne, während sich die jungen um ihn herum niederließen.
+~^
+306-307[pl]:- Dziewięć interwencji.
+282-283[de]:»Neun Hausdurchsuchungen.
+~^
+307-308[pl]:Dziewięć!
+283-284[de]:Neun!
+~^
+308-309[pl]:A stary Mundungus Fletcher próbował rzucić na mnie urok, kiedy się odwróciłem...
+284-285[de]:Und der alte Mundungus Fletcher wollte mir einen Zauberbann auf den Hals jagen, als ich ihm gerade den Rücken zudrehte ...«
+~^
+309-310[pl]:Wypił wielki łyk herbaty i westchnął.
+285-286[de]:Mr Weasley nahm einen kräftigen Schluck Tee und seufzte.
+~^
+310-311[pl]:- Znalazłeś coś, tato? - zapytał z przejęciem Fred.
+286-287[de]:»Hast du was gefunden, Dad?«, wollte Fred wissen.
+~^
+311-315[pl]:- Parę samokurczących się kluczy i gryzący kociołek - odpowiedział pan Weasley.
+[pl] - Ale było też trochę naprawdę wrednych świństw, tyle że nie podpadających pod mój wydział.
+[pl] Zabrali Mortlake’a na przesłuchanie w sprawie jakichś wyjątkowo dziwnych fretek, ale to problem Komisji do spraw Eksperymentalnych Zaklęć...
+[pl] na szczęście...
+287-290[de]:»Nichts außer ein paar schrumpfenden Schlüsseln und einem beißenden Kessel«, gähnte Mr Weasley.
+[de] »Außerdem noch einige recht üble Sachen, für die wir allerdings nicht zuständig sind.
+[de] Mortlake haben sie wegen ein paar äußerst merkwürdiger Frettchen zum Verhör mitgenommen, aber das fällt nicht in meine Abteilung, Gott sei Dank ...«
+~^
+315-316[pl]:- A po co właściwie czarować klucze, żeby się kurczyły? - zapytał George.
+290-291[de]:»Warum sollte sich jemand die Mühe machen, Türschlüssel schrumpfen zu lassen?«, fragte George.
+~^
+316-317[pl]:- A, to takie żarty z mugoli... - westchnął pan Weasley.
+291-292[de]:»Einfach um die Muggel zu ärgern«, seufzte Mr Weasley.  
+~^
+317-318[pl]:- Sprzedaje im się klucz, który kurczy się tak, że właściwie znika, więc nie mogą go znaleźć, jak im jest potrzebny...
+292-293[de]:»Verkaufen ihnen Schlüssel, die zusammenschrumpfen, bis nichts mehr übrig ist, und die Muggel können sie dann nicht mehr finden ...
+~^
+318-320[pl]:Oczywiście, bardzo trudno kogoś o to oskarżyć, bo żaden mugol za nic w świecie nie przyzna, że jego klucze kurczą się do zera...
+[pl] Będzie przysięgał, że wciąż je gubi.
+293-294[de]:Natürlich ist es sehr schwer jemanden dafür ranzukriegen, denn kein Muggel würde zugeben, dass sein Schlüssel schrumpft - sie behaupten andauernd, sie würden sie verlieren.
+~^
+320-321[pl]:Mugole zrobią wszystko, żeby tylko nie uwierzyć w istnienie magii, nawet jak spotkają się z nią twarzą w twarz...
+294-295[de]:Das muss man ihnen lassen, sie tun alles, um die Zauberei zu übersehen, selbst wenn sie ihnen ins Gesicht springt ...
+~^
+321-323[pl]:Ale nigdy byście nie uwierzyli, co się nieraz trafia do odczarowania...
+[pl] - Na przykład SAMOCHODY?
+295-297[de]:Aber was unsere Leute inzwischen alles so verzaubern, ihr würde es nicht glauben »
+[de] AUTOS, ZUM BEISPIEL?«
+~^
+323-324[pl]:Pojawiła się pani Weasley z długim pogrzebaczem w ręku.
+297-298[de]:Mrs Weasley war in der Küche erschienen und hielt einen langen Schürhaken wie ein Schwert in der Hand.
+~^
+324-328[pl]:Pan Weasley gwałtownie otworzył oczy i spojrzał z lękiem na żonę.
+[pl] - S-
+[pl] samochody, kochanie?
+[pl] - Tak, Arturze, samochody - odpowiedziała pani Weasley, a jej oczy miotały groźne iskry.
+298-300[de]:Mr Weasley riss die Augen auf, Schuldbewusst starrte er seine Frau an.
+[de] »A-Autos, Molly, Liebling?« »ja, Arthur, Autos«, sagte Mrs Weasley mit blitzenden Augen.
+~^
+328-329[pl]:- Wyobraź sobie czarodzieja, który kupuje stary pordzewiały samochód i mówi swojej żonie, że chce tylko zobaczyć, jak takie auto działa, a tak naprawdę zaczarowuje je po cichu, żeby latało.
+300-301[de]:»Stell dir vor, ein Zauberer kauft ein rostiges altes Auto und sagt seiner Frau, er wolle es nur auseinander nehmen, um zu sehen, wie es funktioniert, aber in Wahrheit verzaubert er es, damit es fliegen kann.«
+~^
+329-330[pl]:Pan Weasley zamrugał nerwowo.
+301-302[de]:Mr Weasley blinzelte.
+~^
+330-338[pl]:- No cóż, kochanie, myślę, że miałby do tego prawo, nawet gdyby...
+[pl] ee... no, na pewno lepiej by zrobił...
+[pl] tego...
+[pl] no, mówiąc swojej żonie prawdę...
+[pl] Widzisz, w prawie jest pewna luka...
+[pl] dopóki nie zamierza latać samochodem, to sam fakt, że jego samochód lata, nie...
+[pl] - Arturze Weasley, dobrze wiedziałeś, że będzie taka luka, kiedy tworzyłeś to prawo! - zagrzmiała pani Weasley.
+[pl] - A zrobiłeś to, żeby swobodnie majstrować przy tych wszystkich rupieciach mugoli, które znosisz do swojej szopy!
+302-305[de]:»Nun, Liebling, ich denke, du wirst feststellen, dass er sich damit durchaus im Rahmen des Gesetzes bewegt, selbst wenn, ähm, er vielleicht besser daran getan hätte, seiner, ähm, Frau die Wahrheit zu sagen ... es gibt da eine Lücke im Gesetz, wie du sehen wirst ...
+[de] solange er nämlich nicht beabsichtigte, den Wagen zu fliegen, ist die Tatsache, dass der Wagen fliegen könnte, nicht unbedingt -« »Arthur Weasley, du selbst hast dafür gesorgt, dass es eine Lücke gibt, als du dieses Gesetz verfasst hast«, rief Mrs Weasley, »damit du weiter an diesem ganzen Muggelschrott in deinem Schuppen herumbasteln kannst!
+[de] Und zu deiner Information:
+~^
+338-341[pl]:I dowiedz się, że Harry przybył tu dziś rano samochodem, którym ty nie zamierzałeś latać!
+[pl] - Harry? - zapytał pan Weasley.
+[pl] - Jaki Harry?
+305-307[de]:Harry ist heute Morgen in eben diesem Wagen hergekommen, den du nie zu fliegen beabsichtigt hast!«  »Harry?
+[de] «, sagte Mr Weasley ahnungslos, »Harry wer?«
+~^
+341-342[pl]:Rozejrzał się, zobaczył Harry’ego i podskoczył.
+307-308[de]:Er sah sich um, erblickte Harry und sprang auf.
+~^
+342-345[pl]:- O Boże, to przecież Harry Potter!
+[pl] Bardzo mi miło cię poznać, Harry, Ron wiele o tobie opowiadał...
+[pl] - TWOI SYNOWIE POLECIELI TYM SAMOCHODEM DO DOMU HARRY’EGO I Z POWROTEM! - wrzasnęła pani Weasley.
+308-310[de]:»Gütiger Gott, ist das Harry Potter?
+[de] Freut mich sehr, Sie kennen zu lernen, Ron hat uns so viel erzählt -« »Deine Söhne haben den Wagen heute Nacht zu Harrys Haus geflogen und wieder zurück!«, rief Mrs Weasley.
+~^
+345-348[pl]:- Co masz na ten temat do powiedzenia, no?
+[pl] - Naprawdę?
+[pl] - Pan Weasley był wyraźnie podekscytowany.
+310-312[de]:»Was sagst du dazu?«
+[de] »Habt ihr wirklich?«, fragte Mr Weasley begeistert.
+~^
+348-349[pl]:- I co, wszystko działało?
+312-313[de]:»Ist alles gut gegangen?
+~^
+349-352[pl]:To z-znaczy - dodał szybko, widząc iskry sypiące się z oczu pani Weasley - t-to bardzo brzydko, chłopcy...
+[pl] naprawdę bardzo nieładnie....
+[pl] - Zostawmy ich, niech to załatwią między sobą - mruknął Ron do Harry’ego.
+313-315[de]:Ich - ich meine«, stammelte er, als er sah, dass aus Mrs Weasleys Augen Funken sprühten, »das -war ganz falsch von euch, Jungs - wirklich ganz falsch ...«
+[de] »]Lass sie das unter sich ausmachen«, flüsterte Ron in Harrys Ohr, während Mrs Weasley anschwoll wie ein Ochsenfrosch.
+~^
+352-353[pl]:- Chodź, pokażę ci moją sypialnię.
+315-316[de]:»Komm, ich zeig dir mein Schlafzimmer.«
+~^
+353-354[pl]:Wymknęli się z kuchni, a potem poszli wąskim korytarzem w stronę niezbyt pewnie wyglądających schodów, które biegły zygzakiem przez całą wysokość domu.
+316-317[de]:Sie schlichen sich aus der Küche und gingen einen engen Gang entlang zu einer schiefen Treppe, die sich zickzackförmig durch das Haus emporwand.
+~^
+354-355[pl]:Na trzecim piętrze były otwarte na oścież drzwi.
+317-318[de]:Im dritten Stock stand eine Tür offen.
+~^
+355-357[pl]:Harry zdążył uchwycić spojrzeniem parę brązowych, wpatrzonych w niego oczu, zanim drzwi zamknęły się z hukiem.
+[pl] - Ginny - wyjaśnił Ron.
+318-319[de]:Harry konnte gerade noch ein Paar hellbrauner Augen sehen, die ihn anstarrten, bevor sie ins Schloss fiel.
+~^
+357-358[pl]:- Nie masz pojęcia, jakie to dziwne, że jest taka nieśmiała, normalnie usta jej się nie zamykają...
+319-321[de]:»Ginny«, sagte Ron, »du weißt ja nicht, wie komisch es ist, dass sie so scheu ist, normalerweise hört sie nicht auf zu plappern -«
+[de] Sie stiegen noch zwei Stockwerke hoch und standen nun vor einer Tür.
+~^
+358-359[pl]:Wspięli się jeszcze wyżej, aż stanęli przed drzwiami pokrytymi złuszczoną farbą, z małą tabliczką, na której było napisane: POKÓJ RONALDA.
+321-322[de]:Die Farbe blätterte bereits ab und auf einem kleinen Schild stand: »Ronalds Zimmer«.
+~^
+359-360[pl]:Harry wszedł do środka, prawie dotykając głową pochyłego sufitu, i gwałtownie zamrugał.
+322-324[de]:Harry trat ein, wobei er mit dem Kopf beinahe an die schräg abfallende Decke stieß, und blinzelte überrascht.
+[de] Es war, als ob er in einen Hochofen geraten wäre:
+~^
+360-361[pl]:Wydawało mu się, że wszedł do pieca - niemal wszystko było tu pomarańczowe: narzuta na łóżku, ściany, nawet sufit.
+324-326[de]:Fast alles in Rons Zimmer glühte orangerot;
+[de] die Bettdecke, die Wände, sogar die Decke.
+~^
+361-363[pl]:Dopiero po chwili zdał sobie sprawę, że Ron pokrył wszystko plakatami przedstawiającymi siedem postaci w pomarańczowych szatach, trzymających miotły i wymachujących nimi energicznie.
+[pl] - Twoja drużyna quidditcha? - zapytał Harry.
+326-328[de]:Dann erkannte Harry, dass Ron fast jeden Zentimeter der schäbigen Tapete mit Postern derselben sieben Hexen und Zauberer voll geklebt hatte, die alle leuch tend orangerote Umhänge trugen, auf Besen saßen und begeistert winkten.
+[de] »Deine Quidditch-Mannschaft?«, fragte Harry.
+~^
+363-365[pl]:- Armaty Chudleya - odrzekł z dumą Ron, wskazując na pomarańczową narzutę na łóżku, na której były wyhaftowane olbrzymie czarne litery AC i kula armatnia.
+[pl] - Dziewiąte miejsce w lidze.
+328-331[de]:»Die Chudley Cannons«, sagte Ron und wies auf die orangerote Bettdecke, die mit zwei riesigen schwarzen »C« und einer fliegenden Kanonenkugel verziert war.»Neunter
+[de] Platz in der Liga.
+[de] «
+~^
+365-366[pl]:W kącie leżał bezładny stos podręczników szkolnych, tuż obok stosu komiksów z serii Przygody Martina Miggsa, szalonego mugola.
+331-332[de]:Rons Zauberspruchbücher für die Schule waren achtlos in einer Ecke gestapelt, daneben ein Stoß Comic-Hefte, alle offenbar Abenteuer von Martin Miggs, dem mickrigen Muggel.
+~^
+366-367[pl]:Na parapecie stało akwarium pełne żabiego skrzeku, a na nim leżała różdżka Rona.
+332-333[de]:Rons Zauberstab lag auf einem Aquarium voller Froschlaich, das auf dem Fenstersims stand.
+~^
+367-368[pl]:Obok drzemał w plamie słońca jego tłusty szczur Parszywek.
+333-334[de]:Daneben, auf einem sonnigen Fleck, döste Krätze, seine fette graue Ratte.
+~^
+368-369[pl]:Harry przeszedł ostrożnie nad talią samotasujących się kart, rozrzuconych na podłodze, i wyjrzał przez małe okno.
+334-335[de]:Harry stieg über einen Packen Selbst mischender Spielkarten und sah aus dem kleinen Fenster.
+~^
+369-370[pl]:Na polu zobaczył grupę gnomów, przemykających jeden po drugim przez żywopłot ogrodu Weasleyów.
+335-336[de]:Weit unten auf dem Feld konnte er eine Schar Gnomen erkennen, die durch die Hecke der Weasleys zurückschlichen.
+~^
+370-373[pl]:Odwrócił się, żeby spojrzeć na Rona, który wpatrywał się w niego z niepokojem, jakby na coś czekał.
+[pl] - Jest trochę ciasno - powiedział szybko Ron.
+[pl] - Twój pokój u mugoli jest o wiele większy.
+336-338[de]:Er wandte sich um und sah, dass Ron ihn etwas nervös beobachtete, als ob er auf sein Urteil wartete.
+[de] »Ein wenig klein«, sagte Ron rasch, »nicht wie dein Zimmer bei den Muggeln.
+~^
+373-374[pl]:No i tuż nade mną, na strychu, mieszka ghul, bez przerwy wali w rury i jęczy...
+338-339[de]:Und direkt unter dem Ghul in der Dachkammer, der immer auf die Rohre klopft und stöhnt ...«
+~^
+374-376[pl]:Ale Harry uśmiechnął się od ucha do ucha i powiedział: - To najwspanialszy dom, jaki widziałem w życiu...
+[pl] Ronowi zapłonęły uszy.
+
+339-341[de]:Doch Harry grinste breit: »Das ist das beste Haus, in dem ich je war.«
+[de] Rons Ohren liefen rosarot an.
+

@@ -1,0 +1,1057 @@
+0-1[de]:Die Peitschende Weide
+~^
+0-1[pl]:ROZDZIAŁ PIĄTY WIERZBA BIJĄCA  Koniec letnich wakacji zbliżał się nieuchronnie - dla Harry’ego o wiele za szybko.
+1-2[de]:Die Sommerferien gingen zu Ende, viel zu schnell nach Harrys Geschmack.
+~^
+1-2[pl]:Tęsknił za powrotem do Hogwartu, ale miesiąc spędzony w Norze był najszczęśliwszym okresem w jego życiu.
+2-3[de]:Zwar freute er sich auf Hogwarts, doch dieser Monat im Fuchsbau war der glücklichste seines Lebens gewesen.
+~^
+2-4[pl]:Trudno mu było nie zazdrościć Ronowi, kiedy myślał o Dursleyach, i o powitaniu, jakie go czeka, gdy następnym razem zawita na Privet Drive.
+[pl] Nadszedł ostatni wieczór.
+3-4[de]:Es fiel ihm schwer, Ron nicht zu beneiden, wenn er an die Dursleys dachte und daran, wie sie ihn wohl willkommen heißen würden, wenn er das nächste Mal im Ligusterweg auftauchte.
+~^
+4-6[pl]:Pani Weasley przygotowała wspaniałą kolację, a na koniec podała ulubiony deser Harry’ego, karmelowy budyń.
+[pl] Fred i George uświetnili wieczór pokazem sztucznych ogni doktora Filibustera: cała kuchnia wypełniła się czerwonymi i niebieskimi gwiazdami, które przynajmniej przez godzinę odbijały się od sufitu i ścian.
+4-7[de]:An ihrem letzten Abend zauberte Mrs Weasley ein üppiges Mahl aus Harrys Lieblingsspeisen, gekrönt von einem leckeren Siruppudding.
+[de] Fred und George rundeten den Abend mit einer kleinen Vorstellung ihres Filibuster-Feuerwerks ab;
+[de] sie füllten die Küche mit roten und blauen Sternen, die mindestens eine halbe Stunde lang zwischen Wänden und Decke hin und her schossen.
+~^
+6-7[pl]:W końcu przyszedł czas na ostatni kubek gorącej czekolady i trzeba było kłaść się spać.
+7-8[de]:Dann war es Zeit für den letzten Becher heißen Kakao und fürs Bett.
+~^
+7-10[pl]:Następnego ranka dość długo trwało, zanim byli gotowi do drogi.
+[pl] Wstali o pianiu koguta, ale jakoś wciąż było coś do zrobienia.
+[pl] Pani Weasley miotała się po domu w ponurym nastroju, szukając zapasowych skarpetek i piór, wszyscy co chwila wpadali na siebie na schodach, w niekompletnych strojach i z kawałkami tostów w rękach, a pan Weasley cudem uniknął złamania nogi, kiedy dźwigając przez podwórko kufer Ginny, potknął się o samotnego kurczaka.
+8-12[de]:Am nächsten Morgen brauchten sie recht lange, um in die Gänge zu kommen.
+[de] Schon beim ersten Hahnenschrei wachten sie auf, doch merkwürdigerweise hatten sie alle noch eine ganze Menge zu erledigen:
+[de] Mrs Weasley hetzte schlecht gelaunt herum und suchte Sockenpaare und Federkiele zusammen.
+[de] Halb angezogen und mit angebissenen Toastscheiben in den Händen rannten sie ständig auf den Treppen ineinander, und Mr Weasley brach sich beinahe den Hals, als er Ginnys Koffer über den Hof zum Auto schleppte und dabei über ein verirrtes Huhn stolperte.
+~^
+10-11[pl]:Harry nie mógł sobie wyobrazić, w jaki sposób w jednym małym samochodzie zmieści się osiem osób, sześć kufrów, dwie sowy i szczur.
+12-13[de]:Harry konnte sich nicht vorstellen, wie acht Leute, sechs  gewaltige Koffer, zwei Eulen und eine Ratte in einen kleinen Ford Anglia passen sollten.
+~^
+11-12[pl]:Nie wiedział, rzecz jasna, że pan Weasley wyposażył swojego forda anglię w kilka nowych wynalazków.
+13-14[de]:Er hatte natürlich nicht mit Mr Weasleys Sonderausstattung gerechnet.
+~^
+12-14[pl]:- Molly nie musi o tym wiedzieć - szepnął do Harry’ego, otwierając bagażnik, który powiększył się w zaczarowany sposób tak, że wszystkie kufry zmieściły się bez trudu.
+[pl] W końcu wszyscy zapakowali się do samochodu.
+14-15[de]:»Kein Wort davon zu Molly«, flüsterte er Harry zu, als er den Kofferraum öffnete und ihm zeigte, dass er magisch vergrößert war, so dass die Koffer problemlos hineinpassen.
+~^
+14-16[pl]:Pani Weasley zerknęła do tyłu, gdzie Harry, Ron, Fred, George i Percy siedzieli zupełnie wygodnie, i powiedziała: - Ci mugole chyba potrafią więcej, niż nam się wydaje.
+[pl] - Ona i Ginny zajęły przednie siedzenie, obok kierowcy, które rozciągnęło się tak, że przypominało ławkę z parku.
+15-17[de]:Als Harry, Ron, Fred, George und Percy endlich bequem auf der Rückbank Platz genommen hatten, spähte Mrs Weasley durch die Scheibe ins Wageninnere:
+[de] »Die Muggel können doch mehr, als wir ihnen zutrauen, nicht wahr?« Sie und Ginny nahmen auf dem Vordersitz Platz, der sich auf die Größe einer Parkbank ausgedehnt hatte.
+~^
+16-17[pl]:- Jak się patrzy z zewnątrz, nie ma się pojęcia, że w środku jest tyle miejsca, prawda?
+17-18[de]:»Von außen kommt man nie auf den Gedanken, dass drinnen so viel Platz ist, oder?«
+~^
+17-18[pl]:Pan Weasley uruchomił silnik i wyjechali na drogę.
+18-19[de]:Mr Weasley ließ den Motor an und sie fuhren gemächlich über den Hof Harry warf einen letzten Blick zurück aufs Haus.
+~^
+18-19[pl]:Harry odwrócił się, żeby rzucić ostatnie spojrzenie na Norę, ale nie miał czasu pomyśleć, kiedy tu wróci, bo samochód cofnął się na podwórko: George zapomniał swojego pudła ze sztucznymi ogniami doktora Filibustera.
+19-20[de]:Er hatte kaum Zeit, sich zu fragen, wann er es wieder sehen würde, als sie auch schon anhielten: George hatte seine Kiste mit Filibuster-Feuerwerk vergessen.
+~^
+19-20[pl]:Pięć minut później zatrzymali się ponownie, tym razem jeszcze przed bramą, żeby Fred mógł pobiec do domu po swoją różdżkę.
+20-21[de]:Fünf Minuten später kehrten sie mit quietschenden Reifen auf den Hof zurück und Fred rannte los, um seinen Besen zu holen.
+~^
+20-21[pl]:Już byli na szosie, kiedy Ginny jęknęła, że zostawiła swój pamiętnik.
+21-22[de]:Und sie waren kurz vor der Autobahn, als Ginny schreiend verkündete, sie habe ihr Tagebuch vergessen.
+~^
+21-22[pl]:Kiedy w końcu wgramoliła się do samochodu, było już trochę późno i wszyscy zaczęli się denerwować.
+22-23[de]:Als sie endlich wieder in den Wagen stieg, waren sie schon sehr spät dran und die Gemüter waren gereizt.
+~^
+22-25[pl]:Pan Weasley spojrzał na zegarek, a potem na swoją żonę.
+[pl] - Molly, kochanie... - NIE, Arturze.
+[pl] - Nikt nie zobaczy.
+23-24[de]:Mr Weasley blickte auf die Uhr und dann zu seiner Frau hinüber.
+~^
+25-28[pl]:Ten mały guzik to Dopalacz Nie-widzialności...
+[pl] raz dwa wzbijemy się ponad chmury...
+[pl] i będziemy za dziesięć minut na miejscu, a nikt nie będzie na tyle mądry, żeby...
+24-25[de]:»Molly, Liebling -« »Nein, Arthur -« »Kein Mensch würde es sehen - dieser kleine Knopf hier ist für einen Unsichtbarkeits-Servoantrieb, den ich eingebaut habe - der würde uns in die Luft heben - und dann flie gen wir über den Wolken, in zehn Minuten sind wir da, und niemand hätte den geringsten Schimmer -«
+~^
+28-30[pl]:- Powiedziałam NIE, Arturze.
+[pl] Nie w biały dzień.
+25-26[de]:»Ich sagte nein, Arthur, nicht am helllichten Tag.«
+~^
+30-31[pl]:Na King’s Cross dotarli kwadrans przed jedenastą.
+26-27[de]:Um Viertel vor elf fuhren sie am Bahnhof King's Cross vor.
+~^
+31-32[pl]:Pan Weasley pobiegł przez ulicę, żeby przyprowadzić wózki bagażowe i wszyscy popędzili na dworzec.
+27-28[de]:Mr Weasley rannte über die Straße und holte Gepäckkarren und im Laufschritt stürmten sie in die Schalterhalle.
+~^
+32-34[pl]:Harry podróżował już ekspresem do Hogwartu w ubiegłym roku.
+[pl] Sztuczka polegała na tym, żeby dostać się na peron numer dziewięć i trzy czwarte, który dla mugoli był niewidzialny.
+28-30[de]:Harry war schon vor einem Jahr mit dem Hogwarts-Express gefahren.
+[de] Der Trick dabei war, dass sie zu Gleis neundreiviertel kommen mussten, einem Gleis, das Muggelaugen nicht sehen konnten.
+~^
+34-35[pl]:Wystarczyło iść prosto na solidną żelazną barierkę oddzielającą perony dziewiąty i dziesiąty.
+30-31[de]:Dazu war es nötig, durch die Absperrung zu gehen, die die Bahnsteige neun und zehn trennte.
+~^
+35-36[pl]:To nie bolało, ale trzeba było uważać, żeby mugole nie zauważyli, jak się znika.
+31-32[de]:Weh tat es nicht, aber sie mussten aufpassen, dass kein Muggel sie verschwinden sah.
+~^
+36-37[pl]:- Najpierw Percy - oznajmiła pani Weasley, zerkając nerwowo na wielki zegar nad głową, który pokazywał, że mają tylko pięć minut, żeby niepostrzeżenie zniknąć za barierką.
+32-33[de]:»Percy geht als Erster«, sagte Mrs Weasley und blickte nervös auf die Uhr über ihren Köpfen, nach der sie nur noch fünf Minuten Zeit hatten, um lässig hinter der Absperrung zu verschwinden.
+~^
+37-38[pl]:Percy ruszył śmiało prosto na żelazną barierkę i zniknął.
+33-34[de]:Percy marschierte unerschrocken los und verschwand.
+~^
+38-39[pl]:Następnie zniknął pan Weasley, a po nim Fred i George.
+34-35[de]:Mr Weasley ging als Nächster, Fred und George folgten ihm.
+~^
+39-40[pl]:- Ja wezmę Ginny, a wy dwaj pójdziecie po nas - powiedziała pani Weasley, chwytając Ginny za rękę i idąc w stronę barierki.
+35-36[de]:»Ich nehm Ginny mit und ihr beide folgt uns dann«, sagte Mrs Weasley zu Harry und Ron, nahm Ginnys Hand und machte sich auf den Weg.
+~^
+40-41[pl]:Po chwili już ich nie było.
+36-37[de]:Einen Augenblick später waren sie verschwunden.
+~^
+41-44[pl]:- Idziemy razem, mamy tylko minutę - powiedział Ron do Harry’ego.
+[pl] Harry upewnił się, że klatka z Hedwigą spoczywa bezpiecznie na szczycie kufra i ustawił swój wózek naprzeciw barierki.
+[pl] Czuł się dość pewnie; to, co miał zrobić, było o wiele łatwiejsze od podróżowania za pomocą proszku Fiuu.
+37-41[de]:»Lass uns zusammen gehen, wir haben nur noch eine Minute«, sagte Ron zu Harry.
+[de] Harry vergewisserte sich, dass Hedwigs Käfig verschlossen und der Koffer sicher festgezurrt war, und drehte seinen Gepäckwagen zur Absperrung hin.
+[de] Er fühlte sich völlig sicher;
+[de] das war bei weitem nicht so beschwerlich wie die Sache mit dem Flohpulver.
+~^
+44-53[pl]:Obaj pochylili się nisko nad rączkami wózków i ruszyli w stronę bariery, nabierając rozpędu.
+[pl] Kilka kroków przed nią przyspieszyli i... ŁUUP.
+[pl] Oba wózki uderzyły w barierkę i odbiły się od niej z łoskotem.
+[pl] Wózek Rona odskoczył na bok, Harry został zwalony z nóg, a klatka z Hedwigą spadła z wózka i pomknęła po śliskiej posadzce, co spotkało się z gwałtownym i bardzo głośnym sprzeciwem przerażonej sowy.
+[pl] Cała ta scena wzbudziła, rzecz jasna, ogólne zainteresowanie, więc natychmiast pojawił się strażnik, który ryknął: - Co wy tu wyprawiacie, szczeniaki?
+[pl] - Straciłem panowanie nad wózkiem - wyjąkał Harry, podnosząc się i obmacując żebra.
+[pl] Ron pobiegł po Hedwigę, która robiła taki raban, że rozległy się głosy ostro potępiające znęcanie się nad zwierzętami.
+[pl] - Dlaczego nie udało nam się przejść? - syknął Harry do Rona.
+[pl] - Nie wiem...
+41-49[de]:Beide beugten sich tief über die Handgriffe ihrer Karren und schritten zielstrebig auf die Absperrung zu, langsam schneller werdend - ein paar Meter noch, sie begannen zu rennen  SCHEPPER.
+[de] Beide Karren knallten gegen die Absperrung und prallten zurück;
+[de] mit lautem Krachen fiel Rons Koffer herunter, Harry verlor den Halt, der Käfig mit Hedwig purzelte auf den blank gewienerten Boden und empört kreischend schlitterte sie davon;
+[de] die Leute um sie her starrten sie an und ein Wachmann in der Nähe rief.
+[de] »Was zum Teufel denkt ihr euch eigentlich dabei?«
+[de] »Hatten die Karre nicht mehr im Griff«, keuchte Harry und richtete sich auf, die Hände an die Rippen gepresst;
+[de] Ron stürzte los, um Hedwig zu holen, die ein solches Theater veranstaltete, dass einige Umstehende von Tierquälerei zu munkeln begannen.
+[de] »Warum kommen wir nicht durch?«, zischelte Harry.
+~^
+53-57[pl]:Ron rozejrzał się.
+[pl] Z tuzin mugoli wciąż im się przyglądało.
+[pl] - Spóźnimy się na pociąg - szepnął.
+[pl] - Nie rozumiem, dlaczego przejście się nie otworzyło...
+49-52[de]:»Keine Ahnung -« Ron blickte sich hastig um.
+[de] Noch immer verfolgte sie ein Dutzend Neugierige mit ihren Blicken.
+[de] »Wir verpassen noch den Zug«, flüsterte Ron, »ich weiß nicht, warum das Tor sich verschlossen hat -«
+~^
+57-58[pl]:Harry spojrzał na olbrzymi zegar i poczuł niemiły ucisk w żołądku.
+52-53[de]:Harry sah mit einem flauen Gefühl in der Magengegend zu der riesigen Uhr hoch.
+~^
+58-60[pl]:Dziesięć sekund...
+[pl] dziewięć sekund... Odciągnął wózek, ustawił go dokładnie pod kątem prostym do barierki i popchnął z całej siły.
+53-55[de]:Zehn Sekunden ... neun Sekunden ...
+[de] Er schob seinen Karren vorsichtig weiter, bis er direkt vor der Absperrung stand, und drückte dann mit aller Kraft.
+~^
+60-65[pl]:Żelazo nie puściło.
+[pl] Trzy sekundy...
+[pl] dwie sekundy...
+[pl] jedna sekunda...
+[pl] - Odjechał - powiedział Ron z niedowierzaniem.
+55-57[de]:Das Eisen gab nicht nach.
+[de] Drei Sekunden ... zwei Sekunden ... eine Sekunde ... »Er ist weg«, sagte Ron mit verblüffter Stimme.
+~^
+65-66[pl]:- Pociąg odjechał.
+57-58[de]:»Der Zug ist fort.
+~^
+66-67[pl]:Co będzie, jak mama i tata nie będą mogli do nas wrócić?
+58-59[de]:Was ist, wenn Mum und Dad nicht zu uns zurückkönnen?
+~^
+67-68[pl]:Masz jakieś pieniądze mugoli?
+59-60[de]:Hast du Muggelgeld?«
+~^
+68-69[pl]:Harry roześmiał się ponuro.
+60-61[de]:Von Harry kam ein hölzernes Lachen.
+~^
+69-70[pl]:- Od sześciu lat nie dostałem od Dursleyów ani pensa.
+61-62[de]:»Die Dursleys haben mir seit gut sechs Jahren kein Taschengeld mehr gegeben.«
+~^
+70-71[pl]:Ron przycisnął ucho do zimnej barierki.
+62-63[de]:Ron drückte ein Ohr gegen die kalte Barriere.  
+~^
+71-72[pl]:- Nic nie słychać.
+63-64[de]:»Nichts zu hören«, sagte er angespannt.
+~^
+72-74[pl]:I co teraz zrobimy?
+[pl] Nie mam pojęcia, kiedy starzy stamtąd wrócą.
+64-66[de]:»Was sollen wir bloß machen?
+[de] Ich weiß nicht, wie lange Mum und Dad brauchen, um zurückzukommen.«
+~^
+74-76[pl]:Rozejrzeli się.
+[pl] Ludzie wciąż się na nich gapili, głównie dlatego, że Hedwigą skrzeczała, jakby ją odzierano z piór.
+66-68[de]:Sie sahen sich um.
+[de] Noch immer wurden sie beobachtet, kein Wunder, denn Hedwig kreischte unablässig.
+~^
+76-81[pl]:- Lepiej stąd wyjdźmy i poczekajmy przy samochodzie - powiedział Harry.
+[pl] - Wzbudzamy zbyt duże zaintere...
+[pl] - Harry! - przerwał mu Ron, a oczy mu zapłonęły.
+[pl] - Samochód!
+[pl] - Co z samochodem?
+68-70[de]:»Ich glaube, wir gehen lieber raus und warten beim Auto«, sagte Harry, »wir sind zu auffäll ...« »Harry!«, sagte Ron mit leuchtenden Augen, »der Wagen?«
+[de] »Was ist damit?«
+~^
+81-83[pl]:- Możemy nim polecieć do Hogwartu!
+[pl] - Ale... myślałem, że... - Uwięźliśmy tu, prawda?
+70-73[de]:»Wir können mit dem Wagen nach Hogwarts fliegen« »
+[de] Aber ich dachte -«
+[de] »Wir stecken in der Klemme, oder?
+~^
+83-84[pl]:I musimy dostać się do szkoły, tak?
+73-74[de]:Und wir müssen doch zur Schule?
+~^
+84-85[pl]:A nawet małoletni czarodziej może użyć czarów w nagłych wypadkach, paragraf dziewiętnasty czy coś koło tego tej tam ustawy o tajności...
+74-75[de]:Und selbst minderjährige Zauberer dürfen in einem echten Notfall zaubern, Abschnitt neunzehn oder so des Erlasses zur Beschränkung des Weißichnichtwas ...«
+~^
+85-86[pl]:Panika opuściła Harry’ego; zamiast niej poczuł prawdziwe podniecenie.
+75-76[de]:Harrys Panik verwandelte sich jäh in Begeisterung.
+~^
+86-87[pl]:- Potrafisz tym latać?
+76-77[de]:»Kannst du ihn fliegen?«
+~^
+87-88[pl]:- Nie ma problemu - odrzekł Ron, kierując wózek do wyjścia.
+77-78[de]:»Kein Problem«, sagte Ron und drehte seinen Karren in Richtung Ausgang.
+~^
+88-89[pl]:- Chodź, jak się pospieszymy, to dogonimy ekspres do Hogwartu.
+78-79[de]:»Komm, lass uns gehen, wenn wir uns beeilen, können wir dem Hogwarts-Express folgen.«
+~^
+89-90[pl]:I pomaszerowali do wyjścia przez tłum zaciekawionych mugoli, a potem ku bocznej uliczce, na której był zaparkowany stary ford anglia.
+79-80[de]:Und sie marschierten los, mitten durch die Schar der neugierigen Muggel, hinaus aus dem Bahnhof und hinein in die Seitenstraße, wo der alte Ford Anglia geparkt war.
+~^
+90-91[pl]:Ron otworzył przepastny bagażnik, stukając kilka razy różdżką w pokrywę.
+80-81[de]:Ron öffnete den geräumigen Kofferraum mit ein paar sanften Stupsern seines Zauberstabs.
+~^
+91-92[pl]:Trwało to dość długo, ale w końcu wtaszczyli kufry do środka, postawili klatkę z Hedwigą na tylnym siedzeniu, a sami wsiedli z przodu.
+81-82[de]:Sie hievten ihre Koffer hinein, stellten Hedwig auf dem Rücksitz ab und stiegen ein.
+~^
+92-93[pl]:- Zobacz, czy ktoś się nie gapi - powiedział Ron, włączając zapłon różdżką.
+82-83[de]:»Pass auf, dass niemand zuschaut«, sagte Ron und zündete den Motor mit einem weiteren leichten Stupser des Zauberstabs.
+~^
+93-95[pl]:Harry wytknął głowę przez okno: na głównej ulicy ruch był nadal duży, ale w okolicy nie zauważył nikogo.
+[pl] - W porządku.
+83-85[de]:Harry steckte den Kopf aus dem Fenster: über die Hauptstraße vorn rollte lärmender Verkehr, doch ihre Straße war leer.
+[de] »Alles klar«, sagte er.  
+~^
+95-97[pl]:Ron nacisnął srebrny guzik na tablicy rozdzielczej.
+[pl] Samochód nagle zniknął - i oni też.
+85-87[de]:Ron drückte auf einen kleinen silbernen Knopf am Armaturenbrett.
+[de] Der Wagen um sie her verschwand - und sie mit ihm.
+~^
+97-98[pl]:Harry czuł wibrację fotela, słyszał ryk silnika, czuł własne ręce na kolanach i okulary na nosie, ale odnosił wrażenie, że zamienił się w parę oczu unoszących się kilka stóp nad ziemią na obskurnej uliczce pełnej zaparkowanych samochodów.
+87-88[de]:Harry spürte den Sitz unter sich erzittern, hörte den Motor, fühlte seine Hände auf den Knien und seine Brille auf der Nase, doch nach allem, was er sehen konnte, war er nur noch ein Augenpaar, das in einer schäbigen Straße voll geparkter Autos einen Meter über dem Boden schwebte.
+~^
+98-99[pl]:- Startujemy - usłyszał z prawej strony głos Rona.
+88-89[de]:»Los geht's«, sagte Rons Stimme zu seiner Rechten.
+~^
+99-106[pl]:Obdrapane domy po obu stronach nagle uciekły w dół, a po kilku sekundach ujrzeli pod sobą Londyn, zadymiony i połyskujący.
+[pl] A potem coś strzeliło i zobaczyli samochód i siebie.
+[pl] - A niech to!... - krzyknął Ron, uderzając w guzik Dopalacza Nie widzialności.
+[pl] - Coś tu nie gra...
+[pl] Nagle samochód zniknął...
+[pl] ale tylko na chwilę, bo po chwili pojawił się ponownie.
+[pl] - Naciskaj na guzik! - ryknął Ron i z całej siły przydepnął pedał gazu.
+89-95[de]:Und die Straße und die schmutzigen Gebäude versanken zu beiden Seiten, als der Wagen sich in die Lüfte erhob; ein paar Sekunden später lag die große Stadt London glitzernd unter ihnen.
+[de] Dann hörten sie ein lebhaftes Knattern und der Wagen, Harry und Ron tauchten wieder auf.
+[de] »O nein«, sagte Ron und hämmerte auf den Knopf für den Unsichtbarkeits-Servoantrieb ein, »er ist kaputt!«
+[de] Beide fummelten an dem Knopf herum.
+[de] Der Wagen verschwand und kam gleich wieder flackernd zum Vorschein.
+[de] »Halt dich fest!«, rief Ron und drückte das Gaspedal durch;
+~^
+106-108[pl]:Wystrzelili prosto w niskie, wełniste chmury.
+[pl] Otoczyła ich gęsta mgła.
+95-96[de]:sie schossen hinein in die tief hängende flaumige Wolkendecke, und um sie her war nun alles trübe und feucht.
+~^
+108-109[pl]:- Co teraz? - zapytał Harry, mrugając rozpaczliwie, jakby w ten sposób można było przebić wzrokiem chmurę.
+96-97[de]:»Was nun?«, fragte Harry und spähte verdutzt durch die dichte Wolkenmasse.
+~^
+109-110[pl]:- Musimy zobaczyć pociąg, żeby wiedzieć, w którą stronę lecieć - odpowiedział Ron.
+97-98[de]:»Wir müssen den Zug finden, damit wir wissen, in welche Richtung wir fliegen sollen«, sagte Ron.
+~^
+110-111[pl]:- Zanurkuj... szybko...
+98-99[de]:»Wieder runter, schnell«
+~^
+111-115[pl]:Opadli poniżej poziomu chmur i zaczęli się wiercić na siedzeniach, żeby coś zobaczyć w dole...
+[pl] - Widzę! - krzyknął Harry.
+[pl] - Przed nami...
+[pl] tam!
+99-101[de]:Sie tauchten hinab unter die Wolkendecke und schauten durch die Fenster auf die Erde.
+[de] »Ich kann ihn sehen!«, rief Harry, »dort - direkt vor uns«
+~^
+115-116[pl]:Ekspres do Hogwartu wił się pod nimi jak szkarłatny wąż.
+101-102[de]:Der Hogwarts-Express glitt vor ihnen dahin wie eine scharlachrote Schlange.  
+~^
+116-117[pl]:- Jedzie na północ - powiedział Ron, zerkając na kompas na tablicy rozdzielczej.
+102-103[de]:»Richtung Norden«, sagte Ron mit einem Blick auf den Kompass am Armaturenbrett.
+~^
+117-119[pl]:- W porządku, trzeba po prostu sprawdzać kierunek co pół godziny.
+[pl] Nie puszczaj tego guzika...
+103-104[de]:»Gut - wir müssen nur jede halbe Stunde nachsehen - halt dich fest -«
+~^
+119-120[pl]:I znowu wystrzelili w chmury.
+104-105[de]:Und wieder schossen sie hoch in die Wolken;
+~^
+120-121[pl]:W chwilę później wynurzyli się z nich w pełnię blasku słońca.
+105-106[de]:eine Minute später stießen sie durch die Wolkendecke ins gleißende Sonnenlicht.
+~^
+121-122[pl]:Znaleźli się w zupełnie innym świecie.
+106-107[de]:Dies war eine andere Welt.
+~^
+122-123[pl]:Koła samochodu muskały powierzchnię kędzierzawych chmur, niebo było nieskończoną niebieskością, słońce oślepiającą bielą.
+107-108[de]:Die Wagenräder glitten durch das flaumige Wolkenmeer, der Himmel war ein helles, endloses Blau unter der blendend weißen Sonne.
+~^
+123-125[pl]:- Teraz musimy tylko uważać na samoloty - mruknął Ron.
+[pl] Popatrzyli na siebie i wybuchnęli śmiechem; śmiali się i śmiali, nie mogąc przestać.
+108-111[de]:»Jetzt müssen wir nur noch auf Flugzeuge aufpassen«, sagte Ron.
+[de] Sie sahen sich an und prusteten los;
+[de] es dauerte einige Zeit, bis sie sich wieder beruhigt hatten.
+~^
+125-126[pl]:Poczuli się tak, jakby razem zapadli w jakiś bajkowy sen.
+111-112[de]:Sie fühlten sich wie inmitten eines phantastischen Traums.
+~^
+126-129[pl]:To jest dopiero podróż, pomyślał Harry, mknąć ponad wąwozami i kopułami śnieżnobiałych chmur w samochodzie pełnym gorącego, jasnego blasku słońca, z pękatą torebką toffi w schowku, wyobrażając sobie zazdrość na twarzach Freda i George’a, kiedy oni wylądują gładko na łące przy zamku Hogwart.
+[pl] Co jakiś czas nurkowali w dół, żeby sprawdzić, czy lecą w dobrym kierunku.
+[pl] Za każdym razem, kiedy wynurzali się z chmur, pojawiał się inny widok.
+112-114[de]:Das ist die einzig wahre Art zu reisen, dachte Harry: vorbei an schneeigen Wolkenwirbeln und -türmchen, in einem von heißem, hellem Sonnenlicht durchfluteten Wagen, mit einer großen Packung Sahnebonbons im Handschuhfach und der Aussicht auf die neidischen Gesichter von Fred und George, wenn sie vor aller Augen sanft auf dem üppigen Rasen vor Schloss Hogwarts landen würden.
+[de] Immer weiter nach Norden flogen sie und schauten dabei regelmäßig nach dem Zug und jedes Mal, wenn sie unter die Wolken abtauchten, bot sich ihnen ein anderer Blick.
+~^
+129-132[pl]:Wkrótce pozostawili za sobą Londyn, a zobaczyli schludne zielone pola, potem rozległe fiołkowe wrzosowiska, wioski z maleńkimi kościołami i jakieś wielkie miasto, w którym maleńkie samochodziki roiły się jak wielobarwne mrówki.
+[pl] Kilka godzin później
+[pl] Harry doszedł do wniosku, że nie jest już tak fajnie, jak na początku.
+114-116[de]:London lag nun weit hinter ihnen, stattdessen sahen sie anmutige grüne Felder, die allmählich weitläufigen, purpurn schimmernden Mooren wichen, Weilern mit kleinen Spielzeugkirchen und einer großen Stadt, in der es von Autos nur so wimmelte, die an bunte Ameisen erinnerten.
+[de] Mehrere ereignislose Stunden später jedoch musste sich Harry eingestehen, dass er allmählich die Lust verlor.
+~^
+132-133[pl]:Po zjedzeniu torebki toffi okropnie chciało im się pić.
+116-117[de]:Die Sahnebonbons hatten ihnen höllisch Durst gemacht und sie hatten nichts zu trinken dabei.
+~^
+133-134[pl]:Pozdejmowali bluzy, ale i tak koszulka Harry’ego kleiła się do oparcia, a okulary wciąż zjeżdżały mu na czubek spoconego nosa.
+117-118[de]:Er und Ron hatten die Pullis  ausgezogen, doch Harrys T-Shirt klebte an seinem Sitz und die Brille rutschte ihm ständig auf die schweißfeuchte Nasenspitze.
+~^
+134-136[pl]:Przestał zwracać uwagę na fantastyczne kształty obłoków i z tęsknotą myślał o pociągu sunącym po szynach całe mile pod nimi, w którym można było kupić sobie zimnego soku z dyni od zażywne] czarownicy z bufetowym wózkiem.
+[pl] Dlaczego nie udało im się dostać na peron numer dziewięć i trzy czwarte?
+118-120[de]:Die phantastischen Wolkenformen beachtete er schon gar nicht mehr, und sehnsüchtig dachte er an den Zug meilenweit unter ihnen, wo man von einer kugelrunden Hexe mit einem Imbisswägelchen eiskalten Kürbissaft kaufen konnte.
+[de] Warum waren sie eigentlich nicht zu Gleis neundreiviertel durchgekommen?
+~^
+136-138[pl]:- Chyba już blisko, co? - zachrypiał Ron parę godzin później, gdy słońce zaczęło chować się pod chmury, barwiąc je czerwienią i fioletem.
+[pl] - Uwaga, nurkujemy!
+120-122[de]:»Weit kann es nicht mehr sein, oder?«, krächzte Ron wieder ein paar Stunden später, als die Sonne schon im Wolkenteppich versank und den Himmel tiefrosa einfärbte.
+[de] »Wollen wir noch mal nach dem Zug schauen?«
+~^
+138-139[pl]:Pociąg wciąż był pod nimi, posuwając się po krętym torze między ośnieżonymi szczytami gór.
+122-123[de]:Er war immer noch direkt unter ihnen und schlängelte sich an einem schneebedeckten Berg vorbei.
+~^
+139-140[pl]:Pod baldachimem chmur było o wiele ciemniej.
+123-124[de]:Unter dem Wolken-Baldachin war es jetzt schon recht dunkel.
+~^
+140-142[pl]:Ron nacisnął pedał gazu i znowu wznieśli się ponad chmury, ale tym razem silnik zaczął dziwnie wyć.
+[pl] Wymienili zaniepokojone spojrzenia.
+124-126[de]:Ron drückte aufs Gaspedal und flog den Wagen wieder nach oben, doch auf einmal begann der Motor zu wimmern.
+[de] Harry und Ron tauschten nervöse Blicke.
+~^
+142-143[pl]:- Prawdopodobnie się zmęczył - powiedział Ron.
+126-127[de]:»Wahrscheinlich ist er bloß müde«, sagte Ron.
+~^
+143-145[pl]:- Tak daleko nikt nim jeszcze nie jeździł...
+[pl] I obaj zaczęli udawać, że nie słyszą coraz głośniejszego wycia silnika i nie widzą, że robi się coraz ciemniej.
+127-129[de]:»So weit ist er noch nie geflogen ...«
+[de] Und während der Himmel immer dunkler wurde, taten sie so, als ob sie das lauter werdende Wimmern nicht hörten.
+~^
+145-147[pl]:Na czarnym niebie pojawiły się gwiazdy.
+[pl] Harry włożył bluzę, starając się nie zwracać uwagi na to, że wycieraczki poruszają się coraz wolniej, jakby miały już dość.
+129-131[de]:In der Schwärze um sie her blühten Sterne auf.
+[de] Harry zog den Pulli wieder an.
+~^
+147-148[pl]:- Już niedaleko - powiedział Ron, bardziej do samochodu niż do Harry’ego, i kilka razy stuknął palcami w tablicę rozdzielczą.
+131-133[de]:»Nicht mehr weit«, sagte Ron, mehr zum Wagen als zu Harry, »wir sind bald da«, und er tätschelte mit zitternder Hand das Armaturenbrett.
+[de] Als sie eine Weile später wieder durch die Wolken hinabtauchten, mussten sie in der Dunkelheit nach einem Punkt in der Landschaft Ausschau halten, den sie kannten.
+~^
+148-150[pl]:- Tam! - ryknął Harry tak, że Ron i Hedwiga podskoczyli.
+[pl] - Przed nami!
+133-135[de]:»Dort!«, rief Harry, und Ron und Hedwig schraken zusammen.
+[de] »Direkt vor uns«
+~^
+150-152[pl]:Na tle ciemnego horyzontu, na szczycie urwiska nad jeziorem zamajaczyły wieżyczki i baszty zamku Hogwart.
+[pl] Samochód zaczął dygotać i wyraźnie tracił prędkość.
+135-137[de]:Hoch oben auf einer Klippe über dem See, abgehoben ge gen den dunklen Horizont, ragten die vielen Zinnen und Türme von Hogwarts empor.
+[de] Der Wagen begann zu stottern und wurde langsamer.
+~^
+152-157[pl]:- No, jeszcze trochę - powiedział Ron błagalnym tonem, lekko szarpiąc kierownicą.
+[pl] - Już prawie jesteśmy na miejscu...
+[pl] jeszcze trochę...
+[pl] Silnik jęknął.
+[pl] Spod maski tryskały gejzery pary.
+137-140[de]:»Na komm schon«, flehte Ron und rüttelte ein wenig am Steuer, »wir sind doch fast da, los -«
+[de] Der Motor stöhnte auf.
+[de] Unter der Kühlerhaube pfiffen feine Dampfstrahlen hervor.
+~^
+157-158[pl]:Harry bezwiednie wpił palce w brzegi siedzenia, widząc, jak jezioro zaczyna się przybliżać.
+140-141[de]:Harry klammerte sich zu beiden Seiten seines Sitzes fest, während sie auf den See zuflogen.
+~^
+158-159[pl]:Samochód szarpnął nieprzyjemnie.
+141-142[de]:Der Wagen begann heftig zu ruckeln.
+~^
+159-160[pl]:Wyglądając przez okno, Harry ujrzał pod sobą gładką, czarną, szklistą powierzchnię wody.
+142-143[de]:Harry spähte aus dem Fenster und sah ein gutes Stück unter ihnen das ruhige, gläsern-schwarze Wasser.
+~^
+160-161[pl]:Zaciśnięte na kierownicy palce Rona zrobiły się białe.
+143-144[de]:Rons Handknöchel auf dem Lenkrad waren weiß geworden.
+~^
+161-163[pl]:Samochód ponownie szarpnął.
+[pl] - Błagam - jęknął Ron przez zaciśnięte zęby.
+144-146[de]:Wieder machte der Wagen einen Ruck.
+[de] »Ich bitte dich«, murmelte Ron.
+~^
+163-167[pl]:Byli nad jeziorem...
+[pl] zamek czerniał tuż przed nimi...
+[pl] Ron nacisnął pedał.
+[pl] Silnik strzelił, zakrztusił się i ucichł na dobre.
+146-150[de]:Sie waren über dem See ...
+[de] Hogwarts lag direkt vor ihnen ...
+[de] Ron drückte das Gaspedal durch.
+[de] Sie hörten ein lautes metallisches Klirren und mit einem Stottern erstarb der Motor.
+~^
+167-168[pl]:- Och - stęknął Ron w głuchej ciszy.
+150-151[de]:»Uh, aah«, sagte Ron in die Stille hinein.
+~^
+168-169[pl]:Przód samochodu zanurkował w dół.
+151-152[de]:Der Wagen neigte sich vornüber in die Tiefe.
+~^
+169-171[pl]:Spadali, nabierając szybkości, prosto w masywny mur zamku.
+[pl] - NIEEEEE! - ryknął Ron, gwałtownie obracając kierownicą.
+152-154[de]:Sie sanken, immer schneller, geradewegs auf die Schlossmauer zu.
+[de] »Neiiiiin!«, schrie Ron und kurbelte am Steuer;
+~^
+171-172[pl]:Prawie się otarli o kamienny mur, kiedy samochód zatoczył wielki łuk i poszybował nad ciemnymi cieplarniami, potem nad grządkami warzyw i nad czarnymi trawnikami, przez cały czas tracąc wysokość.
+154-156[de]:um kaum einen Meter verfehlten sie die dunkle Steinmauer, und der Wagen beschrieb einen ausladenden Bogen;
+[de] sie surrten über die dunklen Gewächshäuser hinweg, über den Gemüsegarten und dann über die dunklen Parkanlagen, dabei verloren sie stetig an Höhe.
+~^
+172-173[pl]:Ron puścił kierownicę i wyciągnął różdżkę z tylnej kieszeni spodni.
+156-157[de]:Ron ließ das Steuer ganz los und zog seinen Zauberstab aus der hinteren Tasche.
+~^
+173-174[pl]:- STOP!
+157-158[de]:»HALT!
+~^
+174-177[pl]:STOP! - wrzasnął, waląc różdżką w tablicę rozdzielczą i przednią szybę, ale wciąż spadali, a ziemia zbliżała się ku nim z przerażającą szybkością.
+[pl] - UWAGA!
+[pl] DRZEWO!
+158-160[de]:STOPP!«, rief er und schlug auf das Armaturenbrett und die Windschutzscheibe ein, doch immer noch sanken sie tiefer, und der Erdboden flog ihnen entgegen ...  
+[de] »PASS
+~^
+177-180[pl]:- zawył Harry, wyciągając rękę do kierownicy, ale było już za późno...
+[pl] ŁUUP.
+[pl] Samochód uderzył w pień drzewa z ogłuszającym łoskotem i runął na ziemię.
+160-166[de]:AUF DEN BAUM AUF!«, schrie Harry und stürzte sich auf das Lenkrad, doch zu spät SPLITTER.
+[de] Mit ohrenbetäubendem Lärm schlug Metall auf Holz;
+[de] sie krachten gegen den dicken Baumstamm und landeten mit einem schmerzhaften Aufprall auf der Erde.
+[de] Unter der zusammengeschrumpelten Kühlerhaube paffte Dampf
+[de] hervor
+[de] ;
+~^
+180-181[pl]:Spod rozdartej maski buchała para, Hedwiga wrzeszczała ze strachu, na czole Harry’ego pulsował guz wielkości piłki golfowej, a na prawo od niego cicho pojękiwał Ron.
+166-168[de]:Hedwig kreischte in panischer Angst, und auf Harrys Kopf pochte da, wo er gegen die Windschutzscheibe geknallt war, eine golfballgroße Beule.
+[de] Von Ron zu seiner Rechten kam ein lautes, verzweifeltes Stöhnen.
+~^
+181-183[pl]:- Nic ci nie jest? - zapytał Harry.
+[pl] - Moja różdżka - wyjąkał Ron.
+168-170[de]:»Bist du okay?«, fragte Harry besorgt.
+[de] »Mein Zauberstab«, sagte Ron mit zittriger Stimme.
+~^
+183-185[pl]:- Spójrz na moją różdżkę.
+[pl] Różdżka złamała się prawie na pół; koniec zwisał żałośnie na paru drzazgach.
+170-173[de]:»Sieh dir meinen Zauberstab an.«
+[de] Er war durchgeknackst und fast entzweigebrochen;
+[de] die Spitze hing lahm herab und wurde nur noch von ein paar Sehnen gehalten.
+~^
+185-186[pl]:Harry otworzył usta, żeby powiedzieć, że w szkole na pewno uda się ją naprawić, ale nie wypowiedział ani jednego słowa.
+173-174[de]:Harry öffnete den Mund, um zu sagen, das würden sie in der Schule sicher wieder hinbekommen, doch er brachte kein Wort heraus.
+~^
+186-189[pl]:W tym samym momencie coś rąbnęło w bok samochodu z siłą szarżującego byka, a kiedy ukradkiem zerknął na Rona, kolejny, równie potężny cios ugodził w dach.
+[pl] - Co to było?
+[pl] Przerażony Ron wciągnął głośno powietrze i wytrzeszczył oczy, a Harry odwrócił głowę akurat, by zobaczyć, jak gałąź grubości pytona uderza w przednią szybę.
+174-176[de]:In genau diesem Moment schlug etwas mit der Kraft eines rasenden Nashorns gegen seine Wagentür und schmetterte ihn gegen Ron, während zugleich ein ebenso heftiger Schlag das Dach traf.
+[de] »Was ist -« Ron starrte mit offenem Mund durch die Scheibe, und Harry folgte seinem Blick gerade noch rechtzeitig, um zu sehen, wie ein Ast, so dick wie eine Pythonschlange, auf sie einschlug.
+~^
+189-192[pl]:Zaatakowało ich drzewo, na które wpadli.
+[pl] Pień przygiął się nisko, a sękate gałęzie waliły w samochód, gdzie tylko mogły go dosięgnąć.
+[pl] - Aaaach! - wydyszał Ron, kiedy następna powykrzywiana gałąź zrobiła duże wygięcie w drzwiach od jego strony.
+176-180[de]:Der Baum, gegen den sie gekracht waren, fiel über sie her.
+[de] Seine Krone hatte sich fast zum Erdboden hinuntergebogen, und seine knorrigen Zweige trommelten auf jeden Zentimeter des Wagens ein, den sie erreichen konnten.
+[de] »Aaarh!«, sagte Ron, als ein weiterer Ast sich zurück
+[de] bog und eine tiefe Delle in die Fahrertür schlug;
+~^
+192-193[pl]:Szyba przednia dygotała od serii uderzeń twardych jak knykcie gałązek, a gruby jak taran konar walił z furią w dach, który uginał się niebezpiecznie...
+180-181[de]:die Windschutzscheibe zitterte nun unter einem Hagel von Schlägen knöchelartiger Zweiglein, und ein Ast, so dick wie ein Rammbock, hämmerte wild auf das Dach ein, das sich immer tiefer eindellte
+~^
+193-195[pl]:- Uciekamy! - krzyknął Ron, rzucając się na drzwi całym ciężarem.
+[pl] W następnej chwili znalazł się w ramionach Harry’ego, odrzucony przez kolejne potężne uderzenie.
+181-182[de]:»Raus hier, schnell!«, schrie Ron und warf sich mit aller Kraft gegen die Tür, doch schon schleuderte ihn ein teuflischer Aufwärtshaken in Harrys Schoß.
+~^
+195-197[pl]:- Już po nas! - jęknął, gdy dach wygiął się złowieszczo.
+[pl] Nagle poczuli wibrację pod stopami - silnik ponownie zaskoczył.
+182-183[de]:»Wir sind erledigt«, stöhnte er, als das Dach einbrach, doch plötzlich erzitterte der Wagenboden - der Motor war wieder angesprungen.
+~^
+197-198[pl]:- DO TYŁU! - ryknął Harry i samochód cofnął się gwałtownie.
+183-184[de]:»Rückwärts!«, schrie Harry, und der Wagen sauste zurück.
+~^
+198-200[pl]:Drzewo nadal próbowało ich dosięgnąć; słyszeli okropne trzeszczenie korzeni, gdy cały pień wyciągnął się ku nim drapieżnie, chlaszcząc gałęziami w powietrzu.
+[pl] Byli już jednak poza ich zasięgiem.
+184-186[de]:Noch immer schlug der Baum nach ihnen aus;
+[de] mit knarzenden Wurzeln riss er sich fast aus der Erde, um sie noch einmal mit seinen Peitschenhieben zu treffen, bevor sie davonfuhren.
+~^
+200-203[pl]:- Mało brakowało - wysapał Ron.
+[pl] - Dobra robota, samochodziku.
+[pl] Był to jednak ostatni, bohaterski wyczyn starego forda.
+186-189[de]:»Das war knapp«, keuchte Ron.
+[de] »Gut gemacht, Auto.«
+[de] Der Wagen freilich war nun am Ende seiner Kräfte.
+~^
+203-205[pl]:Silnik strzelił dwukrotnie, drzwi się otworzyły, Harry poczuł, jak jego fotel chwieje się gwałtownie, a w następnej chwili leżał już na wilgotnej murawie.
+[pl] Bagażnik wyrzucał z siebie kufry, które lądowały na trawie z głuchym grzmotem.
+189-192[de]:Mit einem trockenen Geräusch flogen die Türen auf und Harry spürte seinen Sitz zur Seite kippen;
+[de] schon lag er, alle Viere von sich gestreckt, auf dem feuchten Erdboden.
+[de] Laute dumpfe Aufschläge sagten ihm, dass der Wagen nun ihr Gepäck aus dem Kofferraum warf;
+~^
+205-206[pl]:Klatka z Hedwiga zatoczyła wielki łuk w powietrzu i otworzyła się, spadając na ziemię, a sowa zaskrzeczała ze złością i poszybowała w stronę zamku, nie oglądając się za siebie.
+192-193[de]:Hedwigs Käfig segelte durch die Luft, die Käfigtür flog auf und mit einem wütenden Kreischen flatterte sie, ohne die beiden noch eines Blickes zu würdigen, rasch in Richtung Schloss davon.
+~^
+206-209[pl]:A pogięty, obdrapany i zionący parą samochód potoczył się w ciemność z okropnym zgrzytem, jękiem i dudnieniem.
+[pl] Tylne światła zamrugały gniewnie.
+[pl] - Wracaj! - krzyknął Ron, wymachując swoją połamaną różdżką.
+193-195[de]:Nun zuckelte der zerbeulte und zerkratzte Wagen, zornig mit den Rücklichtern blinkend, in die Dunkelheit davon.
+[de] »Komm zurück!«, rief Ron ihm nach und fuchtelte mit seinem durchgeknacksten Zauberstab durch die Luft.
+~^
+209-210[pl]:- Tata mnie zabije!
+195-196[de]:»Dad bringt mich um!«
+~^
+210-211[pl]:Ale samochód po raz ostatni strzelił z rury wydechowej i zniknął im z oczu.
+196-197[de]:Doch mit einem letzten Ächzer des Auspuffs verschwand der Wagen in der Nacht.  
+~^
+211-213[pl]:- Możesz uwierzyć w takiego pecha? - zapytał Ron, schylając się po swojego szczura Parszywka.
+[pl] - Tyle tu drzew, a musieliśmy rąbnąć akurat w takie, które się wścieka i oddaje?
+197-199[de]:»Wie kann man nur so viel Pech haben«, sagte Ron niederschlagen und bückte sich, um Krätze, die Ratte, aufzuheben.
+[de] »Von allen Bäumen, gegen die wir hätten fliegen können, haben wir einen getroffen, der zurückschlägt.«
+~^
+213-216[pl]:Spojrzał przez ramię na prastare drzewo, które wciąż wymachiwało groźnie gałęziami.
+[pl] - Chodź - powiedział Harry markotnie.
+[pl] - Musimy jak najszybciej znaleźć się w szkole.
+199-201[de]:Er blickte über die Schulter zurück zu dem alten Baum, der immer noch drohend mit den Zweigen ausschlug.
+[de] »Los komm«, sagte Harry erschöpft, »wir gehen besser rauf zur Schule ...«
+~^
+216-218[pl]:Nie był to wcale ów triumfalny powrót, który obaj sobie wymarzyli.
+[pl] Poobijani i zziębnięci powlekli swoje kufry po trawiastym zboczu, ku dębowym wrotom zamku.
+201-203[de]:Das war keineswegs die triumphale Ankunft, die sie erwartet hatten.
+[de] Mit steifen Gliedern, unterkühlt und zerkratzt packten sie ihre Koffer und zogen den grasbewachsenen Abhang zum großen eichenen Schlossportal hoch.
+~^
+218-219[pl]:- Uczta pewnie już się zaczęła - mruknął Ron, rzucając swój kufer u stóp frontowych schodów i podchodząc, by spojrzeć przez jasno oświetlone okna.
+203-204[de]:»Die Feier hat wohl schon angefangen«, sagte Ron, ließ den Koffer am Fuß der Portaltreppe fallen und huschte zu einem hell erleuchteten Fenster hinüber.
+~^
+219-221[pl]:- Hej, Harry, zobacz.
+[pl] .. ceremonia Przydziału!
+204-205[de]:»Hey, Harry, sieh mal - die Auswahl!«
+~^
+221-222[pl]:Harry podbiegł do niego i razem zajrzeli do Wielkiej Sali.
+205-206[de]:Harry rannte zu Ron hinüber und gemeinsam spähten sie in die Große Halle.
+~^
+222-223[pl]:Niezliczone świece wisiały w powietrzu nad czterema długimi stołami, zastawionymi roziskrzonymi złotymi talerzami i pucharami.
+206-207[de]:Zahllose Kerzen schwebten über den vier langen, dicht besetzten Tischen und ließen die goldenen Teller und Becher funkeln.
+~^
+223-224[pl]:A wyżej zaczarowane sklepienie, które zawsze odzwierciedlało niebo, jarzyło się miriadami gwiazd.
+207-208[de]:Hoch oben an der verzauberten Decke, die immerzu den Himmel draußen spiegelte, glitzerten die Sterne.
+~^
+224-227[pl]:Ponad lasem czarnych spiczastych tiar na głowach uczniów Harry zobaczył wystraszonych pierwszoroczniaków wchodzących do sali.
+[pl] Była wśród nich Ginny, której trudno było nie zauważyć z powodu płomienistych włosów.
+[pl] Tymczasem profesor McGonagall, w okularach i z włosami splecionymi w ciasny kok, kładła już na stoliku słynną Tiarę Przydziału.
+208-211[de]:Durch den Wald aus schwarzen Hogwarts-Spitzhüten sah Harry eine lange Schlange Erstklässler mit bangen Blicken in die Halle marschieren.
+[de] Ginny war wegen ihres leuchtend roten Weasley-Haares leicht zu erkennen.
+[de] Nun trat Professor McGonagall hinzu, eine bebrillte Hexe mit strammem Haarknoten, und legte den berühmten Sprechenden Hut von Hogwarts auf einen Stuhl.
+~^
+227-228[pl]:Rok w rok ów stary kapelusz, połatany, wystrzępiony i brudny, dzielił nowych uczniów na cztery domy Hogwartu (Gryffindor, Hufflepuff, Ravenclaw i Slytherin).
+211-212[de]:Dieser uralte Hut, fleckig, rissig und Schmutzig, verteilte alljährlich die neuen Schüler auf die vier Häuser von Hogwarts (Gryffindor, Hufflepuff, Ravenclaw und Slytherin).
+~^
+228-229[pl]:Harry dobrze pamiętał chwilę - a było to dokładnie rok temu - w której włożył Tiarę Przydziału i zamarł w oczekiwaniu na decyzję, słysząc jej mamrotanie w uszach.
+212-213[de]:Harry erinnerte sich noch gut daran, wie er ihn vor genau  einem Jahr aufgesetzt und ganz versteinert auf die Entscheidung gewartet hatte, während ihm der Hut eindringlich ins Ohr flüsterte.
+~^
+229-230[pl]:Przez kilka strasznych chwil lękał się, że dostanie przydział do Slytherinu, domu, z którego wyszło najwięcej czarnoksiężników i wiedźm w dziejach Hogwartu, ale na szczęście trafił do Gryffindoru, razem z Ronem, Hermioną i resztą Weasleyów.
+213-215[de]:Ein paar schreckliche Sekunden lang hatte er befürchtet, der Hut würde ihn nach Slytherin stecken, in das Haus, das mehr schwarze Hexen und Zauberer hervorgebracht hatte als jedes andere.
+[de] Doch er war schließlich nach Gryffindor gekommen, zusammen mit Ron, Hermine und den anderen Weasleys.
+~^
+230-231[pl]:W ostatnim semestrze Harry i Ron pomogli Gryfonom zdobyć Puchar Domów, zwyciężając Ślizgonów po raz pierwszy od siedmiu lat.
+215-216[de]:Im letzten Schuljahr hatten Harry und Ron dazu beigetragen, dass Gryffindor die Hausmeisterschaft gewonnen und damit Slytherin nach sieben Jahren endlich wieder besiegt hatte.
+~^
+231-232[pl]:Właśnie wywołano małego chłopca o mysich włosach.
+216-217[de]:Ein sehr kleiner Junge mit mausgrauem Haar war aufgerufen worden, den Hut aufzusetzen.
+~^
+232-234[pl]:Harry wyłowił spojrzeniem profesora Dumbledore’a, dyrektora Hogwartu, który obserwował ceremonię Przydziału zza stołu nauczycielskiego.
+[pl] Jego długa srebrna broda i okulary-połówki jaśniały w blasku świec.
+217-219[de]:Harrys Augen wanderten an ihm vorbei, dorthin, wo Professor Dumbledore saß, der Schulleiter mit dem langen, silbernen Bart.
+[de] Vom Lehrertisch aus verfolgte er die Auswahl durch seine halbmondförmigen Brillengläser, die im Kerzenlicht blitzten.
+~^
+234-235[pl]:Kilka krzeseł dalej siedział Gilderoy Lockhart w akwamarynowej szacie.
+219-220[de]:Ein paar Plätze weiter sah Harry Gilderoy Lockhart, gewandet in einen aquamarinblauen Umhang.
+~^
+235-237[pl]:A na końcu stołu rozpierał się Hagrid, olbrzymi i włochaty, popijając ze swojego pucharu.
+[pl] - Trzymaj się, bo spadniesz... - mruknął Harry do Rona.
+220-222[de]:Und dort, am Ende des Tisches, saß Hagrid, riesig und haarüberwuchert, und nahm tiefe Schlucke aus seinem Becher.
+[de] »Guck mal ...«1 zischte Harry Ron ins Ohr.
+~^
+237-238[pl]:- Przy stole nauczycielskim jest puste miejsce...
+222-223[de]:»Dort am Lehrertisch ist ein freier Platz ...
+~^
+238-239[pl]:Gdzie jest Snape?
+223-224[de]:Wo ist eigentlich Snape?«
+~^
+239-240[pl]:Severus Snape był najmniej przez Harry’ego lubianym profesorem, a tak się składało, że Harry był uczniem najmniej lubianym przez Snape’a.
+224-226[de]:Professor Severus Snape war der Lehrer, den Harry am wenigsten leiden konnte.
+[de] Und es traf sich, dass Harry auch der Schüler war, den Snape am wenigsten leiden konnte.
+~^
+240-241[pl]:Złośliwy, sarkastyczny i powszechnie znienawidzony profesor Snape nauczał eliksirów.
+226-227[de]:Der grausame, spöttische und bei allen außer bei den Schülern seines eigenen Hauses (Slytherin) unbeliebte Snape unterrichtete Zaubertränke.
+~^
+241-242[pl]:- Może jest chory! - szepnął Ron z nadzieją.
+227-228[de]:»Vielleicht ist er krank«, sagte Ron hoffnungsvoll.
+~^
+242-245[pl]:- Może sam odszedł - mruknął Harry - bo znowu nie dali mu obrony przed czarną magią!
+[pl] - Albo może go wylali! - zawołał Ron.
+[pl] - Przecież nikt go nie znosi, więc...
+228-230[de]:»Vielleicht hat er gekündigt«, entgegnete Harry, »weil er wieder nicht Verteidigung gegen die dunklen Künste unterrichten darf!«  »Oder sie haben ihn rausgeschmissen!
+[de] «, meinte Ron begeistert.
+~^
+245-247[pl]:- A może - rozległ się lodowaty głos tuż za nimi - czeka, żeby usłyszeć, dlaczego wy dwaj nie przyjechaliście pociągiem razem z innymi.
+[pl] Harry odwrócił się gwałtownie.
+230-232[de]:»Immerhin kann ihn ja keiner ausstehen -« »Oder vielleicht«, sagte eine eisige Stimme direkt hinter ihnen, »wartet er darauf, von euch zu hören, warum ihr nicht mit dem Schulzug gekommen seid.«
+[de] Harry wirbelte herum.
+~^
+247-248[pl]:Przed nimi, w czarnej todze falującej w chłodnym wietrze, stał Severus Snape.
+232-233[de]:Vor ihnen, sein schwarzer Umhang flatterte in der kalten Brise, stand Severus Snape.
+~^
+248-252[pl]:Był to chudy mężczyzna o pożółkłej cerze, z haczykowatym nosem i tłustymi, sięgającymi ramion czarnymi włosami.
+[pl] W tym akurat momencie uśmiechał się w sposób, który Harry i Ron rozszyfrowali natychmiast.
+[pl] Znaleźli się w poważnych kłopotach.
+[pl] - Za mną - warknął Snape.
+233-236[de]:Er war ein dünner, fahlhäutiger Mann mit Hakennase und fettigem, schulterlangem schwarzem Haar.
+[de] Und in diesem Augenblick lächelte er auf eine Weise, die Harry sagte, dass er und Ron in gewaltigen Schwierigkeiten steckten.
+[de] »Kommt«, sagte Snape.
+~^
+252-253[pl]:Nie śmiejąc nawet wymienić spojrzeń, poszli za nim schodami do oświetlonej pochodniami sali wejściowej, rozbrzmiewającej echem ich kroków.
+236-237[de]:Harry und Ron wagten nicht einmal, sich Blicke zuzuwerfen, und folgten Snape die Stufen hoch in die ausladende, von Echos durchzogene und fackelbeleuchtete Eingangshalle.
+~^
+253-254[pl]:Rozkoszna woń potraw napływała z Wielkiej Sali, ale Snape szybko wyprowadził ich z kręgu światła i ciepła, schodząc wąskimi kamiennymi schodkami w dół, do lochów.
+237-238[de]:Ein köstlicher Duft wehte aus der Großen Halle herüber, doch Snape führte sie weg aus der Wärme und dem Licht und eine schmale Steintreppe hinunter, die in die Kerker führte.
+~^
+254-255[pl]:- Do środka! - rozkazał, otwierając jakieś drzwi w połowie zimnego korytarza.
+238-239[de]:»Da hinein!«, sagte er und öffnete eine Tür auf halbem Weg den dunklen Treppengang hinunter.
+~^
+255-256[pl]:Weszli do gabinetu Snape’a, trzęsąc się z zimna i strachu.
+239-240[de]:Zitternd betraten sie Snapes Büro.
+~^
+256-257[pl]:Na ciemnych półkach wzdłuż ścian stały rzędy szklanych słojów, a temu, co w nich pływało, Harry wolał się w tym momencie nie przyglądać.
+240-241[de]:An den dunklen Wänden zogen sich Regale voller großer Einmachgläser entlang, in denen alle möglichen widerwärtigen Geschöpfe schwammen, deren Namen Harry im Moment nicht wusste.
+~^
+257-258[pl]:W kominku nie płonął ogień.
+241-242[de]:Der Kamin war dunkel und leer.
+~^
+258-259[pl]:Snape zamknął drzwi, odwrócił się i zmierzył ich zimnym spojrzeniem.
+242-243[de]:Snape schloss die Tür, wandte sich um und blickte die beiden an.
+~^
+259-261[pl]:- A więc - zaczął niemal łagodnie - słynny Harry Potter i jego wierny towarzysz Weasley gardzą czymś tak przyziemnym jak pociąg, co?
+[pl] Chcieliście pojawić się tutaj z wielkim hukiem, tak?
+243-244[de]:»Soso«' sagte er leise, »der Zug ist nicht gut genug für den berühmten Harry Potter und seinen treuen Kameraden Weasley.
+~^
+261-265[pl]:- Nie, panie profesorze, tylko ta barierka na King s Cross...
+[pl] - Milczeć!
+[pl] Co zrobiliście z samochodem?
+[pl] Ron przełknął ślinę.
+244-247[de]:Wollten hier mit großem Trara ankommen, nicht Wahr, die Herren« »Nein, Sir, die Absperrung in King's Cross, sie ...«
+[de] »Ruhe«, sagte Snape kühl.
+[de] »Was habt ihr mit dem Wagen gemacht?«  Ron schluckte.
+~^
+265-266[pl]:Nie po raz pierwszy Snape zrobił na Harrym wrażenie człowieka, który czyta w cudzych myślach.
+247-248[de]:Nicht zum ersten Mal hatte Harry den Eindruck, Snape könne Gedanken lesen.
+~^
+266-268[pl]:Chwilę później zrozumiał wszystko, kiedy Snape potrząsnął im przed nosem ostatnim numerem „Proroka Wieczornego”.
+[pl] - Widziano was - syknął, wskazując na wielki tytuł na pierwszej stronie: LATAJĄCY FORD ANGLIA BUDZI SENSACJĘ WŚRÓD MUGOLI.
+248-256[de]:Doch einen Moment später, als Snape die neue Ausgabe des Abendpropheten entrollte, wurde ihm alles klar.
+[de] »Man hat euch gesehen«, zischte Snape und zeigte ihnen die Schlagzeile:
+[de] FLIEGENDER
+[de] FORD
+[de] ANGLIA
+[de] VERSETZT
+[de] MUGGEL IN AUFREGUNG.
+[de] Er las laut vor.
+~^
+268-269[pl]:I zaczął czytać na głos: - Dwóch mugoli w Londynie utrzymuje, że widziało stary samochód przelatujący nad wieżą Poczty Głównej... w południe, w Norfolku, pani Hetty Bayliss, wieszając bieliznę...
+256-258[de]:»Zwei Londoner Muggel sind felsenfest überzeugt, dass sie einen alten Wagen über den Turm des Postamtes fliegen sahen ...
+[de] Als Mrs Hetty Bayliss in Norfolk um die Mittagszeit ihre Wäsche aufhängen wollte ...
+~^
+269-270[pl]:pan Angus Fleet z Peebles zgłosił policji...
+258-259[de]:Mr Angus Fleet aus Peebles schilderte der Polizei ...
+~^
+270-271[pl]:razem sześciu lub siedmiu mugoli.
+259-260[de]:Sechs bis sieben Muggel insgesamt.
+~^
+271-272[pl]:O ile dobrze pamiętam, twój ojciec pracuje w Urzędzie Niewłaściwego Użycia Produktów mugoli, tak? - zapytał, patrząc na Rona i uśmiechając się jeszcze bardziej jadowicie.
+260-261[de]:Ich glaube, dein Vater arbeitet in der Abteilung für den Missbrauch von Muggelsachen«, sagte er und blickte Ron mit zunehmend gehässigem Lächeln an.
+~^
+272-273[pl]:- No, no, no... jego własny syn...
+261-262[de]:»Meine Güte ... sein eigener Sohn ...«
+~^
+273-274[pl]:Harry poczuł się tak, jakby jedna z grubszych gałęzi wściekłego drzewa wymierzyła mu właśnie cios prosto w żołądek.
+262-263[de]:Harry fühlte sich, als ob ihn gerade einer der kräftigeren Äste des verrückten Baumes in die Magengegend geschlagen hätte.
+~^
+274-275[pl]:Jeśli ktoś się dowie, że pan Weasley zaczarował samochód...
+263-264[de]:Wenn jemand herausfand, dass Mr Weasley den Wagen verhext hatte ... daran hatte er gar nicht gedacht ...
+~^
+275-276[pl]:- Przeszukując park, zauważyłem, że bardzo cenna wierzba bijąca została poważnie uszkodzona - ciągnął Snape.
+264-265[de]:»Wie ich bei meinem Kontrollgang durch den Park feststellen musste, scheint eine sehr wertvolle Peitschende Weide schwer beschädigt worden zu sein«, fuhr Snape fort.
+~^
+276-278[pl]:- To drzewo bardziej uszkodziło nas... - wymamrotał Ron.
+[pl] - Milczeć! - warknął ponownie Snape.
+265-267[de]:»Der Baum hat uns mehr zugesetzt als wir ihm«, sprudelte es aus Ron heraus.
+[de] »Ruhe!«, fuhr ihn Snape an.
+~^
+278-279[pl]:- Niestety, nie jesteście w moim domu i nie do mnie należy decyzja o wyrzuceniu was ze szkoły.
+267-268[de]:»Zu meinem größten Bedauern gehört ihr nicht zu meinem Haus, und die Entscheidung, euch von der Schule zu weisen, ist nicht meine Sache.
+~^
+279-280[pl]:Teraz pójdę i sprowadzę kogoś, kto ma taką władzę.
+268-269[de]:Ich werde jetzt gehen und die Leute holen, die das Glück haben, dazu befugt zu sein.
+~^
+280-281[pl]:A wy tutaj poczekacie.
+269-270[de]:Ihr wartet hier.«
+~^
+281-282[pl]:Harry i Ron spojrzeli po sobie; obaj byli biali jak papier.
+270-271[de]:Harry und Ron starrten sich in die weißen Gesichter.
+~^
+282-283[pl]:Harry przestał odczuwać głód.
+271-272[de]:Hunger hatte Harry keinen mehr.
+~^
+283-284[pl]:Było mu po prostu niedobrze.
+272-273[de]:Ihm war jetzt furchtbar schlecht.
+~^
+284-285[pl]:Starał się nie patrzyć na coś wielkiego i obślizgłe-go zawieszonego w zielonkawym płynie w słoju na półce tuż za biurkiem Snape’a.
+273-274[de]:Er versuchte, nicht das große, schleimige Etwas an zusehen, das da in grüner Flüssigkeit auf einem Regal hinter Snapes Schreibtisch schwebte.
+~^
+285-286[pl]:Jeśli Snape przyprowadzi profesor McGonagall, opiekunkę Gryffindoru, ich sytuacja wcale się nie polepszy.
+274-275[de]:Wenn Snape jetzt Professor McGonagall holte, die Hauslehrerin von Gryffindor, dann würde es ihnen kaum besser ergehen.
+~^
+286-287[pl]:Była od niego bardziej sprawiedliwa, ale była też bardzo surowa.
+275-276[de]:Sie war vielleicht fairer als Snape, aber dafür äußerst streng.
+~^
+287-288[pl]:Dziesięć minut później wrócił Snape, a osobą, która mu towarzyszyła, była profesor McGonagall.
+276-277[de]:Zehn Minuten später kam Snape zurück und tatsächlich in Begleitung von Professor McGonagall.
+~^
+288-289[pl]:Harry już nieraz widział ją rozgniewaną, ale albo zapomniał, jak bardzo mogą zwęzić się jej usta, albo jeszcze nie widział jej naprawdę rozwścieczonej.
+277-278[de]:Harry hatte sie schon mehrmals wütend gesehen, doch entweder hatte er vergessen, wie schmal ihr Mund werden konnte, oder er hatte sie noch nie so zornig erlebt.
+~^
+289-292[pl]:Gdy tylko weszła, uniosła różdżkę.
+[pl] Harry i Ron cofnęli się, przerażeni, ale ona tylko wskazała nią na kominek, w którym natychmiast buchnął ogień.
+[pl] - Siadajcie - powiedziała, a oni zapadli się w fotele przy kominku.
+278-283[de]:Sie war kaum eingetreten, als sie auch schon ihren Zauberstab hob.
+[de] Harry und Ron zuckten zusammen.
+[de] Doch sie richtete ihn nur auf den leeren Kamin, in dem jetzt plötzlich Flammen aufflackerten.
+[de] »Setzen Sie sich.«
+[de] Ron und Harry ließen sich auf Stühle beim Feuer nieder.
+~^
+292-295[pl]:- Czekam na wyjaśnienia - powiedziała, a jej okulary błysnęły złowieszczo.
+[pl] Ron zaczął opowiadać, zaczynając od przygody z barierką, która nie chciała ich przepuścić.
+[pl] - ...więc nie mieliśmy wyboru, pani profesor, nie mogliśmy się dostać do pociągu.
+283-285[de]:»Ich wünsche eine Erklärung«, sagte sie mit Unheil verkündend schimmernden Brillengläsern.
+[de] Ron stürzte sich in die Schilderung ihrer Erlebnisse und begann bei der Absperrung, die sie nicht durchlassen wollte. »... also hatten wir keine Wahl, Professor, wir konnten den Zug nicht erreichen.«
+~^
+295-299[pl]:- Dlaczego nie wysłaliście listu przez sowę?
+[pl] Ty chyba masz sowę, co? - zwróciła się do Harry’ego.
+[pl] Harry wytrzeszczył na nią oczy i otworzył usta.
+[pl] Teraz, kiedy to usłyszał, wydało się to tak oczywiste...
+285-289[de]:»Warum haben Sie uns keinen Brief per Eule geschickt?
+[de] Ich glaube, Sie haben eine Eule?«, sagte Professor McGonagall mit kalter Stimme zu Harry gewandt.
+[de] Harry sah sie bestürzt an.
+[de] Nun, da sie es sagte, schien es das Natürlichste gewesen zu sein.
+~^
+299-300[pl]:- Ja... ja nie pomyślałem...
+289-290[de]:»Ich ... ich habe nicht gedacht ...«
+~^
+300-301[pl]:- No właśnie - stwierdziła chłodno profesor McGonagall.
+290-291[de]:»Das«, sagte Professor McGonagall, »ist mir klar.«
+~^
+301-302[pl]:Rozległo się pukanie do drzwi i Snape, wyraźnie uradowany, podszedł, aby je otworzyć.
+291-292[de]:Es klopfte, und Snape, gut gelaunt wie sonst nie, öffnete die Tür.
+~^
+302-304[pl]:Do gabinetu wkroczył profesor Dumbledore.
+[pl] Harry poczuł, że drętwieje mu całe ciało.
+292-294[de]:Herein kam der Schulleiter, Professor Dumbledore.
+[de] Harry spürte seinen ganzen Körper taub werden.
+~^
+304-306[pl]:Dumbledore miał niezwykle poważną minę.
+[pl] Spojrzał na nich z góry, a Harry nagle stwierdził, że wolałby nadal tkwić w objęciach bijącej wierzby.
+294-297[de]:Dumbledore sah ungewöhnlich ernst aus.
+[de] Er blickte sie entlang seiner sehr krummen Nase an und Harry verspürte jäh den  Wunsch, die Peitschende Weide möge immer noch auf ihn und Ron einprügeln.
+[de] Ein langes Schweigen trat ein.
+~^
+306-307[pl]:Zapadło długie milczenie, a potem Dumbledore powiedział: - Proszę mi wyjaśnić, dlaczego to zrobiliście.
+297-298[de]:Dann sagte Dumbledore: »Bitte erklären Sie mir, warum Sie das getan haben.«
+~^
+307-308[pl]:Byłoby lepiej, gdyby krzyczał.
+298-299[de]:Es wäre besser zu ertragen gewesen, wenn er sie angeschrien hätte.
+~^
+308-309[pl]:Harry’emu bardzo się nie podobała nuta zawodu w jego głosie.
+299-300[de]:Die Enttäuschung, die in Dumbledores Stimme lag, gefiel Harry überhaupt nicht.
+~^
+309-310[pl]:Nie był w stanie spojrzeć mu w oczy, więc przemówił do swoich kolan.
+300-301[de]:Aus irgendeinem Grund konnte er Dumbledore nicht in die Augen sehen und er sprach stattdessen zu seinen Knien.
+~^
+310-311[pl]:Opowiedział wszystko, zatajając tylko, do kogo należał zaczarowany samochód, dając do zrozumienia, że on i Ron po prostu znaleźli jakiś latający samochód zaparkowany w pobliżu dworca.
+301-302[de]:Er sagte Dumbledore alles, außer dass der verzauberte Wagen Mr Weasley gehörte, und tat so, als hätten er und Ron ganz zufällig einen fliegenden Wagen vor dem Bahnhof gefunden.
+~^
+311-312[pl]:Wiedział, że Dumbledore natychmiast zorientuje się, że to lipa, ale dyrektor nawet nie zapytał o samochód.
+302-303[de]:Dass Dumbledore diesen Schwindel sofort durchschauen würde, war ihm klar, doch Dumbledore wollte nichts weiter über den Wagen wissen.
+~^
+312-313[pl]:Kiedy Harry skończył, przypatrywał im się długo przez okulary.
+303-304[de]:Als Harry fertig war, sah er sie einfach weiter durch seine Brille hindurch an.
+~^
+313-314[pl]:- Pójdziemy zabrać swoje rzeczy - powiedział Ron bez cienia nadziei.
+304-305[de]:»Wir holen unsere Sachen«, sagte Ron mit matter Stimme.
+~^
+314-316[pl]:- O czym ty mówisz, Weasley? - warknęła profesor McGonagall.
+[pl] - No przecież wylatujemy ze szkoły, prawda?
+305-308[de]:»Was reden Sie da, Weasley?«, blaffte ihn Professor McGonagall an.
+[de] »Sie werfen uns doch raus, oder?«, sagte Ron.
+[de] Harry warf Dumbledore einen raschen Blick zu.
+~^
+316-317[pl]:- Nie dzisiaj, panie Weasley - powiedział Dumbledore.
+308-309[de]:»Nicht heute, Mr Weasley«, sagte Dumbledore.
+~^
+317-318[pl]:- Musi jednak do was obu dotrzeć, że to, co zrobiliście, jest bardzo poważnym wykroczeniem.
+309-310[de]:»Doch ich muss Ihnen nachdrücklich einschärfen, dass Ihr Handeln ein schwerer Fehler war.
+~^
+318-321[pl]:Jeszcze dziś napiszę do waszych rodzin.
+[pl] Muszę was również ostrzec, że jeśli coś takiego się powtórzy, nie będę miał wyboru.
+[pl] Wyrzucę was ze szkoły.
+310-312[de]:Ich werde heute Abend Ihren Familien schreiben.
+[de] Ich muss Sie auch davor warnen, noch einmal etwas Derartiges zu tun, denn dann werde ich keine andere Wahl haben, als Sie von der Schule zu weisen.«
+~^
+321-323[pl]:Snape wyglądał, jakby odwołano Boże Narodzenie.
+[pl] Odchrząknął i powiedział: -
+312-313[de]:Snape sah aus, als wäre Weihnachten abgesagt worden.
+~^
+323-325[pl]:Profesorze Dumbledore, ci chłopcy pogwałcili dekret o ograniczeniu używania czarów przez małoletnich czarodziejów, spowodowali poważne uszkodzenie bardzo starego i cennego drzewa...
+[pl] Z całą pewnością tego rodzaju zachowanie...
+313-314[de]:Er räusperte sich und sagte: »Professor Dumbledore, diese Jungen haben die Vorschriften zur Einschränkung der Zauberei Minderjähriger gebrochen und einen wertvollen alten Baum schwer beschädigt ... gewiss müssen derlei Taten ...«
+~^
+325-326[pl]:- Ukaranie tych chłopców należy do profesor McGonagall, Severusie - odrzekł spokojnie Dumbledore.
+314-315[de]:»Es ist Sache von Professor McGonagall, über die Strafen  für die Jungen zu befinden, Severus«, sagte Dumbledore gelassen.
+~^
+326-327[pl]:- Są z jej domu i to ona ponosi za nich odpowiedzialność.
+315-316[de]:»Sie gehören zu ihrem Haus und stehen daher in ihrer Obhut.«
+~^
+327-328[pl]:- Zwrócił się do profesor McGonagall.
+316-317[de]:Er wandte sich an Professor McGonagall.
+~^
+328-329[pl]:- Muszę wracać na ucztę, Minerwo, mam im jeszcze coś do powiedzenia.
+317-318[de]:»Ich muss zurück zur Feier, Minerva, und ein paar Dinge ansagen.
+~^
+329-330[pl]:Chodź, Severusie, spróbujmy tego wspaniałego ciasta z kremem, wygląda naprawdę zachęcająco.
+318-319[de]:Kommen Sie, Severus, da steht eine köstlich aussehende Senftorte, die ich gerne mal probieren möchte ...«
+~^
+330-331[pl]:Snape obrzucił Harry’ego i Rona jadowitym spojrzeniem i pozwolił się wyprowadzić z własnego gabinetu, pozostawiając ich sam na sam z profesor McGonagall, która przyglądała im się jak rozwścieczony orzeł.
+319-321[de]:Snape warf Harry und Ron einen Blick zu, der reiner Hass war, und ließ sich dann von Dumbledore aus seinem Büro geleiten.
+[de] Nun waren sie allein mit Professor McGonagall, die sie immer noch wie ein Adler auf Beuteflug beäugte.
+~^
+331-338[pl]:- Wciąż krwawisz, Weasley, powinieneś iść do skrzydła szpitalnego.
+[pl] - To nic wielkiego - odpowiedział Ron, obcierając sobie rękawem rozcięte czoło.
+[pl] - Pani profesor, czy mógłbym zobaczyć, jaki przydział dostanie moja siostra...
+[pl] - Ceremonia Przydziału już się zakończyła.
+[pl] Twoja siostra też jest w Gryffindorze.
+[pl] - Och, to wspaniale - wyjąkał Ron.
+[pl] - A jeśli już mowa o Gryffindorze...
+321-325[de]:»Sie gehen in den Krankenflügel, Weasley, Sie bluten ja.« »Nicht schlimm«, sagte Ron und fuhr hastig mit dem Ärmel über den Riss an seiner Augenbraue.
+[de] »Professor, ich wollte eigentlich zusehen, wie meine Schwester den Sprechenden Hut aufsetzt -« »Die Auswahlfeier ist vorbei«, sagte Professor McGonagall.
+[de] »Ihre Schwester kommt ebenfalls nach Gryffindor.«
+[de] »Oh, gut«, sagte Ron.
+~^
+338-339[pl]:- zaczęła profesor McGonagall ostrym tonem, ale Harry szybko jej przerwał: - Pani profesor, kiedy wzięliśmy ten samochód, semestr jeszcze się nie zaczął, więc... więc Gryffindor nie straci przez nas punktów, prawda?
+325-327[de]:»Und da wir gerade von Gryffindor sprechen ...«, sagte Professor McGonagall scharf, doch Harry unterbrach sie.
+[de] »Professor, als wir den Wagen nahmen, hatte das Schuljahr noch gar nicht begonnen, also ... also sollten Gryffindor eigentlich keine Punkte abgezogen werden, oder?«, schloss er und blickte sie gespannt an.
+~^
+339-340[pl]:Profesor McGonagall przeszyła go świdrującym spojrzeniem, ale był pewny, że prawie się uśmiechnęła.
+327-328[de]:Professor McGonagall versetzte ihm einen durchdringenden Blick, doch er war sich sicher, den Anflug eines Lächelns zu erkennen.
+~^
+340-341[pl]:W każdym razie jej usta nie były już tak przeraźliwie wąskie.
+328-329[de]:jedenfalls sah ihr Mund nicht mehr ganz so schmal aus.
+~^
+341-342[pl]:- Nie odejmę Gryffindorowi żadnych punktów - oświadczyła, a Harry’emu zrobiło się lżej na sercu.
+329-330[de]:»Ich werde Gryffindor keine Punkte abziehen«, sagte sie, und Harry wurde es ganz leicht ums Herz.
+~^
+342-344[pl]:- Ale wy dwaj będziecie mieli szlaban.
+[pl] Skończyło się więc o wiele lepiej, niż się obawiał.
+330-332[de]:»Aber ihr werdet beide Strafarbeiten bekommen.«
+[de] Das war besser, als Harry befürchtet hatte.
+~^
+344-345[pl]:Listem Dumbledore’a do Dursleyów zupełnie się nie przejmował.
+332-333[de]:Dumbledore wollte den Dursleys schreiben - na wenn schon.
+~^
+345-346[pl]:Dobrze wiedział, że będą rozczarowani tylko jednym: że wierzba bijąca nie zrobiła z niego krwawej miazgi.
+333-334[de]:Die würden  gewiss nur enttäuscht darüber sein, dass die Peitschende Weide ihn nicht zermalmt hatte.
+~^
+346-347[pl]:Profesor McGonagall podniosła różdżkę i wycelowała nią w biurko Snape’a.
+334-335[de]:Professor McGonagall hob abermals ihren Zauberstab und richtete ihn auf Snapes Schreibtisch.
+~^
+347-348[pl]:Pojawił się na nim wielki talerz z kanapkami, dwa srebrne puchary i dzban mrożonego soku z dyni.
+335-336[de]:Mit einem leisen Knall erschienen ein Teller mit belegten Broten, zwei Becher und ein Krug mit eisgekühltem Kürbissaft.
+~^
+348-349[pl]:- Zjecie tutaj, a później pójdziecie prosto do dormitorium - oznajmiła.
+336-337[de]:»Ihr esst hier und geht dann gleich in euren Schlafsaal«, sagte sie.
+~^
+349-350[pl]:- Ja muszę wracać na ucztę.
+337-338[de]:»Ich muss zurück zur Feier.«
+~^
+350-351[pl]:Kiedy drzwi się za nią zamknęły, Ron wypuścił powietrze z długim świstem.
+338-339[de]:Als sich die Tür hinter ihr geschlossen hatte, kam von Ron ein langer und lauter Pfiff.
+~^
+351-352[pl]:- Byłem pewny, że nas wyleją - powiedział, sięgając po kanapkę.
+339-340[de]:»Ich dachte, es wäre aus mit uns«, sagte er und griff nach einem Brot.
+~^
+352-353[pl]:- Ja też - rzekł Harry, biorąc sobie drugą.
+340-341[de]:»Ich auch«, sagte Harry und bediente sich ebenfalls. »
+~^
+353-354[pl]:- Ale mamy parszywe szczęście, co? - wymamrotał Ron z ustami pełnymi kurczaka i szynki.
+341-342[de]:Aber wir hatten doch wirklich unglaubliches Pech«, schmatzte Ron durch einen Mund voll Hühnchen und Schinken.
+~^
+354-356[pl]:- Fred i George latali tym fordem już sześć albo siedem razy i żaden mugol ich nie zauważył.
+[pl] - Przełknął i ugryzł następny wielki kęs.
+342-344[de]:»Fred und George müssen dieses Auto fünf oder sechs Mal geflogen haben und kein Muggel hat die je gesehen.«
+[de] Er schluckte und nahm einen weiteren gewaltigen Bissen.
+~^
+356-358[pl]:- Ale dlaczego ta barierka nas nie przepuściła?
+[pl] Harry wzruszył ramionami.
+344-346[de]:»Warum sind wir nicht durch die Absperrung gekommen?«
+[de] Harry zuckte die Achseln.
+~^
+358-360[pl]:- W każdym razie od tej pory musimy bardzo uważać - powiedział i wypił potężny łyk dyniowego soku.
+[pl] - Szkoda, że nie możemy być na uczcie.
+346-347[de]:»Von jetzt an müssen wir jedenfalls aufpassen«, sagte er und nahm einen kräftigen Schluck Kürbissaft.
+~^
+360-362[pl]:- Nie chciała, żebyśmy się przechwalali...
+[pl] No wiesz, żeby inni nie pomyśleli, że fajnie jest przylecieć do szkoły zaczarowanym samochodem.
+347-349[de]:»Wünschte, wir könnten hoch zur Feier ...« »Sie wollte nicht, dass wir mit der Geschichte angeben«, sagte Ron weise.
+[de] »Will nicht, dass die andern glauben, es sei eine tolle Sache, mit einem fliegenden Auto aufzutauchen.«
+~^
+362-365[pl]:Kiedy zjedli tyle kanapek, ile mogli (talerz wciąż sam się napełniał), wstali i wyszli z gabinetu, kierując się do wieży Gryffindoru.
+[pl] W zamku było cicho; wyglądało na to, że uczta już się skończyła.
+[pl] Mijali mruczące do siebie portrety i skrzypiące zbroje, wspinali się po wielu wąskich kamiennych schodach, aż wreszcie dotarli do tajemnego wejścia do Gryffindoru, ukrytego za olejnym portretem Grubej Damy w różowej jedwabnej sukni.
+349-355[de]:Als sie so viele Brote verspeist hatten, wie sie konnten (der Teller füllte sich immer wieder nach), standen sie auf und verließen das Büro.
+[de] Sie gingen den vertrauten Weg zum Turm der Gryffindors hinauf.
+[de] Im Schloss war es ruhig;
+[de] die Feier schien vorüber zu sein.
+[de] Sie gingen an murmelnden Porträts und quietschenden Rüstungen vorbei und stiegen die schmalen Steintreppen empor.
+[de] Endlich erreichten sie den Korridor, an dessen Ende der geheime Eingang zum  Gryffindor-Turm versteckt war - hinter dem Ölgemälde einer sehr fetten Dame in einem rosa Seidenkleid.
+~^
+365-368[pl]:- Hasło? - zapytała, kiedy podeszli.
+[pl] - Eee... - zająknął się Harry.
+[pl] Nie mieli pojęcia, jakie jest nowe hasło, bo jeszcze nie widzieli się z prefektem Gryffindoru, ale pomoc nadeszła prawie natychmiast: usłyszeli za sobą szybkie kroki, a kiedy się odwrócili, zobaczyli Hermionę.
+355-360[de]:»Passwort?«, fragte sie, als sie näher kamen.
+[de] »Ähm -«, sagte Harry.
+[de] Sie kannten das Passwort für das neue Schuljahr nicht, weil sie noch keinen Vertrauensschüler der Gryffindors getroffen hatten.
+[de] Doch fast im gleichen Moment nahte auch schon Hilfe;
+[de] hinter sich hörten sie Fußgetrappel, und als sie sich umdrehten, sahen sie Hermine auf sie zurennen.
+~^
+368-369[pl]:- Jesteście!
+360-361[de]:»Da seid ihr ja!
+~^
+369-370[pl]:Gdzie byliście?
+361-362[de]:Wo wart ihr denn?
+~^
+370-372[pl]:Wiecie, jakie głupie krążą pogłoski?
+[pl] Ktoś powiedział, że wyrzucili was ze szkoły za rozbicie latającego samochodu.
+362-363[de]:Es gab die lächerlichsten Gerüchte - jemand meinte, ihr seid rausgeflogen, weil ihr ein fliegendes Auto geschrottet habt.«
+~^
+372-373[pl]:- No... jak widzisz, wcale nas nie wyrzucili - zapewnił ją Harry.
+363-364[de]:»Nun, wir sind nicht rausgeflogen«, versicherte ihr Harry.
+~^
+373-374[pl]:- Ale chyba nie przylecieliście tu samochodem? - zapytała Hermiona takim tonem, jakby przedrzeźniała profesor McGonagall.
+364-365[de]:»Sagt bloß, ihr seid tatsächlich hergeflogen?«, sagte Hermine und klang dabei fast so streng wie Professor McGonagall.
+~^
+374-375[pl]:- Daruj sobie przemowę - odrzekł niecierpliwie Ron - i powiedz nam nowe hasło.
+365-367[de]:»Spar dir den Vortrag«, sagte Ron unwirsch, »und sag uns das neue Passwort.«
+[de] »Es ist >
+~^
+375-376[pl]:- „Miodojad” - powiedziała niecierpliwie Hermiona - ale chodzi o to, że... Musiała jednak przerwać, bo portret odsunął się i zagrzmiała burza oklasków.
+367-369[de]:Bartvogel«<, sagte Hermine ungeduldig, »aber darum geht's jetzt nicht -« Sie wurde jedoch unterbrochen, denn das Porträt der fetten Dame klappte zur Seite und plötzlich brach ein Beifallssturm los.
+[de] Es schien, als wären alle Gryffindors noch wach:
+~^
+376-378[pl]:W okrągłym pokoju wspólnym zebrali się chyba wszyscy Gryfoni, stojąc na koślawych stołach i wyliniałych poręczach foteli i czekając na ich przybycie.
+[pl] Szybko wciągnięto ich do środka przez dziurę w ścianie; Hermiona musiała radzić sobie sama.
+369-371[de]:dicht gedrängt standen sie in ihrem kreisrunden Gemeinschaftsraum, auf Tischen und knuddeligen Sesseln verteilt, und warteten auf ihre Ankunft.
+[de] Arme streckten sich durch das Porträtloch, um Harry und Ron hineinzuziehen, und Hermine musste hinter ihnen herklettern.
+~^
+378-379[pl]:- Ekstra! - ryczał Lee Jordan.
+371-372[de]:»Klasse gemacht«, schrie Lee Jordan.
+~^
+379-381[pl]:- Genialne!
+[pl] To jest dopiero wejście!
+372-374[de]:»Genial!
+[de] Was für ein Auftritt!
+~^
+381-386[pl]:Przylecieć zaczarowanym samochodem i rąbnąć prosto w wierzbę bijącą!
+[pl] Ludzie będą o tym opowiadać przez całe lata!
+[pl] „Brawo”
+[pl] , powiedział jakiś piątoklasista, który przedtem nigdy Harry ego nie zauważał; ktoś inny klepał go po plecach, jakby właśnie wygrał maraton.
+[pl] Fred i George przepchali się przez tłum i zapytali jednocześnie: „Dlaczego nas nie wywołaliście z powrotem, co?” Ron poczerwieniał jak burak i uśmiechał się z zakłopotaniem, ale Harry szybko dostrzegł jedną osobę, która wcale nie wyglądała na zachwyconą.
+374-380[de]:Einen Wagen mitten in die Peitschende Weide hineinzufliegen, darüber wird man noch in Jahren reden« »Gut gemacht!
+[de] «, sagte ein Fünftklässler, mit dem Harry noch nie gesprochen hatte;
+[de] jemand klopfte ihm auf die Schulter, als ob er gerade einen Marathonlauf gewonnen  hätte.
+[de] Fred und George drängten sich zu ihnen durch und sagten gleichzeitig:
+[de] »Warum zum Teufel habt ihr uns denn nicht zurückgerufen?
+[de] « Ron war scharlachrot im Gesicht und grinste verlegen, doch Harry erblickte einen Jungen in der Schar der Köpfe, der gar nicht glücklich aussah.
+~^
+386-387[pl]:Nad głowami podekscytowanych pierwszoroczniaków zobaczył Percy’ego, który najwyraźniej zamierzał rozpędzić całe towarzystwo.
+380-381[de]:Hinter einigen aufgeregten Erstklässlern erkannte er Percy, der offenbar nahe genug heranzukommen versuchte, um ihnen eine Strafpredigt zu halten.
+~^
+387-388[pl]:Harry szturchnął Rona w żebra i wskazał w stronę Percy’ego.
+381-382[de]:Harry stieß Ron in die Rippen und nickte in Percys Richtung.
+~^
+388-391[pl]:Ron natychmiast zrozumiał, o co chodzi.
+[pl] - Idziemy na górę...
+[pl] jesteśmy trochę zmęczeni - powiedział i obaj zaczęli się przepychać do drzwi po drugiej stronie pokoju wspólnego, za którymi były spiralne schody do dormitoriów.
+382-384[de]:Ron verstand sofort.
+[de] »Müssen jetzt nach oben - sind ein wenig müde«, sagte er, und sie bahnten sich einen Weg zur Tür gegenüber, die zu einer Wendeltreppe und in die Schlafsäle hochführte.
+~^
+391-392[pl]:- Dobranoc! - zawołał Harry do Hermiony, która miała twarz tak samo nachmurzoną jak Percy.
+384-385[de]:»Nacht«, rief Harry noch Hermine zu, die genau den gleichen vorwurfsvollen Blick aufgesetzt hatte wie Percy.
+~^
+392-394[pl]:Udało im się przebić przez zatłoczony pokój i wydostać na cichą klatkę schodową.
+[pl] Obaj czuli mrowienie w plecach od niezliczonych poklepywań, którymi ich po drodze uraczono.
+385-386[de]:Immer noch unter Schulterklopfen der Umstehenden schafften sie es auf die andere Seite des Gemeinschaftsraums und hinaus in die Stille des Treppenaufgangs.
+~^
+394-395[pl]:Wbiegli po schodach na samą górę i znaleźli się w swojej starej sypialni, na której drzwiach wisiała teraz tabliczka z napisem: „Drugi rok”.
+386-387[de]:Eilends stiegen sie empor, bis an die Spitze, und standen nun endlich vor der Tür ihres alten Schlafsaals, auf dem jetzt ein Schild mit der Aufschrift »Zweitklässler« angebracht war.
+~^
+395-396[pl]:Z rozrzewnieniem spojrzeli na pięć łóżek - każde z czterema kolumienkami i zasłonami z czerwonego aksamitu - i na wysokie, wąskie okna.
+387-388[de]:Sie betraten das vertraute runde Turmzimmer mit den fünf samtbehangenen Himmelbetten und den hohen, schmalen Fenstern.
+~^
+396-398[pl]:Kufry już przyniesiono i ustawiono w nogach ich łóżek.
+[pl] Ron uśmiechnął się z zakłopotaniem do Harry’ego.
+388-391[de]:Ihre Koffer waren schon hochgebracht worden und standen vor den Betten.
+[de] Schuldbewusst grinste Ron Harry an.
+[de] »Ich weiß, das hätte ich nicht genießen sollen, aber -«
+~^
+398-399[pl]:- Wiem, że nie powinno mi to sprawiać takiej przyjemności, ale... Drzwi otworzyły się gwałtownie i wpadli inni Gryfoni z drugiej klasy, którzy dzielili z nimi dormitorium: Seamus Finnigan, Dean Thomas i Neville Longbottom.
+391-392[de]:Die Schlafsaaltür flog auf und herein kamen die anderen Jungen der zweiten Klasse von Gryffindor, Seamus Finnigan, Dean Thomas und Neville Longbottom.
+~^
+399-400[pl]:- Niewiarygodne! - zawołał Seamus.
+392-393[de]:»Unglaublich«, rief Seamus strahlend.
+~^
+400-401[pl]:- Zupełnie ekstra - powiedział Dean.
+393-394[de]:»Cool«, sagte Dean.
+~^
+401-402[pl]:- Niesamowite - wyjąkał z przejęciem Neville.
+394-395[de]:»Phantastisch«, sagte Neville ehrfurchtsvoll.
+~^
+402-403[pl]:Harry nie mógł się powstrzymać.
+395-396[de]:Harry konnte nicht anders.
+~^
+403-404[pl]:On też się uśmiechnął.
+
+396-397[de]:Auch er grinste.
+

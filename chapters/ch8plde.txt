@@ -1,0 +1,840 @@
+0-1[pl]:ROZDZIAŁ ÓSMY PRZYJĘCIE W ROCZNICĘ ŚMIERCI  
+~^
+1-2[pl]:Nadszedł październik, rozsiewając po łąkach wilgotny ziąb, który szybko wkradł się również do zamku.
+0-1[de]:Die Todestagsfeier Es wurde Oktober und feuchte Kühle breitete sich über die Ländereien und das Schloss aus.
+~^
+2-3[pl]:Pani Pomfrey, przełożona skrzydła szpitalnego, miała pełne ręce roboty, bo wśród personelu i uczniów wybuchła prawdziwa epidemia przeziębień.
+1-2[de]:Eine jähe Erkältungswelle unter den Lehrern und Schülern hielt Madam Pomfrey, die Krankenschwester, in Atem.
+~^
+3-4[pl]:Na szczęście jej pieprzowy eliksir działał natychmiast, choć po jego wypiciu jeszcze przez kilka godzin dymiło się z uszu.
+2-3[de]:Ihr Aufpäppel-Trank wirkte zwar sofort, aber wer ihn getrunken hatte, dem rauchten danach noch stundenlang die Ohren.
+~^
+4-8[pl]:Percy namówił Ginny Weasley, która wyglądała na chorowitą, żeby wypiła łyk eliksiru.
+[pl] Para buchająca spod jej bujnych włosów sprawiała wrażenie, jakby zapaliła się jej głowa.
+[pl] A potem w okna zamku zaczęły bębnić krople deszczu wielkości pocisków karabinowych, jezioro wezbrało, grządki kwiatowe zamieniły się w błotniste strumienie, a dynie Hagrida nabrzmiały do wielkości budek na narzędzia ogrodnicze.
+[pl] Nie wygasł jednak entuzjazm, z jakim Oliver Wood przeprowadzał regularne treningi i właśnie dlatego pewnego późnego sobotniego popołudnia, na kilka dni przed Nocą Duchów, Harry wrócił do Gryffindoru przemoczony do szpiku kości i umazany błotem.
+3-7[de]:Percy Weasley drängte die etwas kränklich aussehende Ginny, ein paar Schlucke zu trinken, und sofort zischte Dampf unter ihrem feuerroten Haar hervor und es sah aus, als stünde ihr Kopf in Flammen.
+[de] Regentropfen, groß wie Gewehrkugeln, trommelten tagelang gegen die Schlossfenster;
+[de] der See schwoll an, die Blumenbeete verwandelten sich in Schlammströme und Hagrids Kürbisse quollen zur Größe von Gartenschuppen auf, Oliver Wood freilich ließ sich nicht beirren und feuerte sie begeistert zu regelmäßigem Training an.
+[de] So befand sich Harry eines stürmischen Samstagnachmittags bis auf die Haut durchgeweicht und schlammbespritzt auf dein Heimweg zum Turm der Gryffindors.
+~^
+8-9[pl]:Nawet pomijając deszcz i wiatr, nie było z czego się cieszyć.
+7-8[de]:Vom Regen und Wind mal ganz abgesehen war es alles andere als ein gelungenes Training gewesen.
+~^
+9-10[pl]:Fred i George, którzy szpiegowali drużynę Ślizgonów, na własne oczy przekonali się o szybkości nowych Nimbusów Dwa Tysiące Jeden.
+8-9[de]:Fred und George hatten das Slytherin-Team ausgespäht und mit eigenen Augen gesehen, wie schnell sie mit ihren neuen Nimbus Zweitausendeins waren.
+~^
+10-11[pl]:Donieśli, że drużyna Śliz-gonów na boisku to po prostu siedem zielonych smug, śmigających w powietrzu jak odrzutowce.
+9-10[de]:Die Slytherins jagten durch die Luft wie Senkrechtstarter, so berichteten sie, und seien nur noch als sieben grünliche Dunstschleier auszumachen.
+~^
+11-12[pl]:Wlokąc się opustoszałym korytarzem, Harry natknął się na kogoś, kto wyglądał na pogrążonego w równie ponurych myślach jak on.
+10-11[de]:Als Harry den ausgestorbenen Gang entlangstapfte, be-   gegnete ihm jemand, der genauso besorgt dreinsah wie er selbst.
+~^
+12-14[pl]:Prawie Bezgłowy Nick, duch wieży Gryffindoru, wpatrywał się posępnie w okno, mrucząc pod nosem: - ...nie spełnia wymaganych warunków... pół cala i już nie spełnia...
+[pl] - Cześć, Nick - przywitał go Harry.
+11-13[de]:Der Fast Kopflose Nick, der Geist des GryffindorTurms, starrte trübselig aus einem Fenster und brummelte leise vor sich hin ...
+[de] ich entspreche den Anforderungen nicht ... zwei Zentimeter, wenn das ...« »Hallo, Nick«, sagte Harry.
+~^
+14-15[pl]:- A witaj, witaj - odrzekł Prawie Bezgłowy Nick, wzdrygając się i rozglądając na wszystkie strony.
+13-14[de]:»Hallo, hallo«, sagte der Fast Kopflose Nick und drehte sich erschrocken um.
+~^
+15-16[pl]:Na głowie miał zawadiacki kapelusz ze strusim piórem, spod którego spływały mu na ramiona misterne loki, a wokół szyi krezę, dość skutecznie maskującą fakt, że jego głowa była prawie całkowicie odcięta od tułowia.
+14-15[de]:Er trug einen eleganten Federhut auf dem langen Lockenhaar und einen Waffenrock mit Halskrause, so dass man nicht sehen konnte, dass sein Hals fast ganz durchtrennt war.
+~^
+16-17[pl]:Był blady i przezroczysty, tak że Harry widział przez niego ciemne niebo i strumienie deszczu spływające po szybie.
+15-16[de]:Er war blass wie Dampf und Harry sah durch ihn hindurch nach draußen auf den dunklen Himmel und die Sintflut, die sich aus ihm ergoss.
+~^
+17-19[pl]:- Wyglądasz na zmartwionego, młody Potterze - przemówił Nick, zwijając przezroczysty list i wsadzając go za pazuchę kubraka.
+[pl] - Ty też.
+16-18[de]:»Er sieht besorgt aus, der junge Potter«, sagte Nick, faltete einen durchsichtigen Brief zusammen und steckte ihn ein.
+[de] »Sie ebenfalls«, sagte Harry;
+~^
+19-21[pl]:- Ach! - Prawie Bezgłowy Nick machnął wytwornie smukłą dłonią - To nic ważnego... aż tak mi na tym nie zależało...
+[pl] chociaż wysłałem zgłoszenie, ale najwyraźniej „nie spełniam wymaganych warunków”.
+18-19[de]:»Ah«, sagte der Fast Kopflose Nick mit eleganter Handbewegung, »eine Angelegenheit ohne Bedeutung ... nicht, dass ich wirklich Mitglied werden wollte ... dachte, ich bewerbe mich mal, doch offenbar genüge ich >nicht den Anforderungen<.«
+~^
+21-24[pl]:Powiedział to lekceważącym tonem, ale na jego twarzy malowało się głębokie rozgoryczenie.
+[pl] - A ty byś nie pomyślał - wybuchnął nagle, wyciągając ponownie list z wewnętrznej kieszeni - że po otrzymaniu czterdziestu pięciu ciosów toporem w szyję spełniasz warunki, by wziąć udział w Polowaniu bez Głów?
+[pl] - Eee...no tak - zgodził się Harry, bo najwidoczniej tego od niego oczekiwano.
+19-21[de]:Trotz seines gelassenen Tonfalls hatte sein Gesicht einen Zug von Bitterkeit.
+[de] »Aber, nicht wahr, man sollte doch meinen«, brach es plötzlich aus ihm heraus, »wenn man vierzig Hiebe mit einer stumpfen Axt auf den Hals bekommen hat, wäre man gut genug für die Jagd der Kopflosen?« »Oh, äh, ja«, sagte Harry, denn offenbar war hier seine Zustimmung verlangt.
+~^
+24-30[pl]:- Chodzi mi o to, że chyba nikt bardziej ode mnie nie pragnąłby, aby to wszystko odbyło się szybko i jak należy, żeby głowa odpadła mi całkowicie...
+[pl] to znaczy...
+[pl] oszczędziłoby mi to wiele bólu i upokorzeń.
+[pl] Jednakże...
+[pl] Prawie Bezgłowy Nick potrząsnął listem i zaczął czytać rozdrażnionym tonem: Możemy zaakceptować jedynie tych myśliwych, których głowy na zawsze rozstały się z tułowiami.
+[pl] Sam Pan rozumie, że gdybyśmy nie stawiali takiego warunku, uczestnicy polowania nie mogliby brać udziału w takich gonitwach i grach sportowych jak Głowogon czy Głowopolo.
+21-26[de]:»Ich meine, keiner wünscht sich mehr als ich, dass alles schnell und sauber vonstatten gegangen und mein Kopf endgültig herunter wäre, ich muss sagen, das hätte mir einiges an Schmerz und Gelächter erspart.
+[de] Allerdings -« Der Fast  Kopflose Nick holte den Brief wieder hervor, faltete ihn auf und las wutentbrannt vor:
+[de] »>
+[de] Wir können nur Jäger aufnehmen, deren Köpfe sich endgültig von ihren Körpern getrennt haben.
+[de] Wie Sie gewiss einsehen, wäre es andernfalls unmöglich, dass die Mitglieder an Jagdvergnügen wie Kopfjonglieren zu Pferde und Kopfpolo teilnehmen können.
+~^
+30-33[pl]:Dlatego z najwyższą przykrością musimy Pana poinformować, że nie spełnia Pan wymaganych warunków.
+[pl] Z wyrazami głębokiego szacunku, Sir Patryk Delaney-Podmore Dysząc z gniewu,
+[pl] Prawie Bezgłowy Nick cisnął list na posadzkę.
+26-29[de]:Daher muss ich Ihnen mit dem größten Bedauern mitteilen, dass Sie nicht den Anforderungen entsprechen.
+[de] Mit den besten Wünschen, Sir Patrick Delaney-Podmore<.«
+[de] Rauchend vor Zorn stopfte der Fast Kopflose Nick den Brief in sein Wams zurück.
+~^
+33-34[pl]:- Harry, moją głowę utrzymuje tylko pół cala skóry i jedno ścięgno!
+29-30[de]:»Zwei Zentimeter Haut und Sehnen halten meinen Kopf auf dem Hals, Harry!
+~^
+34-37[pl]:Większość ludzi uznałaby to za realne pozbawienie głowy, i całkiem słusznie, ale dla tego pana to za mało!
+[pl] - Odetchnął głęboko kilka razy i dodał, już nieco spokojniejszym tonem: - A co ciebie tak martwi, młody człowieku?
+[pl] Może mógłbym ci jakoś pomóc?
+30-34[de]:Normale Leute würden denken, das könnte man doch als geköpft durchgehen lassen, aber nein, es reicht nicht für Sir
+[de] Ordentlich Geköpfter Podmore.«
+[de] Der Fast Kopflose Nick holte einige Male tief Luft und sagte dann mit viel ruhigerer Stimme:
+[de] »So, und was macht Ihnen Sorgen? Kann ich etwas für Sie tun?«
+~^
+37-40[pl]:- Nie - odpowiedział Harry.
+[pl] - Chyba że wiesz, jak zdobyć siedem Nimbusów Dwa Tysiące Jeden na mecz ze Śliz...
+[pl] Reszta zdania utonęła w donośnym miauku, który rozległ się na wysokości jego kostek.
+34-36[de]:»Nein«, sagte Harry.
+[de] »Außer, Sie wissen, wo wir sieben Nimbus Zweitausendeins umsonst herkriegen könnten für unser Spiel gegen Sly -« Der Rest des Satzes ging in einem fiepsigen Miauen unter, das aus der Nähe seiner Füße kam.
+~^
+40-47[pl]:Spojrzał w dół, prosto w parę oczu płonących żółtym blaskiem.
+[pl] Była to Pani Norris, chuda jak szkielet kocica, pełniąca rolę kogoś w rodzaju zastępcy szeryfa w nie kończącej się wojnie Argusa Filcha, woźnego Hogwartu, z uczniami.
+[pl] - Lepiej zmykaj stąd, Harry - powiedział szybko Nick.
+[pl] - Filch nie jest dziś w najlepszym nastroju.
+[pl] Zaziębił się, a jacyś trzecioklasiści przypadkowo wysmarowali żabimi mózgami cały sufit w lochu numer pięć; czyścił go przez całe rano, więc jeśli zobaczy tutaj to błoto...
+[pl] - Jasne - rzucił krótko Harry i wycofał się z zasięgu oskarżycielskiego spojrzenia Pani Norris.
+[pl] Niestety, nie zrobił tego dostatecznie szybko.
+36-39[de]:Er blickte hinunter und ein Paar gelbe Laternenaugen starrten ihn an.
+[de] Es war Mrs Norris, die skelettdürre graue Katze, die der Hausmeister Argus Filch als eine Art Gehilfin in seiner endlosen Schlacht gegen die Schüler einsetzte.
+[de] »Sie verschwinden am besten von hier, Harry«, sagte Nick hastig, »Filch hat ganz schlechte Laune - er hat einen Schnupfen, und ein paar Drittklässler haben in Kerker fünf versehentlich Froschgehirne über die ganze Decke gespritzt, er hat den ganzen Morgen geputzt, und wenn er Sie hier vor Schlamm triefen sieht -« »Stimmt«, sagte Harry und wich vor dem anklagenden  Starren von Mrs Norris zurück, doch nicht schnell genug.
+~^
+47-48[pl]:Ściągnięty tutaj jakąś tajemniczą mocą, która zdawała się łączyć go z tym obmierzłym kotem, Argus Filch wypadł nagle zza zasłony na prawo od Harry’ego, sapiąc głośno i rozglądając się za kimś, kto złamał przepisy.
+39-42[de]:Angezogen durch die geheimnisvolle Macht, die ihn offenbar mit seiner heimtückischen Katze verband, brach Argus
+[de] Filch plötzlich durch einen Wandbehang rechts von Harry.
+[de] Mit rasselndem Atem sah er sich fieberhaft nach dem Regelverletzer um.
+~^
+48-49[pl]:Głowę miał przewiązaną kraciastą chustą, a jego nos miał barwę ciemnej purpury.
+42-43[de]:Um den Kopf hatte er einen dicken Schal mit Schottenmuster gewickelt und seine Nase glänzte ungewöhnlich purpurfarben.
+~^
+49-52[pl]:- Brud! - wrzasnął, a szczęki zadrgały mu groźnie i oczy prawie wyszły z orbit na widok plam błota ściekającego z treningowej szaty Harry’ego.
+[pl] - Wszędzie bałagan i gnój!
+[pl] Mam już tego dosyć!
+43-46[de]:»Dreck«, rief er mit zitternden Wangen und seine Augen quollen beunruhigend weit vor, als er auf die Schlammlache deutete, die von Harrys Quidditch-Umhang herabgetropft war.
+[de] »Überall Dreck und Unordnung.
+[de] Mir reicht's, kann ich dir sagen!
+~^
+52-53[pl]:Za mną, Potter!
+46-47[de]:Folge mir, Potter!«
+~^
+53-54[pl]:Tak więc Harry pomachał Nickowi na pożegnanie i powlókł się za Filchem z powrotem schodami w dół, podwajając liczbę błotnistych śladów na kamiennych płytach.
+47-48[de]:Also winkte Harry mit düsterem Blick dem Fast Kopflosen Nick zum Abschied und folgte Filch nach unten, wobei er die Zahl der schlammigen Fußabdrücke auf dem Boden verdoppelte.
+~^
+54-55[pl]:Harry jeszcze nigdy nie był w biurze Filcha; tego miejsca unikali wszyscy uczniowie.
+48-50[de]:Harry war noch nie in Filchs Büro gewesen;
+[de] das war der Ort, um den die meisten Schüler einen weiten Bogen machten.
+~^
+55-56[pl]:Pokój był obskurny, pozbawiony okien, oświetlony jedną oliwną lampką zwisającą z niskiego sufitu.
+50-51[de]:Das schäbige und fensterlose Kabuff wurde vom Licht einer Ölfunzel an der niedrigen Decke erhellt.
+~^
+56-58[pl]:Czuć było smażoną rybą.
+[pl] Wzdłuż ścian ciągnęły się drewniane półki z szufladkami; z treści nalepek wynikało, że jest to coś w rodzaju kartoteki ukaranych przez Filcha uczniów.
+51-53[de]:Ein schwacher Geruch nach gebratenem Fisch hing in der Luft.
+[de] An der Wand entlang standen hölzerne Aktenschränke, deren Beschriftungen Harry sagten, dass sie Einzelheiten über jeden Schüler enthielten, den Filch je bestraft hatte.
+~^
+58-59[pl]:Fred i George Weasleyowie mieli tu całą osobną komodę.
+53-54[de]:Fred und George Weasley hatten ein ganzes Fach für sich allein.
+~^
+59-60[pl]:Za biurkiem Filcha wisiała na ścianie błyszcząca kolekcja łańcuchów i kajdanek.
+54-55[de]:Eine Sammlung von auf Hochglanz polierten Ketten und Fußschellen hing an der Wand hinter Filchs Schreibtisch.
+~^
+60-61[pl]:Wszyscy wiedzieli, że nieustannie błagał Dumbledore’a, aby mu pozwolono wieszać uczniów za ręce pod sufitem.
+55-56[de]:Alle wussten, dass er Dumbledore ständig um die Erlaubnis bat, die Schüler an den Fußgelenken gefesselt von der Decke baumeln zu lassen.
+~^
+61-68[pl]:Filch wyjął pióro z garnuszka na biurku i zaczął się rozglądać za pergaminem.
+[pl] - Gnój - mruczał jadowicie - wielkie, skwierczące smocze kupy...
+[pl] żabie mózgi... szczurze jelita...
+[pl] mam już tego dosyć... ukarzę dla przykładu...
+[pl] gdzie jest formularz... tak...
+[pl] Z szuflady biurka wyjął wielki zwój, rozwinął go przed sobą i umaczał pióro w kałamarzu.
+[pl] - Nazwisko...
+56-62[de]:Filch nahm eine Feder aus dem Tintenfass auf seinem Schreibtisch und begann nach Pergament zu stöbern.  
+[de] »Dreck«, murmelte er zornig, »große, glühend heiße Drachenpopel ...
+[de] Froschgehirne ...
+[de] Ratteninnereien ... mir reicht's ...
+[de] Strafe zur Abschreckung ... wo ist das Formblatt ... da ...«
+[de] Er hatte eine dicke Rolle Pergament aus der Schreibtischschublade gezogen und sie vor sich ausgebreitet und tunkte nun den langen schwarzen Federkiel in das Tintenfass.
+~^
+68-69[pl]:Harry Potter.
+62-63[de]:»Name ... Harry Potter.
+~^
+69-75[pl]:Przestępstwo...
+[pl] - Przecież to była tylko odrobina błota! - zaprotestował Harry.
+[pl] - Dla ciebie to tylko odrobina błota, a dla mnie dodatkowa godzina skrobania i mycia! - krzyknął Filch, a z nosa skapnęło mu coś na pergamin.
+[pl] - Przestępstwo...
+[pl] splugawienie zamku...
+[pl] Sugerowany wyrok...
+63-68[de]:Verbrechen ...«
+[de] »War doch nur ein bisschen Schlamm!
+[de] «, sagte Harry.
+[de] »Für dich ist es nur ein wenig Schlamm, Junge, aber für mich ist es eine Überstunde Schrubben!«, schrie Filch, und an der Spitze seiner Knollennase erzitterte ein widerlicher Tropfen.
+[de] »Verbrechen ... Beschmutzung des Schlosses ... vorgeschlagene Strafe ...«
+~^
+75-76[pl]:Drapiąc się piórem po obrzydliwie napuchniętym, obślizgłym nosie, Filch zmierzył złym spojrzeniem Harry’ego, który wstrzymał oddech, oczekując na wyrok.
+68-69[de]:Filch tippte mit dem Finger gegen seine triefende Nase und äugte Unheil verkündend zu Harry hinüber, der mit angehaltenem Atem auf den Urteilsspruch wartete.
+~^
+76-84[pl]:Lecz w chwili, gdy Filch opuścił pióro na pergamin, coś głośno walnęło w sufit, aż zadygotała lampka.
+[pl] - IRYTEK! - ryknął Filch, odrzucając pióro w ataku wściekłości.
+[pl] - Tym razem już cię mam!
+[pl] Tym razem już po tobie!
+[pl] I wybiegł cichym truchtem z pokoju, nawet nie spojrzawszy na oszołomionego Harry’ego.
+[pl] Pani Norris wybiegła za nim jak cień.
+[pl] Irytek był szkolnym poltergeistem, bezczelną zjawą, której jedynym celem było wywoływanie zamieszania i sianie zniszczenia.
+[pl] Harry nie darzył Irytka sympatią, ale teraz nie mógł nie być mu wdzięczny.
+69-74[de]:Doch gerade als Filch die Feder aufsetzte, erschütterte ein lauter KNALL die Bürodecke, der die Öllampe klirren ließ.
+[de] »PEEVES«, donnerte Filch zornentbrannt und warf die Feder auf den Tisch, »diesmal krieg ich dich, darauf kannst du Gift nehmen!«
+[de] Und ohne Harry auch nur einen Blick zuzuwerfen, hastete Filch plattfäßig aus dem Büro, Mrs Norris auf den Fersen.
+[de] Peeves war der Schul-Poltergeist, ein grinsendes, in der Luft schwebendes Übel, dessen Lebenszweck es war, Wirrsal und Verdruss zu schaffen.
+[de] Harry konnte Peeves nicht ausstehen, doch diesmal konnte er nicht anders, als ihm für seinen Auftritt zur rechten Zeit dankbar zu sein.
+~^
+84-85[pl]:Cokolwiek Irytek zrobił (a zabrzmiało to, jakby tym razem przewrócił coś naprawdę dużego), odciągnęło to uwagę Filcha od Harry’ego.
+74-75[de]:Was Peeves angestellt hatte (und diesmal hatte es geklungen, als ob er etwas sehr Großes in Stücke geschlagen hatte), würde Filch hoffentlich von Harry ablenken.  
+~^
+85-86[pl]:Harry nie miał jednak odwagi czmychnąć z jego nory, więc usiadł w zjedzonym przez mole fotelu tuż przy biurku.
+75-76[de]:Harry dachte, es sei besser zu warten, bis Filch zurückkam, und ließ sich in einen mottenzerfressenen Sessel neben dem Schreibtisch sinken.
+~^
+86-87[pl]:Prócz formularza jego „przestępstwa” leżała na nim tylko jedna rzecz: duża, błyszcząca, purpurowa koperta ze srebrnym nadrukiem.
+76-77[de]:Außer dem halb ausgefüllten Formblatt lag noch etwas anderes auf der Tischplatte: ein großer, glänzender, purpurfarbener Umschlag mit silberner Aufschrift auf der Vorderseite.
+~^
+87-88[pl]:Harry rzucił okiem na drzwi, upewnił się, że Filch nie wraca, porwał kopertę i przeczytał: WMIGUROK „Korespondencyjny kurs dla początkujących czarodziejów Zaintrygowany, otworzył kopertę i wyciągnął z niej plik pergaminowych arkusików.
+77-81[de]:Harry warf rasch einen Blick zur Tür, ob Filch vielleicht schon zurückkam, griff dann nach dem Umschlag und las:
+[de] KWIKZAUBERN
+[de] Ein Fernkurs in Zauberei für Anfänger Neugierig schnippte Harry den Umschlag auf und zog einen Stoß Pergamentblätter hervor.
+[de] Auf der ersten Seite, ebenfalls in Silberschrift, las Harry:
+~^
+88-89[pl]:Na pierwszej stronie srebrny tekst głosił: Czujesz, że nie dotrzymujesz kroku rozwojowi współczesnej magii?
+81-82[de]:Haben Sie das Gefühl, den Anschluss an die moderne Zauberei verloren zu haben?
+~^
+89-90[pl]:Zdarza ci się usprawiedliwiać, że nie wyszło ci najprostsze zaklęcie?
+82-83[de]:Ertappen Sie sich bei Ausreden, um einfachste Zaubereien nicht ausführen zu müssen?
+~^
+90-92[pl]:Wykpiono twoje bezskuteczne wymachiwanie różdżką?
+[pl] Oto rozwiązanie twoich problemów!
+83-85[de]:Werden Sie des Öfteren wegen Ihrer kläglichen Arbeit mit dem Zauberstab getadelt?
+[de] Es gibt eine Antwort darauf!
+~^
+92-93[pl]:WMIGUROK to zupełnie nowy, szybki, łatwy i absolutnie niezawodny sposób na poznanie współczesnej magii.
+85-86[de]:Kwikzaubern ist ein völlig neu entwickelter, garantiert erfolgreicher, einfach aufgebauter Kurs mit verblüffenden Erfolgen.
+~^
+93-94[pl]:Setki czarownic i czarodziejów skorzystało z dobrodziejstw tej nowej metody!
+86-87[de]:Hunderte von Hexen und Zauberern sind von der Kwikzaubern-Methode begeistert!
+~^
+94-95[pl]:Madame Z. Nettles z Topsham pisze: „Nie potrafiłam zapamiętać zaklęć, a z moich eliksirów śmiała się cała rodzina!
+87-88[de]:Madam Z. aus Topsham schreibt: »Ich konnte einfach keine Zauberformeln behalten und über meine Zaubertränke hat die ganze Familie gelacht!
+~^
+95-97[pl]:Teraz, po ukończeniu Wmiguroka, jestem ośrodkiem zainteresowania na każdym przyjęciu, a znajomi błagają mnie o przepis na Iskrzący Roztwór!” Mag D. J. Prod z Didsbury pisze: „Moja żona zawsze szydziła z moich żałosnych czarów, ale w miesiąc po ukończeniu Wmiguroka udało mi się zamienić ją w jaka!
+[pl] Dzięki ci, Wmiguroku!” Harry, zafascynowany, szybko przejrzał resztę zawartości koperty.
+88-92[de]:jetzt, nach dem Kwikzaubern-Kurs, bin ich der Mittelpunkt bei allen Partys, und Freunde bitten mich um das Rezept für meine Funken-Lösung!«  Hexenmeister D. J. Prod aus Didsbury bekennt:
+[de] »Meine Frau hat meine schwächlichen Zaubereien immer verspottet, doch nach einem Monat Training mit Ihrem fabelhaften Kwikzaubern-Kurs ist es mir gelungen, sie in einen Yak zu verwandeln!
+[de] Vielen Dank, Kwikzaubern!«
+[de] Fasziniert blätterte Harry die restlichen Blätter durch.
+~^
+97-98[pl]:Dlaczego, u licha, Filch zapragnął ukończyć korespondencyjny kurs magii?
+92-93[de]:Warum in aller Welt brauchte Filch einen Zauberkurs?
+~^
+98-99[pl]:Czy to oznacza, że wcale nie jest czarodziejem?
+93-94[de]:War er etwa kein richtiger Zauberer?
+~^
+99-100[pl]:Harry czytał właśnie Lekcję pierwszą: Jak trzymać różdżkę (kilka pożytecznych wskazówek), kiedy usłyszał szuranie podeszew na korytarzu.
+94-96[de]:Harry las gerade: »Lektion eins.
+[de] Wie wir den Zauberstab halten (einige nützliche Tipps)«, als ein Schlurfen von draußen Filchs Rückkehr ankündigte.
+~^
+100-102[pl]:Ledwo zdążył wepchnąć papiery do koperty i odrzucić ją na biurko, kiedy drzwi się otworzyły.
+[pl] Wkroczył Filch z wyrazem triumfu na twarzy.
+96-98[de]:Er stopfte die Pergamentblätter zurück in den Umschlag und warf ihn auf den Schreibtisch, als auch schon die Tür aufflog.
+[de] Mit siegestrunkenem Blick kam Filch herein.
+~^
+102-104[pl]:- Ta komoda to rzeczywiście wspaniały wynalazek! - mówił rozpromieniony do Pani Norris.
+[pl] - Tym razem, kochanie, pozbyliśmy się Irytka na zawsze!
+98-100[de]:»Dieser Unsichtbarkeitsschrank war äußerst wertvoll!«, sagte er gehässig zu Mrs Norris.
+[de] »Diesmal fliegt Peeves raus, meine Süße -«
+~^
+104-105[pl]:Spojrzał na Harry’ego, a potem rzucił się do biurka i chwycił kopertę, która, z czego Harry zdał sobie sprawę zbyt późno, leżała teraz ze dwie stopy od miejsca, gdzie ją Filch pozostawił.
+100-104[de]:Sein Blick fiel auf Harry und dann blitzschnell auf den Zauberkurs-Umschlag, der, wie Harry zu spät bemerkte, einen halben Meter zu weit von seinem ursprünglichen Platz entfernt lag.
+[de] Filchs teigiges Gesicht lief ziegelrot an.
+[de] Harry wappnete sich gegen eine Flutwelle aus Beschimpfungen.
+[de] Filch humpelte hinüber zum Schreibtisch, schnappte sich den Umschlag und warf ihn in eine Schublade.
+~^
+105-113[pl]:- Przeczytałeś?! - wydyszał, tryskając śliną.
+[pl] - Nie - skłamał szybko Harry.
+[pl] Filch zacisnął pięść i uderzał nią w drugą dłoń.
+[pl] - Jeśli przeczytałeś mój prywatny list... choćby i nie do mnie...
+[pl] do przyjaciela...
+[pl] wszystko jedno...
+[pl] to...
+[pl] Dopiero teraz Harry naprawdę się przestraszył: Filch wyglądał, jakby dostał szału.
+104-109[de]:»Hast du ... hast du gelesen -?«, prustete er.
+[de] »Nein«, log Harry rasch.
+[de] Filch verschlang seine knorrigen Hände.
+[de] »Wenn ich gewusst hätte, dass du meine private - nicht dass es für mich wäre - für einen Freund - sei's, wie es ist allerdings -« Harry starrte ihn bestürzt an;
+[de] noch nie hatte Filch so auf gelöst ausgesehen.
+~^
+113-120[pl]:Oczy wyłaziły mu z orbit, jeden policzek drgał jakimś okropnym tikiem, a kraciasta chusta niewiele na to pomagała.
+[pl] - No dobrze...
+[pl] idź już...
+[pl] i nie waż się szepnąć słówka...
+[pl] Nie chodzi o to, że... no, ale skoro nie czytałeś...
+[pl] Idź już, muszę napisać raport o Irytku... idź...
+[pl] Zaskoczony swym szczęściem, Harry wybiegł z biura, pomknął korytarzem i wspiął się po schodach z szybkością Irytka.
+109-111[de]:Seine Augäpfel hüpften auf und ab, eine seiner teigigen Wangen war von einem Zucken befallen und der schottengemusterte Schal machte den Anblick auch nicht schöner.
+[de] »Von mir aus - geh - und kein Wort davon - nicht dass allerdings, wenn du es nicht gelesen hast - geh jetzt, ich muss den Bericht über Peeves schreiben - geh -« Fassungslos über sein Glück rannte Harry zur Tür hinaus, den Gang entlang und den Turm hoch.
+~^
+120-121[pl]:Wydostanie się z biura Filcha bez ukarania było chyba równoznaczne z osiągnięciem jakiegoś szkolnego rekordu.
+111-114[de]:Ohne Bestrafung aus Filchs Stube zu entkommen, war vermutlich eine Art Schulrekord.
+[de] »Harry!
+[de] Harry!
+~^
+121-123[pl]:- Harry! Harry! Podziałało?
+[pl] Z jakiejś klasy wyłoniła się zwiewna postać Prawie Bezgłowego Nicka.
+114-117[de]:Hat es geklappt?
+[de] «
+[de] Der Fast Kopflose Nick kam aus einem Klassenzimmer geglitten.
+~^
+123-130[pl]:Przez otwarte drzwi Harry zobaczył szczątki wielkiej czarno-złotej komody, którą ktoś musiał cisnąć o podłogę z dużej wysokości.
+[pl] - Namówiłem Irytka, żeby rozbił ten mebel tuż nad biurem Filcha - powiedział z przejęciem Nick.
+[pl] - Pomyślałem sobie, że to go wytrąci z równowagi i...
+[pl] - A więc to ty? - zawołał Harry.
+[pl] - Tak, podziałało, nie dostałem nawet szlabanu.
+[pl] Dzięki, Nick!
+[pl] Ruszyli razem korytarzem.
+117-122[de]:Hinter ihm sah Harry die Trümmer eines großen schwarz-goldenen Schranks, der offenbar aus großer Höhe herabgefallen war.
+[de] »Ich hab Peeves dazu überredet, ihn direkt über Filchs Büro zu zertrümmern«, sagte Nick beflissen, »dachte, es würde ihn ablenken -«
+[de] »Sie waren das?«, erwiderte Harry dankbar.
+[de] »ja, es hat geklappt, ich hab nicht einmal eine Strafarbeit bekommen, danke, Nick!«
+[de] Sie machten sich auf den Weg den Gang entlang.
+~^
+130-131[pl]:Prawie Bezgłowy Nick wciąż trzymał w ręku obelżywy list Sir Patryka.
+122-123[de]:Der Fast Kopflose Nick hielt schon wieder Sir Patricks Ablehnungsbrief in der Hand.
+~^
+131-132[pl]:- Bardzo bym chciał jakoś ci pomóc z tym Polowaniem bez Głów - powiedział Harry.
+123-124[de]:»Ich wünschte, ich könnte etwas für Sie tun wegen dieser Kopflosenjagd«, sagte Harry.
+~^
+132-133[pl]:Prawie Bezgłowy Nick zatrzymał się tak nagle, że Harry przeszedł przez niego.
+124-125[de]:Der Fast Kopflose Nick blieb wie angewurzelt stehen und Harry ging geradewegs durch ihn hindurch.
+~^
+133-138[pl]:Nie było to przyjemne: przypominało przejście pod lodowatym prysznicem.
+[pl] - Jest coś, co możesz dla mnie zrobić
+[pl] , Harry... Może nie wypada mi o to prosić...
+[pl] Nie, na pewno nie zechcesz...
+[pl] - O co chodzi? - zapytał Harry.
+125-128[de]:Das bereute er, denn es war wie ein Schritt durch eine eiskalte Dusche.
+[de] »Aber es gibt tatsächlich etwas, das Sie für mich tun können«, sagte Nick aufgeregt.
+[de] »Harry - wäre es zu viel verlangt aber nein, Sie wollen bestimmt nicht -«  »Was denn?«, sagte Harry.
+~^
+138-139[pl]:- No więc w tę Noc Duchów przypada pięćsetna rocznica mojej śmierci - oznajmił Prawie Bezgłowy Nick, prostując się i nabierając godności.
+128-129[de]:»Nun, an diesem Halloween ist mein fünfhundertster Todestag«, sagte der Fast Kopflose Nick mit schwellender Brust und würdevollem Blick.
+~^
+139-141[pl]:- Ach - westchnął Harry, nie bardzo wiedząc, czy ma wyrazić żal, czy radość z tego powodu.
+[pl] - No tak.
+129-131[de]:»Oh«, sagte Harry, nicht ganz sicher, ob er eine mitleidsvolle oder eine glückliche Miene aufsetzen sollte.
+[de] »Verstehe.«
+~^
+141-142[pl]:- Wydaję przyjęcie w jednym z bardziej przestronnych lochów.
+131-132[de]:»Ich gebe unten in einem der geräumigeren Kerker ein Fest.
+~^
+142-143[pl]:Zaprosiłem przyjaciół z całego kraju.
+132-133[de]:Aus dem ganzen Land werden Freunde kommen.
+~^
+143-144[pl]:Byłby to dla mnie wielki zaszczyt, gdybyś mógł się na tym przyjęciu pojawić.
+133-134[de]:Es wäre mir eine große Ehre, wenn Sie dabei wären.
+~^
+144-147[pl]:Pana Weasleya i pannę Granger też powitałbym z radością...
+[pl] ale... no tak... na pewno będziesz wolał iść na ucztę szkolną, prawda?
+[pl] Przyglądał się Harry’emu w napięciu.
+134-136[de]:Mr Weasley und Miss Granger wären natürlich ebenfalls willkommen - aber ich fürchte, Sie gehen lieber zum Schulfest?«
+[de] Wie auf die Folter gespannt musterte er Harry.
+~^
+147-149[pl]:- Nie - powiedział szybko Harry.
+[pl] - Przyjdę...
+136-138[de]:»Nein«, sagte Harry rasch, »ich komme -«
+[de] »
+~^
+149-150[pl]:- Ach, mój drogi chłopcze!
+138-139[de]:Mein lieber Junge!
+~^
+150-156[pl]:Harry Potter na przyjęciu w rocznicę mojej śmierci!
+[pl] A czy mógłbyś... - zawahał się, wyraźnie podekscytowany.
+[pl] - Może mógłbyś wspomnieć Sir Patrykowi, jak bardzo wydaję ci się przerażający?
+[pl] Jak wielkie zrobiłem na tobie wrażenie?
+[pl] - O-o-oczywiście - wybąkał Harry.
+[pl] Prawie Bezgłowy Nick uśmiechnął się do niego promiennie.
+139-144[de]:Harry Potter auf meiner Todestagsfeier!
+[de] Und -«, sagte er zögernd und aufgeregt, »wäre es Ihnen vielleicht möglich, gegenüber Sir Patrick zu erwähnen, wie furchtbar angsteinflößend und beeindruckend Sie mich finden?«
+[de] »Na... natürlich«, sagte Harry.
+[de] Der Fast Kopflose Nick strahlte ihn an.
+[de] »Eine Todestagsfeier«, sagte Hermine begeistert.
+~^
+156-157[pl]:- Przyjęcie z okazji rocznicy śmierci? - powtórzyła z zachwytem Hermiona, kiedy Harry przebrał się wreszcie i przyszedł do pokoju wspólnego, gdzie siedziała z Ronem.
+144-145[de]:Harry hatte sich endlich umgezogen und Hermine und Ron im Gemeinschaftsraum getroffen.
+~^
+157-159[pl]:- Założę się, że niewielu żyjących mogłoby się pochwalić, że byli na takim przyjęciu...
+[pl] To dopiero będzie przygoda!
+145-146[de]:»Ich wette, es gibt nicht viele Lebende, die von sich behaupten können, auf einer davon gewesen zu sein - das wird sicher faszinierend!«
+~^
+159-161[pl]:- Dlaczego w ogóle komuś chce się obchodzić dzień swojej śmierci? - zapytał Ron, który odrobił dopiero połowę pracy domowej z eliksirów i nie był w najlepszym humorze.
+[pl] - To taka ponura okazja...
+146-148[de]:»Warum sollte jemand den Tag feiern wollen, an dem er gestorben ist?«, fragte Ron, der erst mit der Hälfte seiner Zaubertrank-Hausaufgaben fertig war und schlechte Laune hatte.
+[de] »Das hört sich ja niederschmetternd an ...«
+~^
+161-163[pl]:Deszcz wciąż siekł w okna, teraz atramentowe czarne, ale wewnątrz było jasno i przytulnie.
+[pl] Blask z trzaskającego kominka pełzał po niezliczonych wyliniałych fotelach, w których Gryfoni czytali, rozmawiali, odrabiali lekcje, albo, jak w przypadku Freda i George’a, przeprowadzali doświadczenie polegające na nakarmieniu salamandry sztucznymi ogniami Filibustera.
+148-153[de]:Noch immer peitschte Regen gegen die Fenster, die nun tintenschwarz waren;
+[de] drinnen war es jedoch hell und behaglich.
+[de] Das Feuer warf flackerndes Licht auf die weichen Ses sel im Umkreis.
+[de] Die anderen Schüler lasen, unterhielten sich oder machten Hausaufgaben.
+[de] Oder aber sie waren wie Fred und George Weasley mit dem Versuch beschäftigt herauszufinden, was geschehen würde, wenn man einen Salamander mit einem Filibuster-Feuerwerkskörper fütterte.
+~^
+163-164[pl]:Fred „uratował” wspaniały, pomarańczowy okaz z klasy opieki nad magicznymi stworzeniami i teraz, w gronie kilku zaciekawionych osób, obserwował lekko dymiącą jaszczurkę, spacerującą po stole.
+153-154[de]:Fred hatte die orangerot leuchtende, im Feuer lebende Echse aus dem Unterricht für die Pflege magischer Geschöpfe »gerettet«, und von einer Schar Neugieriger umgeben schmorte sie nun ruhig auf einem Tisch vor sich hin.
+~^
+164-165[pl]:Harry był już bliski opowiedzenia Ronowi i Hermionie o Filchu i kursie Wmiguroka, kiedy salamandra nagle wystrzeliła w powietrze i zaczęła krążyć po pokoju, tryskając iskrami i wydając z siebie donośne trzaski.
+154-155[de]:Harry wollte gerade Ron und Hermine von Filch und dem Kwikzaubern-Kurs erzählen, als der Salamander plötzlich pfeifend in die Luft schoss und knallende Funken spuckend wild im Raum umherwirbelte.
+~^
+165-166[pl]:Widok Percy’ego, wymyślającego Fredowi i George’owi, malowniczy pokaz mandarynkowych gwiazd sypiących się z pyszczka salamandry i towarzyszące temu eksplozje wypłoszyły mu z głowy zarówno Filcha, jak i jego purpurową kopertę.
+155-156[de]:Percy, der sich wegen Fred und George heiser brüllte, und der fabelhafte Anblick des mandarinefarbene Funken ausstiebenen Salamanders und dessen von Explosionen begleitete Flucht ins Feuer - dies alles vertrieb Filch und den Kwikzaubern-Kurs aus Harrys Gedanken.
+~^
+166-168[pl]:Nadchodziła Noc Duchów, a Harry coraz bardziej żałował, że obiecał zjawić się na przyjęciu z okazji rocznicy śmierci Prawie Bezgłowego Nicka.
+[pl] Reszta szkoły szykowała się na wieczorną ucztę.
+156-158[de]:Halloween kam, und Harry bereute sein voreiliges Versprechen, zu der Todestagsfeier zu gehen.
+[de] Die anderen Schüler freuten sich schon auf ihr Halloween-Fest;
+~^
+168-169[pl]:Wielka Sala została już, jak zwykle, przystrojona żywymi nietoperzami, olbrzymie dynie Hagrida zamieniły się w wielkie latarnie i krążyły pogłoski, że Dumbledore wynajął trupę tańczących szkieletów, aby uświetnić ucztę.
+158-159[de]:die Große Halle war wie üblich mit lebenden Fledermäusen ausgeschmückt, Hagrids Riesenkürbisse waren zu Laternen ausgeschnitzt worden, in denen drei Schüler auf einmal sitzen konnten, und es liefen Gerüchte um, Dumbledore habe zur Unterhaltung eine Truppe tanzender Skelette gebucht.
+~^
+169-170[pl]:- Obietnica to obietnica - przypomniała Harry’emu Hermiona.
+159-160[de]:»Versprochen ist versprochen«, ermahnte Hermine Harry energisch.
+~^
+170-171[pl]:- Powiedziałeś, że pójdziesz na przyjęcie w rocznicę śmierci.
+160-161[de]:»Du hast gesagt, dass du auf die Todestagsfeier gehst.«
+~^
+171-172[pl]:Tak więc o siódmej wieczorem Harry, Ron i Hermiona minęli otwarte drzwi do Wielkiej Sali, rozjarzonej złotą zastawą i kandelabrami, i skierowali się ku lochom.
+161-162[de]:So gingen Harry, Ron und Hermine um sieben Uhr geradewegs an der Tür zu der voll besetzten Großen Halle vorbei, in der goldene Teller und Kerzen einladend schimmerten, und stiegen hinab in die Kerker.  
+~^
+172-173[pl]:Korytarz wiodący do lochu, w którym Prawie Bezgłowy Nick zorganizował przyjęcie, również był oświetlony świecami, ale efekt nie podnosił specjalnie na duchu: były to długie, cienkie, czarne świece o niebieskawych płomykach, rzucające blade, widmowe światło nawet na ich żywe twarze.
+162-164[de]:Der Gang, der zur Feier des Fast Kopflosen Nick führte, war ebenfalls mit Kerzen beleuchtet, wenn auch diese nicht gerade eine aufmunternde Wirkung hatten:
+[de] es waren lange, dünne, kohlschwarze Kerzen mit hellblauen Flammen, die sogar ihre lebendigen Gesichter leicht geisterhaft aussehen ließen.
+~^
+173-174[pl]:Z każdym krokiem robiło się coraz zimniej.
+164-165[de]:Mit jedem Schritt, den sie gingen, wurde es kälter.
+~^
+174-175[pl]:Harry wzdrygnął się i otulił szczelniej płaszczem, kiedy usłyszał coś, co przypominało drapanie tysiąca paznokci po olbrzymiej tablicy.
+165-166[de]:Harry zitterte und zog seinen Umhang fest zu, und da hörte er etwas, das klang wie tausend Fingernägel, die über eine riesige Tafel kratzten.
+~^
+175-176[pl]:- Czy to ma być ich muzyka! - zapytał szeptem Ron.
+166-167[de]:»Soll das etwa Musik sein?«, flüsterte Ron.
+~^
+176-177[pl]:Minęli załamanie korytarza i zobaczyli Prawie Bezgłowego Nicka stojącego przed drzwiami zasłoniętymi czarną, aksamitną draperią.
+167-168[de]:Sie bogen um eine Ecke und sahen den Fast Kopflosen Nick vor einer Tür stehen, die mit schwarzem Samt bespannt war.
+~^
+177-181[pl]:- Moi drodzy przyjaciele - powitał ich żałobnym tonem - witajcie...
+[pl] witajcie...
+[pl] Tak mi miło, że zechcieliście przyjść...
+[pl] Machnął swoim pierzastym kapeluszem, skłonił się i gestem zaprosił ich do środka.
+168-170[de]:»Meine lieben Freunde«, sagte er von Trauer erfüllt, »willkommen, willkommen ... so erfreut, dass Sie kommen konnten ...«
+[de] Er riss sich den Federhut vom Kopf und bat sie mit einer Verbeugung herein.
+~^
+181-183[pl]:Był to niesamowity widok.
+[pl] Loch wypełniały setki perłowobiałych, przezroczystych postaci; większość tańczyła nad zatłoczonym parkietem przy dźwiękach ze trzydziestu pił, na których grali muzykanci usadowieni na okrytym kirem podwyższeniu.
+170-173[de]:Ein unglaublicher Anblick bot sich ihnen.
+[de] Der Kerker war voll mit hunderten perlweißer, durchscheinender Gestalten.
+[de] Die meisten schwebten dicht gedrängt über einem Tanzboden und walzten zu dem fürchterlichen Kreischen von dreißig Musiksägen eines Orchesters, das auf einer schwarz bespannten Bühne spielte.
+~^
+183-185[pl]:Z sufitu zwieszał się wielki żyrandol z tysiącem czarnych świec płonących zimnym, niebieskim blaskiem.
+[pl] Powiało chłodem, jakby weszli do wielkiej lodówki; ich oddechy zamieniały się w parę.
+173-176[de]:Über ihnen verströmten weitere tausend Kerzen auf einem Kronleuchter mitternachtsblaues Licht.
+[de] Ihr Atem stieg als Nebelwolke vor ihnen auf;
+[de] es war, als würden sie einen Eisschrank betreten.
+~^
+185-188[pl]:- Może się trochę rozejrzymy, co? - zaproponował Harry, chcąc rozgrzać sobie nogi.
+[pl] - Tylko uważajcie, żeby przez nikogo nie przechodzić - powiedział Ron lekko drżącym głosem.
+[pl] Ruszyli skrajem parkietu.
+176-180[de]:»Sollen wir uns ein wenig umsehen?«, schlug Harry vor;
+[de] er musste nämlich dringend seine Füße aufwärmen.
+[de] »Passt auf.
+[de] dass ihr durch keinen hindurchgeht«, sagte Ron nervös, und sie machten sich auf den Weg um die Tanzfläche.
+~^
+188-189[pl]:Minęli grupę posępnych zakonnic, jakiegoś obszarpańca w łańcuchach i Grubego Mnicha, wesołego ducha z Hufflepuffu, rozmawiającego z rycerzem, w którego w czole tkwiła ułamana strzała.
+180-181[de]:Sie kamen an einer Gruppe düsterer Nonnen vorbei, an einem zerlumpten und mit Ketten gefesselten Mann und an dem  Fetten Mönch, einem gut gelaunten Geist aus dem Hause Hufflepuff, der in ein Gespräch mit einem Ritter vertieft war, aus dessen Stirn ein Pfeil ragte.
+~^
+189-190[pl]:Harry nie był zaskoczony, widząc, że inne duchy unikały Krwawego Barona, wychudłego, złośliwego ducha Slytherinu, poplamionego srebrzystą krwią.
+181-182[de]:Harry erkannte auch den Blutigen Baron, einen ausgemergelten, stierenden Slytherin-Geist voll silberner Blutflecke, und es wunderte ihn nicht, dass die anderen Geister einen weiten Bogen um ihn schlugen.
+~^
+190-193[pl]:- Och, nie - jęknęła Hermiona, zatrzymując się gwałtownie.
+[pl] - Odwróćcie się, wracamy, nie chcę się spotkać z Jęczącą Martą...
+[pl] - Z kim? - zapytał Harry, kiedy się szybko wycofali.
+182-185[de]:»O nein«, sagte Hermine und blieb schlagartig stehen.
+[de] »Umdrehen, umdrehen, ich will nicht mit der Maulenden Myrte sprechen -«
+[de] »Mit wem?«, sagte Harry, während sie rasch kehrtmachten.
+~^
+193-197[pl]:- Ona straszy w toalecie dla dziewczyn na pierwszym piętrze.
+[pl] - Straszy w toalecie?
+[pl] - Tak.
+[pl] Przez cały rok trudno było z niej korzystać, bo Marta ma wciąż napady złego humoru i zwykle wszystko jest pozalewane.
+185-188[de]:»Sie spukt in der Mädchentoilette im ersten Stock herum«, sagte Hermine.
+[de] »Sie spukt in einem Klo herum?« »ja.
+[de] War fast das ganze Jahr über geschlossen, weil sie ständig Anfälle hat und alles unter Wasser setzt.
+~^
+197-199[pl]:Ja tam w każdym razie nie chodzę, jak nie muszę, to okropne, iść do klopa i słyszeć jej jęki...
+[pl] - Zobaczcie, żarcie! - zawołał Ron.
+188-190[de]:Ich bin da sowieso nicht hingegangen, wenn ich's vermeiden konnte, es ist bescheuert, wenn du aufs Klo gehen willst und sie jammert dich voll -«
+[de] »Seht mal, da gibt's was zu essen!«, sagte Ron.
+~^
+199-202[pl]:W drugim końcu lochu był długi stół, również przykryty czarnym aksamitem.
+[pl] Ruszyli ku niemu ochoczo, ale w połowie drogi zatrzymali się, przerażeni.
+[pl] Zapach był nie do wytrzymania.
+190-193[de]:Auf der anderen Seite des Kerkers stand ein langer Tisch, ebenfalls mit schwarzem Samt bedeckt.
+[de] Hungrig traten sie näher, doch nach ein paar Schritten blieben sie entsetzt stehen.
+[de] Der Gestank war Ekel erregend.
+~^
+202-203[pl]:Na ładnych srebrnych półmiskach leżały długie zgniłe ryby, na tacach piętrzyły się spalone na węgiel ciasteczka, był również gulasz z podróbek baranich, w którym roiło się od robaków, wielki kawał sera pokryty zieloną pleśnią, a na honorowym miejscu leżało olbrzymie szare ciasto w kształcie grobu, na którym widniał napis ze smołowatego lukru: SIR NICHOLAS DE MIMSY-PORPINGTON
+193-194[de]:Auf schönen Silberplatten lagen riesige verdorbene Fische, rabenschwarze verbrannte Kuchen häuften sich auf Tellern;
+~^
+203-206[pl]:ZMARŁ 31 PAŹDZIERNIKA 1492 ROKU Harry patrzył ze zdumieniem, jak przy stole pojawił się jakiś korpulentny duch, skulił się i przeszedł przez stół, z ustami otwartymi tak szeroko, że zmieścił się w nich jeden z cuchnących łososi.
+[pl] - Czuje pan smak, przenikając przez rybę? - zapytał go Harry.
+[pl] - Prawie - odrzekł ponuro duch i odpłynął w dal.
+194-197[de]:es gab große Mengen Schafsinnereien, auf denen sich fröhlich Maden tummelten, einen Käselaib, überzogen mit flaumigem grünem Moder und, der Stolz der Küche, einen gewaltigen grauen Kuchen in der Form eines Grabsteins, verziert mit einer Art Teer, der die Worte bildete: SIR NICHOLAS DE MIMSY-PORPINGTON gestorben am 31. Oktober 1492  Harry sah erstaunt zu, wie ein fülliger Geist sich dem Tisch näherte, in die Knie ging und mit offenem Mund durch einen stinkenden Lachs watschelte.
+[de] »Können Sie es schmecken, wenn Sie hindurchgehen?«, fragte ihn Harry.
+[de] »Beinahe«, sagte der Geist traurig und entschwebte.
+~^
+206-207[pl]:- Myślę, że lubią zepsute potrawy, bo mają mocniejszy zapach - powiedziała wszystkowiedząca Hermiona, zatykając sobie nos i podchodząc bliżej stołu, żeby przyjrzeć się zgniłemu gulaszowi z podróbek.
+197-198[de]:»Ich denke mal, sie lassen es verrotten, damit es einen stärkeren Geschmack annimmt«, sagte Hermine altklug, kniff sich die Nase zu und beugte sich vor, um die verwesenden Innereien zu begutachten.
+~^
+207-208[pl]:- Chodźcie stąd, robi mi się niedobrze - jęknął Ron.
+198-199[de]:»Lasst uns gehen, mir ist schlecht«, sagte Ron.
+~^
+208-210[pl]:Nie zdążyli jednak się odwrócić, kiedy spod stołu wyskoczyła mała postać i zawisła w powietrzu tuż przed nimi.
+[pl] - Cześć, Irytku - przywitał go ostrożnie Ron, nie wiedząc, czego się po nim spodziewać.
+199-201[de]:Kaum hatten sie sich umgedreht, huschte ein kleiner Mann unter dem Tisch hervor und schwebte ihnen in den Weg.
+[de] »Hallo, Peeves«, sagte Harry behutsam.
+~^
+210-212[pl]:W przeciwieństwie do innych duchów, poltergeist nie był wcale blady ani przezroczysty.
+[pl] Na głowie miał jaskrawo-pomarańczowy kapelusz, na szyi wystrzałową muszkę, a na płaskiej twarzy szeroki, złośliwy uśmiech.
+201-203[de]:Im Gegensatz zu den Geistern um sie herum war Peeves, der Poltergeist, überhaupt nicht blass und durchscheinend.
+[de] Er trug einen hellorangeroten Papierhut, eine sich drehende Fliege und grinste arglistig über das ganze breite Gesicht.
+~^
+212-213[pl]:- Przekąskę? - zapytał słodkim tonem, wyciągając ku nim miseczkę zapleśniałych orzeszków.
+203-204[de]:»Was zu knabbern?«, sagte er schmeichlerisch und bot ihnen eine Schale mit pilzüberwucherten Erdnüssen an.
+~^
+213-214[pl]:- Nie, dzięki - odpowiedziała Hermiona.
+204-205[de]:»Nein danke«, sagte Hermine.
+~^
+214-216[pl]:- Słyszałem, jak mówiłaś o biednej Marcie - powiedział, a w jego oczach zapaliły się złośliwe chochliki.
+[pl] - I nie było to wcale uprzejme.
+205-207[de]:»Hab gehört, wie ihr über die arme Myrte gesprochen habt«, sagte Peeves mit tanzenden Augäpfeln.
+[de] »Unverschämte Dinge habt ihr über die arme Myrte gesagt.«
+~^
+216-218[pl]:- Wziął głęboki oddech i ryknął: - HEJ!
+[pl] MARTOOO!
+207-209[de]:Er holte tief Luft und rief mit donnernder Stimme: »OY!
+[de] MYRTE!«
+~^
+218-219[pl]:- Och, nie, Irytku, nie powtarzaj jej tego, co o niej mówiłam, będzie jej przykro - wyszeptała gorączkowo Hermiona.
+209-210[de]:»O nein, Peeves, erzähl ihr nicht, was ich gesagt hab, das wird sie ganz durcheinander bringen«, flüsterte Hermine aufgeregt.
+~^
+219-221[pl]:- Nie miałam nic złego na myśli, wcale mi nie przeszkadza...
+[pl] ee... witaj, Marto.
+210-211[de]:»Ich hab's nicht so gemeint, ich hab nichts gegen sie - ah, hallo, Myrte.«
+~^
+221-222[pl]:Duch tęgiej, przysadzistej dziewczyny, który zawisł przed nimi, miał okropnie ponurą twarz, ledwo widoczną spod strzechy włosów i bardzo grubych okularów.
+211-213[de]:Der Geist eines plumpen Mädchens war zu ihnen herübergeglitten.
+[de] Sie hatte das trübseligste Gesicht, das Harry je gesehen hatte, halb verborgen hinter glattem Haar und einer dicken Perlmuttbrille.  
+~^
+222-226[pl]:- Co? - zapytała głupkowato.
+[pl] - Jak się masz, Marto? - powitała ją Hermiona przesadnie serdecznym tonem.
+[pl] - Jak miło spotkać się z tobą poza toaletą.
+[pl] Marta pociągnęła nosem.
+213-216[de]:»Was ist?«, sagte sie schmollend.
+[de] »Wie geht es dir, Myrte?«, fragte Hermine mit gekünstelt munterer Stimme, »schön, dass du mal aus der Toilette rauskommst.«
+[de] Myrte schniefte.
+~^
+226-228[pl]:- Panna Granger właśnie o tobie mówiła... - powiedział Irytek Marcie do ucha.
+[pl] - Właśnie mówiłam... mówiłam...
+216-217[de]:»Miss Granger hat gerade über dich gesprochen«, sagte Peeves heimtückisch in Myrtes Ohr.
+~^
+228-230[pl]:jak ładnie dzisiaj wyglądasz - wyjąkała Hermiona, miażdżąc Irytka wzrokiem.
+[pl] Marta spojrzała na nią podejrzliwie.
+217-219[de]:»Hab nur gesagt - wie - wie hübsch du heute Abend aussiehst«, sagte Hermine und starrte Peeves mit wütendem Blick an.
+[de] Myrte beäugte Hermine misstrauisch.
+~^
+230-231[pl]:- Wyśmiewasz się ze mnie - zajęczała, a w jej małych, przezroczystych oczkach zebrały się srebrne łzy.
+219-220[de]:»Du machst dich über mich lustig«, sagte sie, und silberne Tränen schossen in ihre kleinen durchsichtigen Augen.
+~^
+231-234[pl]:- Nie... naprawdę... mówiłam, jak ładnie Marta wygląda, prawda? - powiedziała Hermiona, szturchając Harry’ego i Rona mocno w żebra.
+[pl] - A... tak...
+[pl] - Mówiła...
+220-221[de]:»Nein, ehrlich, hab ich nicht gerade gesagt, wie hübsch Myrte aussieht?«, sagte Hermine und stieß Harry und Ron schmerzhaft in die Rippen.
+~^
+234-236[pl]:- Nie okłamujcie mnie - chlipała Marta, zalewając się łzami.
+[pl] Irytek cmokał ze szczęścia u jej boku.
+221-222[de]:»Oja -« »Das hat sie -« »Lügt mich nicht an«, stöhnte Myrte, und jetzt kullerten Tränen ihr Gesicht hinunter, während Peeves glücklich über ihre Schulter hinweg gluckste.
+~^
+236-240[pl]:- Myślicie, że nie wiem, co o mnie mówią za moimi plecami?
+[pl] Gruba Marta!
+[pl] Brzydka Marta!
+[pl] Żałosna, jęcząca, wiecznie skrzywiona Marta!
+222-227[de]:»Meint ihr, ich weiß nicht, wie mich die Leute hinter meinem Rücken nennen?
+[de] Fette Myrte!
+[de] Hässliche Myrte!
+[de] Elende, maulende, trübselige Myrte!«
+[de] »Du hast >
+~^
+240-241[pl]:- I „krościata”, zapomniałaś? - syknął jej w ucho Irytek.
+227-229[de]:picklig< vergessen«, zischte ihr Peeves ins Ohr.
+[de] Die Maulende Myrte brach in verzweifeltes Schluchzen aus und floh aus dem Kerker.
+~^
+241-243[pl]:Jęcząca Marta zaniosła się szlochem i odpłynęła w dal, a uradowany Irytek pomknął za nią, obrzucając ją zgniłymi orzeszkami i wrzeszcząc: - Krościata!
+[pl] Krościata!
+229-231[de]:Peeves schoss ihr nach, bewarf sie mit pilzigen Erdnüssen und rief »Picklig!
+[de] Picklig!«
+~^
+243-245[pl]:- O Boże... - jęknęła Hermiona.
+[pl] Pojawił się Prawie Bezgłowy Nick.
+231-233[de]:»Ach je«, sagte Hermine traurig.
+[de] Der Fast Kopflose Nick schwebte ihnen durch die Gästeschar entgegen.
+~^
+245-246[pl]:- Dobrze się bawicie?
+233-234[de]:»Macht's Spaß?«
+~^
+246-248[pl]:- Och, tak - skłamali.
+[pl] - Niezłe towarzystwo, co? - powiedział z dumą Nick.
+234-236[de]:»O ja«, logen sie.
+[de] »Es sind doch einige gekommen«, sagte der Fast Kopflose  Nick stolz.
+~^
+248-250[pl]:- Jęcząca Wdowa przybyła aż z Kentu...
+[pl] Zbliża się czas mojego przemówienia, muszę uprzedzić orkiestrę...
+236-237[de]:»Die Klagende Witwe ist immerhin aus Kent angereist ... es ist Zeit für meine Rede, ich geh lieber und sag dem Orchester Bescheid ... e
+~^
+250-251[pl]:Orkiestra przestała jednak grać w tym samym momencie.
+237-238[de]:Das Orchester hörte jedoch in diesem Moment zu spielen auf.
+~^
+251-252[pl]:Zabrzmiał myśliwski róg i wszyscy ucichli, rozglądając się z zaciekawieniem.
+238-239[de]:Und auch alle andern im Kerker verstummten und drehten sich entgeistert um, als ein Jagdhorn ertönte.
+~^
+252-253[pl]:- No i są - powiedział z goryczą Prawie Bezgłowy Nick.
+239-240[de]:»Oh, da sind sie«, sagte der Fast Kopflose Nick verbittert.
+~^
+253-256[pl]:Ze ściany lochu wypadło z tuzin zwiewnych koni; na każdym siedział duch jeźdźca bez głowy.
+[pl] Wybuchły gromkie oklaski.
+[pl] Harry też zaczął klaskać, ale szybko przestał, gdy spojrzał na twarz Nicka.
+240-242[de]:Durch die Kerkerwände brach ein Dutzend Geisterpferde, jedes geritten von einem kopflosen Reiter.
+[de] Die Versammelten klatschten begeistert und auch Harry begann zu klatschen, hielt beim Anblick von Nicks Gesicht jedoch rasch inne.
+~^
+256-259[pl]:Konie zatrzymały się pośrodku parkietu, rżąc i stając dęba.
+[pl] Jeden z jeźdźców, który trzymał swą brodatą głowę pod pachą, zeskoczył z konia, uniósł ją wysoko, tak aby wszystkich zobaczyć (co zebrani powitali salwą śmiechu), i zbliżył się do Prawie Bezgłowego Nicka.
+[pl] - Nick! - ryknęła głowa, zanim duch osadził ją sobie na szyi.
+242-246[de]:Die Pferde galoppierten in die Mitte der Tanzfläche, wo sie aufbäumend und ausschlagend Halt machten;
+[de] ein großer Geist an der Spitze, der seinen bärtigen Kopf unter dem Arm trug, sprang herab und hob den Kopf in die Luft, um über die Menge sehen zu können (alles lachte).
+[de] Er setzte den Kopf auf den Hals und schritt auf den Fast Kopflosen Nick zu.
+[de] »Nick«, dröhnte er.
+~^
+259-260[pl]:- Jak się miewasz?
+246-247[de]:»Wie geht's?
+~^
+260-261[pl]:Głowa wciąż ci zwisa z karku?
+247-248[de]:Hängt der Kopf immer noch dran?«
+~^
+261-263[pl]:Parsknął rubasznym śmiechem i poklepał Nicka po ramieniu.
+[pl] - Witaj, Patryku - odrzekł Nick sucho.
+248-250[de]:Unter schallendem Gelächter klopfte er dem Fast Kopflosen Nick auf die Schulter.
+[de] »Willkommen, Patrick«, sagte Nick steif.
+~^
+263-265[pl]:- Żywi! - zawołał Sir Patryk, spojrzawszy na Harry’ego, Rona i Hermionę i podskakując wysoko, niby ze zdumienia, tak że głowa znowu spadła mu z karku (co wywołało nową salwę śmiechu).
+[pl] - Bardzo zabawne - mruknął posępnie Prawie Bezgłowy Nick.
+250-252[de]:»Lebendige!«, rief Sir Patrick, als er Harry, Ron und Hermine erblickte, und zuckte mit gespieltem Entsetzen zusammen, so dass sein Kopf wieder herunterkullerte (die Menge johlte auf).
+[de] »Sehr amüsant«, sagte der Fast Kopflose Nick mit düsterer Miene.
+~^
+265-268[pl]:- Nie przejmuj się, Nick! - krzyknęła z podłogi głowa Sir Patryka.
+[pl] - Wciąż jesteś obrażony, że nie wyraziliśmy zgody na twój udział w polowaniu?
+[pl] No, ale sami powiedzcie... tylko na niego popatrzcie...
+252-253[de]:»Stört euch nicht an Nick!«, rief Sir Patricks Kopf vom Fußboden hoch, »der ist immer noch sauer, weil er nicht an der Jagd teilnehmen darf!
+~^
+268-271[pl]:- Uważam - odezwał się pospiesznie Harry, widząc natarczywe spojrzenie Nicka - że Nick jest naprawdę bardzo... przerażający... i... eee...
+[pl] - Ha! - ryknęła głowa Sir Patryka.
+[pl] - Założę się, że cię prosił, abyś to powiedział, młodzieńcze!
+253-254[de]:Aber ich würde meinen - schaut euch den Kerl doch mal an -« »Ich denke«, sagte Harry rasch auf einen bedeutungsvol len Blick von Nick hin, »Nick ist sehr - furchteinflößend und ähm -« »Ha!«, rief Sir Patricks Kopf, »wette, er hat Sie gebeten, das zu sagen!«
+~^
+271-273[pl]:- Bardzo proszę wszystkich o uwagę! - zawołał Prawie Bezgłowy Nick, podchodząc do podium i stając w kręgu lodowatego niebieskiego światła.
+[pl] - Czas na moje przemówienie!
+254-255[de]:»Dürfte ich um Ihre Aufmerksamkeit bitten, es ist Zeit für meine Rede!«, sagte der Fast Kopflose Nick laut, schritt auf das Podium zu und trat in das eisblaue Licht einer Kerze.
+~^
+273-274[pl]:Nieodżałowanej pamięci panie i panowie, z głębokim smutkiem...
+255-256[de]:»Meine beklagenswerten verstorbenen Lords, Ladys und Gentlemen, es ist mir ein großes Missvergnügen ...«
+~^
+274-275[pl]:Ale nikt go nie słuchał.
+256-257[de]:Doch niemand mochte mehr zuhören.
+~^
+275-276[pl]:Bezgłowa drużyna Sir Patryka zaczęła właśnie grać w hokeja jego głową i wszyscy rzucili się, aby popatrzeć.
+257-258[de]:Sir Patrick und der Rest seiner Kopflosen Jäger hatten eine Partie Kopfhockey begonnen und die Gäste wandten sich dem Spiel zu.
+~^
+276-277[pl]:Prawie Bezgłowy Nick bezskutecznie próbował zwrócić na siebie uwagę, ale poddał się, kiedy głowa Sir Patryka świsnęła mu koło ucha wśród entuzjastycznych wiwatów i śmiechów.
+258-259[de]:Der Fast Kopflose Nick bemühte sich vergeblich, die Aufmerksamkeit seines Publikums zurückzugewinnen, gab jedoch auf, als Sir Patricks Kopf unter lautem Johlen an ihm vorbeisegelte.
+~^
+277-278[pl]:Harry zmarzł okropnie, nie mówiąc o tym, jaki był głodny.
+259-260[de]:Harry war es inzwischen sehr kalt, ganz zu schweigen von seinem Hunger.
+~^
+278-279[pl]:- Dłużej tego nie wytrzymam - mruknął Ron, szczękając zębami, kiedy orkiestra znowu zaczęła zgrzytać i popiskiwać, a duchy wróciły na parkiet.
+260-261[de]:»Ich halt's hier nicht mehr lange aus«, knurrte Ron mit klappernden Zähnen, als das Orchester wieder zu sägen begann und die Geister auf den Tanzboden zurückschwebten.
+~^
+279-280[pl]:- Idziemy - zgodził się Harry.
+261-262[de]:»Gehen wir«, stimmte ihm Harry zu.
+~^
+280-281[pl]:Wycofali się do drzwi, kłaniając się i uśmiechając do każdego, kto na nich spojrzał i w minutę później biegli już korytarzem oświetlonym czarnymi świecami.
+262-263[de]:Den Umstehenden lächelnd zunickend machten sie sich auf den Weg in Richtung Tür, und kurze Zeit später hasteten sie zurück durch den mit schwarzen Kerzen gesäumten Gang.
+~^
+281-282[pl]:- Może jeszcze nie zjedli puddingu - powiedział Ron z nadzieją w głosie, dobiegając pierwszy do schodów wiodących do sali wejściowej.
+263-264[de]:»Vielleicht sind sie mit dem Nachtisch noch nicht fertig«, sagte Ron hoffnungsvoll und betrat als Erster die Stufen zur Eingangshalle.
+~^
+282-285[pl]:I wówczas Harry to usłyszał.
+[pl] - ...rozerwę...
+[pl] rozszarpię...
+264-266[de]:Und dann hörte Harry es.
+[de] »Reißen ... zerfetzen ... töten ...«
+~^
+285-286[pl]:Był to ten sam głos, ten sam lodowaty, morderczy szept, który usłyszał w gabinecie Lockharta.
+266-267[de]:Es war dieselbe Stimme, dieselbe kalte, mörderische Stimme, die er schon in Lockharts Büro gehört hatte.
+~^
+286-290[pl]:Zatrzymał się, zachwiał, oparł o kamienną ścianę, nasłuchując i rozglądając się po mętnie oświetlonym korytarzu.
+[pl] - Harry, co ci jest?...
+[pl] - To znowu ten głos...
+[pl] bądźcie przez chwilę cicho... - wygłodniały... od tak dawna...
+267-268[de]:Stolpernd hielt er inne, legte die Hände auf die steinerne  Wand, blickte gangauf und gangab und lauschte mit aller Kraft.
+~^
+290-295[pl]:- Słuchajcie! - szepnął gorączkowo Harry, a Ron i Hermiona zamarli, wpatrując się w niego ze strachem.
+[pl] - zabić...
+[pl] czas, aby zabić...
+[pl] Głos zamierał.
+[pl] Harry był pewny, że głos gdzieś odpływa... gdzieś w górę...
+268-271[de]:»Harry, was »Da ist wieder diese Stimme - sei mal still -« »... so hungrig ... schon so lange ...« »Hört«, sagte Harry eindringlich, und Ron und Hermine erstarrten und richteten die Augen auf ihn. »... töten ... Zeit zu töten ...«
+[de] Die Stimme wurde schwächer.
+[de] Sie bewegte sich fort von ihnen, da war sich Harry sicher - nach oben.
+~^
+295-298[pl]:Poczuł, że ogarnia go fala strachu i podniecenia.
+[pl] Spojrzał na mroczne sklepienie.
+[pl] Czyżby to była zjawa, dla której kamienne sklepienie nie jest żadną przeszkodą?
+271-274[de]:Er starrte an die dunkle Decke, und eine Mischung aus Angst und Erregung erfüllte ihn;
+[de] wie konnte sie sich nach oben bewegen?
+[de] War sie ein Phantom, dem steinerne Decken nichts ausmachten?
+~^
+298-300[pl]:- Tędy! - krzyknął i ruszył biegiem schodami do sali wejściowej.
+[pl] Tu trudno było nawet marzyć o usłyszeniu czegokolwiek, bo przez otwarte drzwi Wielkiej Sali przelewał się gwar uczty, odbijając echem od kamiennych ścian.
+274-276[de]:»Hier lang«, rief er und lief die Stufen zur Eingangshalle hoch.
+[de] Doch hier war gewiss nichts mehr zu hören, denn Stimmengewirr vom Halloween-Fest drang aus der Großen Halle.
+~^
+300-301[pl]:Harry pomknął marmurowymi schodami na pierwsze piętro, a Ron i Hermiona pobiegli za nim.
+276-277[de]:Ron und Hermine dicht auf den Fersen rannte Harry die Marmortreppe zum ersten Stock hoch.
+~^
+301-302[pl]:- Harry, co my... - CIIICHO!
+277-278[de]:»Harry, was tun wir -« »SCHHH!«
+~^
+302-303[pl]:Harry wytężył słuch.
+278-279[de]:Harry spitzte die Ohren.
+~^
+303-306[pl]:Gdzieś z daleka, z drugiego piętra, dobiegł go słabnący głos: - ...czuję krew...
+[pl] CZUJĘ KREW!
+[pl] Harry’emu coś przewróciło się w pustym żołądku.
+279-282[de]:Aus dem nächsten Stockwerk, aus weiter Ferne, hörte er die verblassende Stimme: »... ich rieche Blut ...
+[de] ICH RIECHE BLUT!«
+[de] Harry drehte sich der Magen um »Es wird jemanden umbringen!
+~^
+306-308[pl]:- On chce kogoś zabić! - krzyknął i nie zważając na osłupiałe twarze Rona i Hermiony, pobiegł dalej, przeskakując po trzy stopnie naraz.
+[pl] Przebiegł prawie całe drugie piętro, ale słyszał tylko dudnienie własnych kroków i oddechy Rona i Hermiony za sobą.
+282-284[de]:«, rief er und rannte los.
+[de] Ohne auf Rons und Hermines verwirrte Gesichter zu achten, nahm er drei Stufen der nächsten Treppe auf einmal und versuchte über das Getrappel der eigenen Schritte hinweg zu lauschen Harry jagte durch alle Gänge im zweiten Stock und Ron und Hermine keuchten hinter ihm her.
+~^
+308-309[pl]:W końcu zatrzymał się na progu ostatniego, mrocznego korytarza.
+284-285[de]:Erst, als sie in den letzten, verlassenen Korridor eingebogen waren, hielten sie an.  
+~^
+309-310[pl]:- Harry, co jest grane? - zapytał Ron, ocierając rękawem spoconą twarz.
+285-286[de]:»Harry, was ist eigentlich los?«, fragte Ron, während er sich den Schweiß vom Gesicht wischte.
+~^
+310-314[pl]:- Ja nic nie słyszałem...
+[pl] Nagle Hermiona wydała z siebie zduszony okrzyk i wskazała ręką koniec korytarza.
+[pl] - Patrzcie!
+[pl] W głębi korytarza coś zamigotało.
+286-289[de]:»Ich hab nichts gehört ...«
+[de] Da stieß Hermine einen kurzen Seufzer aus und deutete den Gang hinunter.
+[de] »Seht mal!« An der Wand vor ihnen leuchtete etwas.
+~^
+314-315[pl]:Podeszli wolno, wyciągając szyje, żeby coś zobaczyć w ciemności.
+289-290[de]:Sie spähten durch die Dunkelheit und traten vorsichtig näher.
+~^
+315-318[pl]:Między dwoma oknami na ścianie nabazgrane były wielkimi literami słowa, migocące lekko w mdłym świetle pochodni: KOMNATA
+[pl] TAJEMNIC ZOSTAŁA OTWARTA.
+[pl] STRZEŻCIE SIĘ, WROGOWIE DZIEDZICA.
+290-298[de]:An die Wand zwischen zwei Fenstern waren halbmeterhohe Wörter geschmiert, die im flackernden Licht der Fackeln schimmerten.
+[de] DIE KAMMER DES SCHRECKENS
+[de] WURDE
+[de] GEÖFFNET.
+[de] FEINDE
+[de] DES ERBEN, NEHMT
+[de] EUCH
+[de] IN ACHT
+~^
+318-319[pl]:- Co to... co tu wisi pod spodem? - zapytał drżącym szeptem Ron.
+298-300[de]:»Was hängt - dadrunter?«, fragte Ron mit leichtem Zittern in der Stimme.
+[de] Zögernd gingen sie vor.
+~^
+319-324[pl]:Zbliżyli się jeszcze bardziej i Harry nagle się pośliznął: na posadzce było pełno wody.
+[pl] Ron i Hermiona złapali go w ostatniej chwili, bo byłby się przewrócił.
+[pl] Wyciągnęli szyje i spojrzeli na ciemny kształt pod napisem.
+[pl] Nie musieli długo się przyglądać.
+[pl] Wszyscy troje odskoczyli od ściany, wpadając w kałużę.
+300-303[de]:Harry rutschte beinahe aus - auf dem Boden war eine große Wasserlache;
+[de] Ron und Hermine hielten ihn fest und gemeinsam näherten sie sich der Schrift an der Wand, die Augen auf den dunklen Schatten darunter gerichtet.
+[de] Alle drei erkannten im selben Augenblick, was es war, und zuckten zurück.
+~^
+324-325[pl]:Do uchwytu na pochodnię za własny ogon przywiązana była Pani Norris, kotka woźnego.
+303-304[de]:Mrs Norris, die Katze des Hausmeisters, hing am Schwanz festgebunden vom Fackelhalter herab.
+~^
+325-327[pl]:Była zupełnie sztywna, a jej wielkie oczy wpatrywały się nieruchomo w ciemność.
+[pl] Przez kilka sekund żadne z nich się nie poruszyło.
+304-306[de]:Sie war steif wie ein Brett, und in ihren weit aufgerissenen Augen lag ein starrer Blick.
+[de] Einige Atemzüge lang standen sie da wie angefroren.
+~^
+327-332[pl]:Potem Ron powiedział: - Zmywamy się stąd.
+[pl] - A nie powinniśmy spróbować...
+[pl] jakoś pomóc... - zaczął Harry nieśmiało.
+[pl] - Zaufaj mi - szepnął Ron.
+[pl] - Chcesz, żeby ktoś nas tu zobaczył?
+306-309[de]:Dann sagte Ron: »Lasst uns von hier verschwinden.«
+[de] »Sollten wir nicht versuchen ihr zu helfen -«, begann Harry verlegen.
+[de] »Glaub mir«, sagte Ron, »es ist besser, wenn uns hier niemand sieht.«  
+~^
+332-335[pl]:Ale było już za późno.
+[pl] Usłyszeli harmider, przypominający odległy grzmot.
+[pl] Uczta właśnie się skończyła.
+309-311[de]:Doch es war zu spät.
+[de] Ein Dröhnen, wie von fernem Donner, sagte ihnen, dass das Fest gerade zu Ende war.
+~^
+335-337[pl]:Z obu końców korytarza dobiegł ich stukot setek stóp wspinających się po schodach i rozradowany gwar dobrze najedzonych ludzi.
+[pl] W następnej chwili na korytarz z obu stron wlał się strumień uczniów.
+311-312[de]:Von beiden Enden des Korridors näherte sich das Trappeln hunderter treppensteigender Füße und das laute, muntere Gesumme wohlgenährter Schüler: und schon drangen sie von den Seiten herein.
+~^
+337-338[pl]:Gwar, śmiechy, odgłos kroków - wszystko to nagle ucichło, kiedy zauważono wiszącą kotkę.
+312-313[de]:Das Geschnatter und Gekicher und der Lärm starben jäh ab, als die Ersten von ihnen die aufgehängte Katze erblickten.
+~^
+338-340[pl]:Harry, Ron i Hermiona stali samotnie w przerwie między dwoma oniemiałymi grupami uczniów, którzy cisnęli się do przodu, by lepiej zobaczyć ponure widowisko.
+[pl] I wówczas ktoś krzyknął: - Strzeżcie się, wrogowie Dziedzica!
+313-316[de]:Harry, Ron und Hermine standen allein inmitten des Durchgangs, und allmählich verstummte die ganze Schar und drängte vorwärts, um die grauenvolle Stätte zu sehen.
+[de] Dann durchbrach ein Ruf die Stille.
+[de] »Feinde des Erben, nehmt euch in Acht!
+~^
+340-341[pl]:Ty będziesz następna, szlamo!
+316-317[de]:Ihr seid die Nächsten, Schlammblüter«
+~^
+341-343[pl]:To był Draco Malfoy.
+[pl] Przepchał się przez tłum i stanął w pierwszym rzędzie.
+317-319[de]:Es war Draco Malfoy.
+[de] Er hatte sich ganz nach vorn gedrängt.
+~^
+343-344[pl]:Jego zimne oczy zapłonęły, a zwykle bladą twarz pokrył rumieniec, kiedy uśmiechnął się mściwie na widok nieruchomego kota, wiszącego tuż przy ścianie na własnym ogonie.
+
+319-320[de]:Mit einem Funkeln in den kalten Augen, das sonst blutleere Gesicht gerötet, grinste er beim Anblick der starren Katze.
+
