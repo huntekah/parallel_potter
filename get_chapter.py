@@ -31,10 +31,10 @@ def get_german_chapter(n):
     kapitels = [ title.strip() for title in title_list.split("\n")]
     # print(repr(kapitels))
     first_page, last_page = None, None
-
+    # print(len(pages))
     for i, page in enumerate(pages):
         # for k, kapitel in enumerate(kapitels):
-        if first_page is None and  kapitels[n-1] in page[:100]:
+        if first_page is None and page.startswith(kapitels[n-1]):
             # if kapitels[n-1] in page[:100]:
                 # return (i,n, kapitels[n-1])
                 # print(i,k, kapitel)
@@ -43,7 +43,7 @@ def get_german_chapter(n):
                 last_page = len(pages)
                 break
             continue
-        elif first_page is not None and  kapitels[n] in page[:100]:
+        elif first_page is not None and page.startswith(kapitels[n]):
             last_page = i
             break
     print(n,kapitels[n-1],first_page,last_page)

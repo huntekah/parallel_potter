@@ -1,6 +1,7 @@
-0-3[pl]:ROZDZIAŁ SZESNASTY KOMNATA TAJEMNIC  
+0-2[pl]:ROZDZIAŁ SZESNASTY KOMNATA TAJEMNIC  
 [pl] Tyle razy byliśmy w tej łazience, a ona siedziała zaledwie trzy kabiny dalej - powiedział z żalem Ron przy śniadaniu następnego dnia - i mogliśmy ją zapytać, a teraz...
-[pl] I tak już było ciężko wymknąć się z zamku w pogoni za pająkami.
+~^
+2-3[pl]:I tak już było ciężko wymknąć się z zamku w pogoni za pająkami.
 0-1[de]:Die Kammer des Schreckens »Wir waren so oft in diesem Klo und sie war nur drei Türen entfernt«, sagte Ron verbittert beim Frühstück am nächsten Morgen, »wir hätten sie fragen können, aber jetzt ...« Den Spinnen nachzuspüren war schwer genug gewesen.
 ~^
 3-4[pl]:Wymknięcie się spod opieki nauczycieli na tak długo, by wśliznąć się do łazienki, łazienki dla dziewczyn, w dodatku położonej tuż przy miejscu pierwszej napaści, wydawało im się prawie niemożliwe.
@@ -198,20 +199,18 @@
 73-74[pl]:- A co ty robiłeś, Percy? - zapytał Ron, szczerząc zęby.
 68-69[de]:»Wobei hat sie dich erwischt, Percy?«, sagte Ron grinsend.
 ~^
-74-75[pl]:- No powiedz, nie będziemy się z ciebie śmiali.
-69-70[de]:»Komm schon, erzähl's uns, wir lachen bestimmt nicht.«
-~^
-75-76[pl]:Percy nie był jednak skłonny ani do żartów, ani do zwierzeń.
-70-71[de]:Percy erwiderte sein Lächeln nicht.
+74-76[pl]:- No powiedz, nie będziemy się z ciebie śmiali.
+[pl] Percy nie był jednak skłonny ani do żartów, ani do zwierzeń.
+69-71[de]:»Komm schon, erzähl's uns, wir lachen bestimmt nicht.«
+[de] Percy erwiderte sein Lächeln nicht.
 ~^
 76-77[pl]:- Podaj mi te naleśniki, Harry, konam z głodu.
 71-72[de]:»Kannst du mir die Brötchen reichen, Harry, ich verhungere.«  
 ~^
-77-78[pl]:Harry wiedział, że cała tajemnica może się rozwiązać już jutro bez ich udziału, ale nie potrafiłby zrezygnować z możliwości porozmawiania z Jęczącą Martą, gdyby tylko się pojawiła - i ku jego radości taka możliwość rzeczywiście się nadarzyła przed południem, kiedy Gilderoy Lockhart prowadził ich na historię magii.
-72-73[de]:Harry wusste, dass das ganze Geheimnis morgen vielleicht ohne Myrtes Hilfe gelöst würde, doch er wollte sich eine Gelegenheit, mit ihr zu sprechen, nicht entgehen lassen, wenn sie sich bieten sollte - und zu seiner Freude kam eine, später am Morgen, als Gilderoy Lockhart sie zu Geschichte der Zauberei begleitete.
-~^
-78-79[pl]:Lockhart, który tak często ich zapewniał, że wszystkie zagrożenia już minęły, teraz, kiedy już niedługo miało się okazać, kto ma rację, był najwyraźniej całkowicie przekonany, że prowadzenie ich na lekcje przez profesorów jest bezsensowne.
-73-75[de]:Lockhart, der ihnen so oft versichert hatte, jede Gefahr sei vorüber, nur um sofort widerlegt zu werden, war nun zutiefst davon überzeugt, dass es kaum die Mühe wert war, sie durch die Gänge zu geleiten.
+77-79[pl]:Harry wiedział, że cała tajemnica może się rozwiązać już jutro bez ich udziału, ale nie potrafiłby zrezygnować z możliwości porozmawiania z Jęczącą Martą, gdyby tylko się pojawiła - i ku jego radości taka możliwość rzeczywiście się nadarzyła przed południem, kiedy Gilderoy Lockhart prowadził ich na historię magii.
+[pl] Lockhart, który tak często ich zapewniał, że wszystkie zagrożenia już minęły, teraz, kiedy już niedługo miało się okazać, kto ma rację, był najwyraźniej całkowicie przekonany, że prowadzenie ich na lekcje przez profesorów jest bezsensowne.
+72-75[de]:Harry wusste, dass das ganze Geheimnis morgen vielleicht ohne Myrtes Hilfe gelöst würde, doch er wollte sich eine Gelegenheit, mit ihr zu sprechen, nicht entgehen lassen, wenn sie sich bieten sollte - und zu seiner Freude kam eine, später am Morgen, als Gilderoy Lockhart sie zu Geschichte der Zauberei begleitete.
+[de] Lockhart, der ihnen so oft versichert hatte, jede Gefahr sei vorüber, nur um sofort widerlegt zu werden, war nun zutiefst davon überzeugt, dass es kaum die Mühe wert war, sie durch die Gänge zu geleiten.
 [de] Sein Haar war nicht so geschniegelt wie sonst;
 ~^
 79-82[pl]:Był lekko rozczochrany, bo przez większość nocy patrolował czwarte piętro.
@@ -430,15 +429,14 @@
 150-152[de]:»Das Wasser ...«, sagte er langsam.
 [de] »Diese Überschwemmung aus dem Klo der Maulenden Myrte.
 ~^
-161-163[pl]:Założę się, że Pani Norris zobaczyła tylko odbicie w kałuży...
+161-166[pl]:Założę się, że Pani Norris zobaczyła tylko odbicie w kałuży...
 [pl] Znowu wpatrzył się w kartkę, przebiegając ją gorączkowo wzrokiem.
-152-154[de]:Ich wette, Mrs Norris hat nur die Spiegelung gesehen ...«
-[de] Aufgeregt überflog er das ]Blatt in seiner Hand.
-~^
-163-166[pl]:Im dłużej się przyglądał, tym bardziej nabierał przekonania, że tak właśnie było.
+[pl] Im dłużej się przyglądał, tym bardziej nabierał przekonania, że tak właśnie było.
 [pl] - Pianie koguta... jest dla niego zgubne! - przeczytał na głos.
 [pl] - Padły wszystkie koguty Hagrida!
-154-157[de]:je länger er es ansah, desto mehr verstand er. »... dem Krähen des Hahns, das tödlich für ihn ist!«, las er laut.
+152-157[de]:Ich wette, Mrs Norris hat nur die Spiegelung gesehen ...«
+[de] Aufgeregt überflog er das ]Blatt in seiner Hand.
+[de] je länger er es ansah, desto mehr verstand er. »... dem Krähen des Hahns, das tödlich für ihn ist!«, las er laut.
 [de] »
 [de] Hagrids Hähne wurden umgebracht!
 ~^
@@ -495,11 +493,10 @@
 187-188[pl]:- Idziemy do pokoju nauczycielskiego - rzekł Harry, zrywając się na nogi.
 176-177[de]:»Gehen wir ins Lehrerzimmer«, sagte Harry und sprang auf.
 ~^
-188-189[pl]:- Będzie tam za dziesięć minut, zbliża się przerwa.
-177-178[de]:»In zehn Minuten ist sie dort, es ist gleich Pause.«  
-~^
-189-190[pl]:Zbiegli po schodach.
-178-179[de]:Sie rannten nach unten.
+188-190[pl]:- Będzie tam za dziesięć minut, zbliża się przerwa.
+[pl] Zbiegli po schodach.
+177-179[de]:»In zehn Minuten ist sie dort, es ist gleich Pause.«  
+[de] Sie rannten nach unten.
 ~^
 190-191[pl]:Nie chcąc, by ktoś ich nakrył, jak szwendają się po korytarzu, weszli od razu do pokoju nauczycielskiego.
 179-180[de]:Da sie nicht schon wieder entdeckt werden wollten, wie sie in einem Korridor herumlungerten, gingen sie geradewegs in das verlassene Lehrerzimmer.
@@ -562,229 +559,595 @@
 211-212[pl]:- Stało się - oznajmiła.
 201-202[de]:»Es ist passiert«, erklärte sie den stumm vor ihr Versammelten.
 ~^
-212-520[pl]:- Potwór porwał uczennicę.
+212-215[pl]:- Potwór porwał uczennicę.
 [pl] Zawlókł ją do samej Komnaty.
 [pl] Profesor Flitwick pisnął.
-[pl] Profesor Sprout zakryła usta dłońmi.
+202-205[de]:»Das Monster hat einen Schüler entführt.
+[de] Und zwar in die Kammer.«
+[de] Professor Flitwick stieß einen spitzen Schrei aus.
+~^
+215-217[pl]:Profesor Sprout zakryła usta dłońmi.
 [pl] Snape zacisnął ręce na oparciu krzesła i zapytał: - Skąd pewność, że tak się stało?
-[pl] - Dziedzic Slytherina - odpowiedziała profesor McGonagall blada jak ściana - pozostawił wiadomość.
-[pl] Dokładnie pod pierwszą.
-[pl] Jej szkielet będzie spoczywać w Komnacie na wieki.
-[pl] Profesor Flitwick wybuchnął płaczem.
-[pl] - Kto to jest? - zapytała pani Hooch, opadając na krzesło.
+205-208[de]:Professor Sprout schlug sich die Hände auf den Mund.
+[de] Snape umklammerte eine Stuhllehne und sagte:  
+[de] »Woher wissen Sie das so genau?«
+~^
+217-218[pl]:- Dziedzic Slytherina - odpowiedziała profesor McGonagall blada jak ściana - pozostawił wiadomość.
+208-209[de]:»Der Erbe Slytherins«, sagte Professor McGonagall, nun ganz weiß im Gesicht, »hat eine weitere Botschaft hinterlassen.
+~^
+218-219[pl]:Dokładnie pod pierwszą.
+209-211[de]:Direkt unter der ersten.
+[de] >
+~^
+219-220[pl]:Jej szkielet będzie spoczywać w Komnacie na wieki.
+211-212[de]:Ihr Skelett wird für immer in der Kammer liegen<.«
+~^
+220-221[pl]:Profesor Flitwick wybuchnął płaczem.
+212-213[de]:Professor Flitwick brach in Tränen aus.
+~^
+221-225[pl]:- Kto to jest? - zapytała pani Hooch, opadając na krzesło.
 [pl] - Czyja uczennica?
 [pl] - Ginny Weasley - odpowiedziała profesor McGonagall.
 [pl] Harry poczuł, że Ron osuwa się cicho na podłogę.
-[pl] - Będziemy musieli jutro wysłać wszystkich uczniów do domu - oświadczyła profesor McGonagall.
-[pl] - To koniec Hogwartu.
-[pl] Dumbledore zawsze mówił...
-[pl] Drzwi do pokoju nauczycielskiego otworzyły się z hukiem.
-[pl] Przez chwilę Harry był pewien, że to Dumbledore.
+213-216[de]:»Wer ist es?«, sagte Madam Hooch, die mit weichen Knien auf einen Stuhl gesunken war.
+[de] »Welche Schülerin?« »Ginny Weasley«, sagte Professor McGonagall.
+[de] Harry spürte, wie Ron neben ihm stumm auf den Schrankboden sank.
+~^
+225-226[pl]:- Będziemy musieli jutro wysłać wszystkich uczniów do domu - oświadczyła profesor McGonagall.
+216-217[de]:»Wir werden morgen alle Schüler nach Hause schicken müssen«, sagte Professor McGonagall.
+~^
+226-227[pl]:- To koniec Hogwartu.
+217-218[de]:»Das ist das Ende von Hogwarts.
+~^
+227-228[pl]:Dumbledore zawsze mówił...
+218-219[de]:Dumbledore hat immer gesagt ...«
+~^
+228-229[pl]:Drzwi do pokoju nauczycielskiego otworzyły się z hukiem.
+219-220[de]:Wieder ging die Lehrerzimmertür auf.
+~^
+229-233[pl]:Przez chwilę Harry był pewien, że to Dumbledore.
 [pl] Ale nie, wszedł Lockhart, jak zwykle bardzo z siebie zadowolony.
 [pl] - Tak mi przykro...
 [pl] Co mnie ominęło?
-[pl] Zdawał się nie dostrzegać, że reszta nauczycieli patrzy na niego z wyraźną niechęcią.
+220-224[de]:Einen erregten Moment lang war sich Harry sicher, es sei Dumbledore.
+[de] Doch es war Lockhart, und er strahlte.
+[de] »Tut mir ja so Leid - bin eingedöst - was hab ich verpasst?
+[de] «
+~^
+233-237[pl]:Zdawał się nie dostrzegać, że reszta nauczycieli patrzy na niego z wyraźną niechęcią.
 [pl] Snape zrobił kilka kroków w jego stronę.
 [pl] - Oto nasz człowiek - powiedział.
 [pl] - Właściwy człowiek.
-[pl] Potwór porwał dziewczynkę.
+224-228[de]:Er schien nicht zu bemerken, dass die anderen Lehrer ihn mit einem Ausdruck anstarrten, der deutlich an Hass erinnerte.
+[de] Snape trat vor.
+[de] »Genau der Richtige«, sagte er.
+[de] »Der richtige Mann.
+~^
+237-242[pl]:Potwór porwał dziewczynkę.
 [pl] Zawlókł ją do samej Komnaty Tajemnic.
 [pl] Nadeszła chwila, abyś zaczął działać, Lockhart.
 [pl] Lockhart zbladł.
 [pl] - Tak, Gilderoy - zaszczebiotała profesor Sprout.
-[pl] - Czy to nie ty mówiłeś wczoraj wieczorem, że doskonale wiesz, gdzie jest wejście do Komnaty Tajemnic?
-[pl] - Ja... tego... ja... - wybąkał Lockhart.
-[pl] - Tak, czy nie mówiłeś mi, że dobrze wiesz, co jest w tej Komnacie? - pisnął profesor Flitwick.
+228-232[de]:Das Monster hat ein Mädchen entführt, Lockhart.
+[de] Hat sie in die Kammer des Schreckens gebracht.
+[de] Ihre Stunde ist nun endlich gekommen.«
+[de] Lockhart schreckte zurück.
+~^
+242-243[pl]:- Czy to nie ty mówiłeś wczoraj wieczorem, że doskonale wiesz, gdzie jest wejście do Komnaty Tajemnic?
+232-233[de]:»Das stimmt, Gilderoy«, warf Professor Sprout ein, »haben Sie nicht erst gestern Abend gesagt, Sie hätten immer gewusst, wo der Eingang zur Kammer des Schreckens ist?«
+~^
+243-244[pl]:- Ja... tego... ja... - wybąkał Lockhart.
+233-234[de]:»Ich - nun, ich -«, stammelte Lockhart.
+~^
+244-246[pl]:- Tak, czy nie mówiłeś mi, że dobrze wiesz, co jest w tej Komnacie? - pisnął profesor Flitwick.
 [pl] - J-ja?
-[pl] Naprawdę... nie pamiętam...
-[pl] - Ale ja bardzo dobrze pamiętam, jak mówiłeś, że żałujesz, że nie rozwaliłeś tego potwora, zanim aresztowano Hagrida - powiedział Snape.
-[pl] - Nie mówiłeś, że wszystko spartaczono i że od samego początku powinni ci dać wolną rękę w rozprawieniu się z potworem?
-[pl] Lockhart wytrzeszczył oczy na kamienne twarze swoich kolegów.
+234-236[de]:»Ja, haben Sie mir nicht gesagt, Sie wüssten sicher, was in der Kammer verborgen ist?«, piepste Professor Flitwick.  
+[de] »Hab - hab ich?
+~^
+246-247[pl]:Naprawdę... nie pamiętam...
+236-237[de]:Kann mich nicht erinnern -«
+~^
+247-248[pl]:- Ale ja bardzo dobrze pamiętam, jak mówiłeś, że żałujesz, że nie rozwaliłeś tego potwora, zanim aresztowano Hagrida - powiedział Snape.
+237-238[de]:»Ich weiß noch genau, wie Sie gesagt haben, es sei schade, dass Sie es nicht mit dem Monster aufnehmen durften, bevor Hagrid verhaftet wurde«, sagte Snape.
+~^
+248-249[pl]:- Nie mówiłeś, że wszystko spartaczono i że od samego początku powinni ci dać wolną rękę w rozprawieniu się z potworem?
+238-239[de]:»Sagten Sie nicht, die ganze Sache sei stümperhaft angegangen worden und dass man Ihnen von Anfang an hätte freie Hand lassen sollen?«
+~^
+249-252[pl]:Lockhart wytrzeszczył oczy na kamienne twarze swoich kolegów.
 [pl] - Ja... ja naprawdę nigdy...
 [pl] Musiałem zostać źle zrozumiany...
-[pl] - A więc teraz masz wolną rękę, Gilderoy - oświadczyła profesor McGonagall.
-[pl] - Dziś wieczorem nadarza się świetna okazja, aby to uczynić.
-[pl] Zadbamy, aby nikt nie wchodził ci w drogę.
-[pl] Będziesz mógł robić z potworem, co ci się spodoba.
+239-241[de]:Lockhart starrte in die versteinerten Gesichter seiner Kollegen.
+[de] »Ich - ich hab wirklich nie - da haben Sie mich wohl falsch verstanden -«
+~^
+252-253[pl]:- A więc teraz masz wolną rękę, Gilderoy - oświadczyła profesor McGonagall.
+241-242[de]:»Wir überlassen es also Ihnen, Gilderoy«, sagte Professor McGonagall.
+~^
+253-254[pl]:- Dziś wieczorem nadarza się świetna okazja, aby to uczynić.
+242-243[de]:»Heute Nacht ist die beste Zeit dafür.
+~^
+254-255[pl]:Zadbamy, aby nikt nie wchodził ci w drogę.
+243-244[de]:Wir sorgen dafür, dass Ihnen niemand in die Quere kommt.
+~^
+255-257[pl]:Będziesz mógł robić z potworem, co ci się spodoba.
 [pl] Masz pełną swobodę działania.
-[pl] Lockhart rozejrzał się rozpaczliwie, ale nikt nie kwapił się, by mu pomóc.
-[pl] Nie był już owym przystojnym, pewnym siebie mężczyzną z wiecznym szerokim uśmiechem na twarzy.
+244-247[de]:Sie können es dann ganz allein mit dem Monster aufnehmen.
+[de] Endlich freie Hand für Sie.
+[de] «
+~^
+257-258[pl]:Lockhart rozejrzał się rozpaczliwie, ale nikt nie kwapił się, by mu pomóc.
+247-248[de]:Lockhart blickte verzweifelt in die Runde, doch keiner kam ihm zu Hilfe.
+~^
+258-261[pl]:Nie był już owym przystojnym, pewnym siebie mężczyzną z wiecznym szerokim uśmiechem na twarzy.
 [pl] Wargi mu drżały, szczęka opadła, ramiona obwisły.
 [pl] - N-n-no dobrze - wyjąkał.
-[pl] - B-b-będę w swoim gabinecie, muszę się przygotować...
-[pl] I wyszedł.
+248-251[de]:Er sah jetzt nicht im Entferntesten mehr hübsch aus.
+[de] Seine Lippen zitterten und ohne sein übliches zähneblitzendes Grinsen sah er schlaffwangig und gebrechlich aus.
+[de] »N... nun gut«, sagte er.
+~^
+261-262[pl]:- B-b-będę w swoim gabinecie, muszę się przygotować...
+251-252[de]:»Ich geh in mein Büro und - bereite mich vor.«
+~^
+262-266[pl]:I wyszedł.
 [pl] - Świetnie - powiedziała profesor McGonagall, której nozdrza drgały groźnie.
 [pl] - Przynajmniej zszedł nam z oczu.
 [pl] I sprzed naszych butów.
-[pl] Opiekunowie domów pójdą poinformować uczniów, co się stało.
-[pl] Powiedzcie im, że jutro rano wsiądą do ekspresu Hogwart-Londyn.
-[pl] Reszta niech zadba o to, żeby żaden uczeń czy uczennica nie wystawili nosa spoza swojego dormitorium.
-[pl] Nauczyciele powstali i jeden po drugim opuścili pokój.
-[pl] Był to chyba najgorszy dzień w życiu Harry’ego.
-[pl] On, Ron, Fred i George siedzieli razem w kącie pokoju wspólnego Gryffindoru, niezdolni do rozmowy.
-[pl] Percy’ego z nimi nie było.
-[pl] Poszedł wysłać sowę do państwa Weasleyów, a potem zamknął się w swoim dormitorium.
-[pl] Żadne popołudnie nie ciągnęło się tak długo jak to i jeszcze nigdy wieża Gryffindoru nie była tak zatłoczona, a jednak cicha.
-[pl] Fred i George poszli spać o zachodzie słońca, nie mogąc dłużej tak siedzieć.
-[pl] - Ona się czegoś dowiedziała - powiedział Ron, odzywając się po raz pierwszy od czasu, gdy ukryli się między płaszczami w pokoju nauczycielskim.
-[pl] - Dlatego ją porwano.
+252-254[de]:Und er ging hinaus.
+[de] »Schön«, sagte Professor McGonagall mit geblähten Nasenflügeln, » jetzt haben wir ihn aus dem Weg.
+~^
+266-267[pl]:Opiekunowie domów pójdą poinformować uczniów, co się stało.
+254-255[de]:Die Hauslehrer sollten nun gehen und ihren Schülern mitteilen, was geschehen ist.
+~^
+267-268[pl]:Powiedzcie im, że jutro rano wsiądą do ekspresu Hogwart-Londyn.
+255-256[de]:Sagen Sie ihnen, der Hogwarts-Express wird sie gleich morgen früh nach Hause bringen.
+~^
+268-269[pl]:Reszta niech zadba o to, żeby żaden uczeń czy uczennica nie wystawili nosa spoza swojego dormitorium.
+256-257[de]:Und ich bitte die anderen, sich zu vergewissern, dass kein Schüler mehr außerhalb der Schlafsäle geblieben ist.«
+~^
+269-270[pl]:Nauczyciele powstali i jeden po drugim opuścili pokój.
+257-258[de]:Die Lehrer erhoben sich und gingen einer nach dem andern hinaus.  
+~^
+270-271[pl]:Był to chyba najgorszy dzień w życiu Harry’ego.
+258-259[de]:Es war wohl der schlimmste Tag in Harrys ganzem Leben.
+~^
+271-272[pl]:On, Ron, Fred i George siedzieli razem w kącie pokoju wspólnego Gryffindoru, niezdolni do rozmowy.
+259-260[de]:Er, Ron, Fred und George saßen zusammen in einer Ecke des Gemeinschaftsraums und brachten kein Wort heraus.
+~^
+272-273[pl]:Percy’ego z nimi nie było.
+260-261[de]:Percy war nicht da.
+~^
+273-274[pl]:Poszedł wysłać sowę do państwa Weasleyów, a potem zamknął się w swoim dormitorium.
+261-262[de]:Er war weggegangen, um Mr und Mrs Weasley eine Eule zu schicken, und hatte sich dann in seinem Zimmer eingeschlossen.
+~^
+274-275[pl]:Żadne popołudnie nie ciągnęło się tak długo jak to i jeszcze nigdy wieża Gryffindoru nie była tak zatłoczona, a jednak cicha.
+262-263[de]:Kein Nachmittag hatte je so lange gedauert wie dieser und nie war es im Gryffindor-Turm so voll und zugleich so still gewesen.
+~^
+275-276[pl]:Fred i George poszli spać o zachodzie słońca, nie mogąc dłużej tak siedzieć.
+263-264[de]:Bei Sonnenuntergang gingen Fred und George, die nicht mehr länger herumsitzen konnten, nach oben und zu Bett.
+~^
+276-277[pl]:- Ona się czegoś dowiedziała - powiedział Ron, odzywając się po raz pierwszy od czasu, gdy ukryli się między płaszczami w pokoju nauczycielskim.
+264-265[de]:»Sie wusste etwas, Harry«, sagte Ron und sprach damit zum ersten Mal, seit sie sich im Lehrerschrank versteckt hatten.
+~^
+277-279[pl]:- Dlatego ją porwano.
 [pl] I nie były to żadne głupoty o Percym.
-[pl] Wykryła coś, co wiąże się z Komnatą Tajemnic.
-[pl] To dlatego została...
+265-267[de]:»Deshalb wurde sie entführt.
+[de] Es war nicht irgendein Blödsinn mit Percy.
+~^
+279-280[pl]:Wykryła coś, co wiąże się z Komnatą Tajemnic.
+267-268[de]:Sie hat etwas über die Kammer des Schreckens herausgefunden.
+~^
+280-282[pl]:To dlatego została...
 [pl] - potarł szybko oczy.
-[pl] - Przecież ona jest czystej krwi.
-[pl] Nie było innego powodu.
-[pl] Harry patrzył przez okno na krwawoczerwone słońce, zachodzące za linię horyzontu.
-[pl] Jeszcze nigdy nie czuł się tak okropnie.
-[pl] Gdyby tylko było coś, co można by zrobić.
+268-270[de]:Das muss der Grund sein,
+[de] weshalb sie -« Ron rieb sich fieberhaft die trockenen Augen.
+~^
+282-283[pl]:- Przecież ona jest czystej krwi.
+270-271[de]:»Ich meine, sie hat reines Blut.
+~^
+283-284[pl]:Nie było innego powodu.
+271-272[de]:Es kann keinen anderen Grund geben.«
+~^
+284-285[pl]:Harry patrzył przez okno na krwawoczerwone słońce, zachodzące za linię horyzontu.
+272-273[de]:Blutrot sah Harry am Horizont die Sonne untergehen.
+~^
+285-286[pl]:Jeszcze nigdy nie czuł się tak okropnie.
+273-274[de]:So schlecht hatte er sich noch nie gefühlt.
+~^
+286-288[pl]:Gdyby tylko było coś, co można by zrobić.
 [pl] Nic.
-[pl] - Harry - powiedział Ron - czy myślisz, że w ogóle są jakieś szansę, że ona nie... no wiesz...
-[pl] Harry nie wiedział, co powiedzieć.
-[pl] Trudno mu było założyć, że Ginny nadal żyje.
-[pl] - Wiesz co? - powiedział Ron.
-[pl] - Myślę, że powinniśmy porozmawiać z Lockhartem.
-[pl] Powiemy mu, co wiemy.
-[pl] Zamierza spróbować dostać się do tej Komnaty.
-[pl] Możemy mu powiedzieć o bazyliszku i o tym, gdzie, według nas, trzeba jej szukać.
-[pl] Harry nie był w stanie wymyślić nic innego, a sam bardzo chciał coś zrobić, więc się zgodził.
-[pl] Reszta Gryfonów wokół nich była w tak żałosnym stanie i tak współczuła Weasleyom, że nikt nie próbował ich zatrzymywać, kiedy wstali, przeszli przez pokój i opuścili go przez dziurę w portrecie.
-[pl] Kiedy szli do gabinetu Lockharta, zapadała już ciemność.
-[pl] Zatrzymali się pod drzwiami, zza których dochodziły dziwne odgłosy: jakieś szurania, dudnienia, trzaski i pospieszne kroki.
+274-277[de]:Wenn er nur etwas tun könnte.
+[de] Irgendetwas.
+[de] »Harry«, sagte Ron.
+~^
+288-289[pl]:- Harry - powiedział Ron - czy myślisz, że w ogóle są jakieś szansę, że ona nie... no wiesz...
+277-278[de]:»Glaubst du, es könnte vielleicht doch sein, dass sie nicht - du weißt schon -«
+~^
+289-290[pl]:Harry nie wiedział, co powiedzieć.
+278-279[de]:Harry wusste nicht, was er sagen sollte.
+~^
+290-291[pl]:Trudno mu było założyć, że Ginny nadal żyje.
+279-280[de]:Er konnte sich nicht vorstellen, dass Ginny noch am Leben war.
+~^
+291-292[pl]:- Wiesz co? - powiedział Ron.
+280-281[de]:»Weißt du was?«, sagte Ron.
+~^
+292-293[pl]:- Myślę, że powinniśmy porozmawiać z Lockhartem.
+281-282[de]:»Ich glaube, wir sollten zu Lockhart gehen.
+~^
+293-294[pl]:Powiemy mu, co wiemy.
+282-283[de]:Ihm sagen, was wir wissen.
+~^
+294-295[pl]:Zamierza spróbować dostać się do tej Komnaty.
+283-284[de]:Er wird versuchen, in die Kammer zu kommen.
+~^
+295-296[pl]:Możemy mu powiedzieć o bazyliszku i o tym, gdzie, według nas, trzeba jej szukać.
+284-285[de]:Wir können ihm sagen, wo wir glauben, dass sie ist, und dass ein Basilisk dort drinsteckt.«
+~^
+296-297[pl]:Harry nie był w stanie wymyślić nic innego, a sam bardzo chciał coś zrobić, więc się zgodził.
+285-286[de]:Weil Harry nichts Besseres einfiel und auch er etwas tun wollte, stimmte er zu.
+~^
+297-298[pl]:Reszta Gryfonów wokół nich była w tak żałosnym stanie i tak współczuła Weasleyom, że nikt nie próbował ich zatrzymywać, kiedy wstali, przeszli przez pokój i opuścili go przez dziurę w portrecie.
+286-287[de]:Die Gryffindors um sie her waren  so niedergeschlagen und die Weasleys taten ihnen so Leid, dass keiner versuchte sie aufzuhalten, als sie aufstanden, den Raum durchquerten und durch das Porträtloch stiegen.
+~^
+298-299[pl]:Kiedy szli do gabinetu Lockharta, zapadała już ciemność.
+287-289[de]:Dunkelheit fiel über das Schloss, während sie zu Lockharts Büro hinuntergingen.
+[de] Drinnen schien einiges los zu sein.
+~^
+299-301[pl]:Zatrzymali się pod drzwiami, zza których dochodziły dziwne odgłosy: jakieś szurania, dudnienia, trzaski i pospieszne kroki.
 [pl] Harry zapukał i nagle wszystko ucichło.
-[pl] Po chwili drzwi się uchyliły i zobaczyli jedno oko Lockharta łypiące na nich przez bardzo wąską szparę.
-[pl] - Och... pan Potter... pan Weasley... - wybąkał, uchylając drzwi nieco szerzej.
+289-291[de]:Sie konnten Schleifen und Poltern und eilige Schritte hören.
+[de] Harry klopfte und hinter der Tür wurde es jäh still.
+~^
+301-302[pl]:Po chwili drzwi się uchyliły i zobaczyli jedno oko Lockharta łypiące na nich przez bardzo wąską szparę.
+291-292[de]:Dann öffnete sie sich einen winzigen Spaltbreit und sie sahen ein Auge Lockharts.
+~^
+302-306[pl]:- Och... pan Potter... pan Weasley... - wybąkał, uchylając drzwi nieco szerzej.
 [pl] - Jestem akurat trochę zajęty.
 [pl] Gdybyście mogli się streszczać...
 [pl] - Panie profesorze, mamy dla pana pewne informacje - powiedział Harry.
-[pl] - Sądzimy, że mogą panu pomóc.
-[pl] - Ee... no... to nie jest aż tak...
+292-294[de]:»Oh - Mr Potter - Mr Weasley -«, sagte er und öffnete die Tür einen Daumenbreit weiter.
+[de] »Ich bin im Augenblick sehr beschäftigt - wenn Sie sich beeilen würden -« »Professor, wir haben Ihnen etwas Wichtiges zu sagen«, erklärte Harry.
+~^
+306-307[pl]:- Sądzimy, że mogą panu pomóc.
+294-295[de]:»Wir glauben, es wird Ihnen helfen.«
+~^
+307-311[pl]:- Ee... no... to nie jest aż tak...
 [pl] - Przynajmniej na tej stronie twarzy Lockharta, którą widzieli przez szparę, było widać ogromne zmieszanie.
 [pl] - To znaczy...
 [pl] no... dobrze.
-[pl] Otworzył drzwi i weszli do środka.
-[pl] Jego gabinet został prawie całkowicie ogołocony.
-[pl] Na podłodze stały dwa wielkie kufry.
-[pl] Do jednego wrzucono w nieładzie ciemnozielone, jasnoróżowe, śliwkowe i granatowe szaty, w drugim znajdowały się byle jak ułożone książki.
-[pl] Fotografie, które zwykle wisiały na ścianach, teraz leżały w pudełkach na biurku.
+295-298[de]:»Ähm - nun - es ist nicht unbedingt -«
+[de] Die Seite von Lockharts Gesicht, die sie sehen konnten, sah sehr verlegen aus.
+[de] »Ich meine - nun - also gut -«
+~^
+311-312[pl]:Otworzył drzwi i weszli do środka.
+298-299[de]:Er öffnete die Tür und sie traten ein.
+~^
+312-313[pl]:Jego gabinet został prawie całkowicie ogołocony.
+299-300[de]:Sein Büro war fast ganz ausgeräumt.
+~^
+313-314[pl]:Na podłodze stały dwa wielkie kufry.
+300-301[de]:Zwei große Schrankkoffer standen aufgeklappt auf dem Boden.
+~^
+314-315[pl]:Do jednego wrzucono w nieładzie ciemnozielone, jasnoróżowe, śliwkowe i granatowe szaty, w drugim znajdowały się byle jak ułożone książki.
+301-302[de]:Umhänge, jadegrün, lila, mitternachtsblau, waren in aller Hast in den einen gepackt worden, Bücher stapelten sich kreuz und quer im anderen.
+~^
+315-317[pl]:Fotografie, które zwykle wisiały na ścianach, teraz leżały w pudełkach na biurku.
 [pl] - Wybiera się pan gdzieś? - zapytał Harry.
-[pl] - Eee... no... tak - odpowiedział Lockhart, zdzierając z drzwi plakat ze swoim zdjęciem naturalnej wielkości i zwijając go w rulon.
+302-304[de]:Die Fotos, die die Wände bedeckt hatten, lagen in Kisten gestopft auf dem Schreibtisch.
+[de] »Gehen Sie etwa fort?«, fragte Harry.
+~^
+317-319[pl]:- Eee... no... tak - odpowiedział Lockhart, zdzierając z drzwi plakat ze swoim zdjęciem naturalnej wielkości i zwijając go w rulon.
 [pl] - Pilne wezwanie... nie mogę odmówić... muszę jechać...
-[pl] - A co z moją siostrą? - zapytał ostro Ron.
-[pl] - No... jeśli chodzi o to... niesłychanie mi przykro... - odpowiedział Lockhart, unikając ich spojrzeń i wysuwając szufladę, której zawartość zaczął przekładać do torby.
+304-305[de]:»Ähm, nun, ja«, sagte Lockhart, riss ein lebensgroßes Poster seiner selbst von der Tür und fing an, es aufzurollen.
+~^
+319-320[pl]:- A co z moją siostrą? - zapytał ostro Ron.
+305-306[de]:»Dringender Ruf - unvermeidlich - muss gehen -« »Was ist mit meiner Schwester?«, stieß Ron hervor.
+~^
+320-326[pl]:- No... jeśli chodzi o to... niesłychanie mi przykro... - odpowiedział Lockhart, unikając ich spojrzeń i wysuwając szufladę, której zawartość zaczął przekładać do torby.
 [pl] - Chyba nikomu nie jest tak żal, jak mnie...
 [pl] - Jest pan nauczycielem obrony przed czarną magią! - zawołał Harry.
 [pl] - Nie może pan teraz odejść!
 [pl] Tutaj się dzieją straszne rzeczy!
 [pl] - No cóż, muszę powiedzieć...
-[pl] kiedy przyjmowałem to stanowisko... - mruknął Lockhart, układając stertę skarpetek na swoich barwnych szatach - zakres obowiązków nie wskazywał...
+306-309[de]:»Nun, was das angeht - unglückliche Sache _«, sagte Lockhart und mied ihre Blicke, während er eine Schublade herauszog und deren Inhalt in eine Tasche kippte.
+[de] »Keiner bedauert das mehr als ich -«  »Sie sind der Lehrer für Verteidigung gegen die dunklen Künste!«, sagte Harry, »Sie können doch jetzt nicht gehen!
+[de] Bei all den dunklen Machenschaften hier!«
+~^
+326-331[pl]:kiedy przyjmowałem to stanowisko... - mruknął Lockhart, układając stertę skarpetek na swoich barwnych szatach - zakres obowiązków nie wskazywał...
 [pl] nie mogłem się spodziewać, że... - Czy to znaczy, że pan po prostu daje nogę? - zapytał z niedowierzaniem Harry.
 [pl] - Po tym wszystkim, co pan opisywał w swoich książkach? - Książki można źle zrozumieć - powiedział łagodnie Lockhart.
 [pl] - Przecież to pan je napisał! - krzyknął Harry.
 [pl] - Mój drogi chłopcze - rzekł Lockhart, prostując się i marszcząc czoło.
-[pl] - Skorzystaj ze swojego zdrowego rozsądku.
-[pl] Moje książki nie sprzedawałyby się tak dobrze, gdyby ludzie nie sądzili, że to właśnie ja dokonałem tego wszystkiego.
-[pl] Nikt nie zechce czytać o jakimś szpetnym armeńskim czarowniku, nawet jeśli uwolni wioskę od wilkołaków.
-[pl] Wyglądałby okropnie na okładce.
+309-315[de]:»Nun, ich muss sagen, als ich die Stelle übernahm -«, murmelte Lockhart und häufte jetzt Socken auf seine Umhänge, »nichts davon in der Stellenbeschreibung - hab nicht erwartet -« »Wollen Sie sagen, Sie hauen ab?
+[de] «, sagte Harry ungläubig.
+[de] »Nach all dem, was Sie in Ihren Büchern tun -«
+[de] »Bücher können irreführen«, sagte Lockhart behutsam.
+[de] »Sie haben sie selbst geschrieben«, rief Harry.
+[de] »Mein lieber Junge«, sagte Lockhart, richtete sich auf und sah Harry stirnrunzelnd an.
+~^
+331-332[pl]:- Skorzystaj ze swojego zdrowego rozsądku.
+315-316[de]:»Benutzen Sie doch Ihren gesunden Menschenverstand.
+~^
+332-333[pl]:Moje książki nie sprzedawałyby się tak dobrze, gdyby ludzie nie sądzili, że to właśnie ja dokonałem tego wszystkiego.
+316-317[de]:Meine Bücher hätten sich nicht halb so gut verkauft, wenn die Leute nicht glauben würden, ich hätte das alles getan.
+~^
+333-334[pl]:Nikt nie zechce czytać o jakimś szpetnym armeńskim czarowniku, nawet jeśli uwolni wioskę od wilkołaków.
+317-318[de]:Keiner will etwas über einen hässlichen alten armenischen Zauberer lesen, auch wenn er ein Dorf vor den Werwölfen gerettet hat.
+~^
+334-336[pl]:Wyglądałby okropnie na okładce.
 [pl] Bez smaku, stylu, źle ubrany i w ogóle.
-[pl] A czarownica, która przepędziła zjawę z Bandon, miała zajęczą wargę.
-[pl] Chodzi mi o to, że... - To znaczy, że pan przypisuje sobie czyny, których dokonali inni? - zapytał Harry z niedowierzaniem.
-[pl] - Harry, Harry - powiedział Lockhart, kręcąc niecierpliwie głową - to nie jest takie proste, jak ci się wydaje.
-[pl] Włożyłem w to mnóstwo pracy.
-[pl] Musiałem tych ludzi odnaleźć.
-[pl] Zapytać ich, jak im się udało tego dokonać.
-[pl] Rzucić na nich Zaklęcie Zapomnienia, żeby nie pamiętali, że coś takiego zrobili.
-[pl] Z czego jak z czego, ale z moich zaklęć pamięci jestem naprawdę dumny.
-[pl] Ciężko na to wszystko zapracowałem, Harry.
-[pl] Tu nie chodzi o jakieś tam rozdawanie autografów czy robienie sobie zdjęć.
-[pl] Jeśli chcesz być sławny, musisz być przygotowany na długą, ciężką orkę.
-[pl] Zatrzasnął wieka kufrów i zamknął je na klucz.
-[pl] - Rozejrzyjmy się - powiedział.
+318-320[de]:Auf dem Umschlag würde er fürchterlich aussehen.
+[de] Keinen Schimmer, wie man sich gut anzieht.
+~^
+336-337[pl]:A czarownica, która przepędziła zjawę z Bandon, miała zajęczą wargę.
+320-321[de]:Und die Hexe, die die Todesfee von Bandon verbannt hat, hatte eine Hasenscharte.
+~^
+337-338[pl]:Chodzi mi o to, że... - To znaczy, że pan przypisuje sobie czyny, których dokonali inni? - zapytał Harry z niedowierzaniem.
+321-322[de]:Na hören Sie mal -« »Also haben Sie einfach den Ruhm für das eingeheimst, was andere Leute getan haben?«, sagte Harry ungläubig.
+~^
+338-339[pl]:- Harry, Harry - powiedział Lockhart, kręcąc niecierpliwie głową - to nie jest takie proste, jak ci się wydaje.
+322-324[de]:»Harry, Harry«, sagte Lockhart, ungeduldig den Kopf schüttelnd.
+[de] »Gar so einfach ist es nicht.
+~^
+339-340[pl]:Włożyłem w to mnóstwo pracy.
+324-325[de]:Es hat Arbeit gekostet.
+~^
+340-341[pl]:Musiałem tych ludzi odnaleźć.
+325-326[de]:Ich musste diese Leute aufspüren.
+~^
+341-342[pl]:Zapytać ich, jak im się udało tego dokonać.
+326-327[de]:Sie fragen, wie sie es genau gemacht haben.
+~^
+342-343[pl]:Rzucić na nich Zaklęcie Zapomnienia, żeby nie pamiętali, że coś takiego zrobili.
+327-328[de]:Dann musste ich sie mit einem Vergessenszauber belegen, so dass sie sich nicht daran erinnern würden.
+~^
+343-344[pl]:Z czego jak z czego, ale z moich zaklęć pamięci jestem naprawdę dumny.
+328-329[de]:Wenn es etwas gibt, auf das ich stolz bin, dann sind es meine Vergessenszauber.
+~^
+344-345[pl]:Ciężko na to wszystko zapracowałem, Harry.
+329-330[de]:Nein, es war eine Menge Arbeit, Harry.
+~^
+345-346[pl]:Tu nie chodzi o jakieś tam rozdawanie autografów czy robienie sobie zdjęć.
+330-331[de]:Es reicht nicht, Bücher zu signieren und Fotos in den Zeitungen zu haben, müssen Sie wissen.
+~^
+346-347[pl]:Jeśli chcesz być sławny, musisz być przygotowany na długą, ciężką orkę.
+331-332[de]:Wenn Sie Ruhm wollen, müssen Sie sich auf eine ziemliche Schinderei vorbereiten.«  
+~^
+347-348[pl]:Zatrzasnął wieka kufrów i zamknął je na klucz.
+332-333[de]:Er schlug die Kofferdeckel zu und verschloss sie.
+~^
+348-351[pl]:- Rozejrzyjmy się - powiedział.
 [pl] - Chyba już wszystko.
 [pl] Tak.
-[pl] Pozostało tylko jedno.
+333-335[de]:»Mal sehen«, sagte er.
+[de] »Ich glaube, ich hab alles. ja.
+~^
+351-353[pl]:Pozostało tylko jedno.
 [pl] Wyciągnął różdżkę i odwrócił się do nich.
-[pl] - Okropnie mi przykro, chłopcy, ale muszę na was rzucić moje Zaklęcie Zapomnienia.
-[pl] Nie mogę pozwolić, żebyście łazili po zamku i zdradzali wszystkim moje sekrety.
+335-338[de]:Nur noch eins.
+[de] «
+[de] Er zückte seinen Zauberstab und drehte sich zu ihnen herum.
+~^
+353-354[pl]:- Okropnie mi przykro, chłopcy, ale muszę na was rzucić moje Zaklęcie Zapomnienia.
+338-339[de]:»Tut mir furchtbar Leid, Jungs, aber ich muss euch jetzt mit einem Vergessenszauber belegen.
+~^
+354-357[pl]:Nie mogę pozwolić, żebyście łazili po zamku i zdradzali wszystkim moje sekrety.
 [pl] Nie sprzedałbym kolejnej książki...
 [pl] Harry zdążył wyciągnąć swoją różdżkę.
-[pl] Lockhart już podnosił swoją, kiedy Harry ryknął: - Expelliarmus!
+339-341[de]:Kann es nicht brauchen, wenn ihr all meine Geheimnisse ausplaudert.
+[de] Ich würde kein Buch mehr verkaufen -« Harry kam noch rechtzeitig an seinen Zauberstab.
+~^
+357-359[pl]:Lockhart już podnosił swoją, kiedy Harry ryknął: - Expelliarmus!
 [pl] Lockharta odrzuciło do tyłu; upadł, przewracając się o swoje kufry.
-[pl] Jego różdżka wyleciała w powietrze; Ron złapał ją i wyrzucił przez otwarte okno.
-[pl] - Nie trzeba było pozwolić, żeby Snape nauczył nas tego zaklęcia - powiedział Harry ze złością, odsuwając kopniakiem kufer.
+341-344[de]:Lockhart wollte gerade seinen heben, als Harry rief.- »Expelliarmus!«
+[de] Lockhart flog nach hinten und fiel rücklings über seinen Koffer.
+[de] Sein Zauberstab wirbelte durch die Luft;
+~^
+359-360[pl]:Jego różdżka wyleciała w powietrze; Ron złapał ją i wyrzucił przez otwarte okno.
+344-345[de]:Ron fing ihn auf und warf ihn aus dem offenen Fenster.
+~^
+360-362[pl]:- Nie trzeba było pozwolić, żeby Snape nauczył nas tego zaklęcia - powiedział Harry ze złością, odsuwając kopniakiem kufer.
 [pl] Lockhart patrzył na niego z podłogi, znowu żałosny i jakby sflaczały.
-[pl] Harry wciąż celował w niego różdżką.
+345-347[de]:»Den hätten Sie uns von Professor Snape nicht zeigen lassen dürfen«, sagte Harry wütend und stieß Lockharts Koffer zur Seite.
+[de] Lockhart, der nun wieder schlaff wirkte, sah zu ihm hoch.
+~^
+362-364[pl]:Harry wciąż celował w niego różdżką.
 [pl] - Czego ode mnie chcecie? - jęknął Lockhart.
-[pl] - Nie wiem, gdzie jest ta Komnata.
-[pl] Nic wam nie pomogę.
+347-349[de]:Harry hatte den Zauberstab immer noch auf ihn gerichtet.
+[de] »Was haben Sie vor?«, sagte Lockhart mit matter Stimme.
+~^
+364-365[pl]:- Nie wiem, gdzie jest ta Komnata.
+349-350[de]:»Ich weiß nicht, wo die Kammer des Schreckens ist.
+~^
+365-367[pl]:Nic wam nie pomogę.
 [pl] - Ma pan szczęście - rzekł Harry, zmuszając go końcem różdżki do powstania.
-[pl] - Tak się składa, że my wiemy, gdzie ona jest.
-[pl] I co jest w środku.
-[pl] Idziemy.
-[pl] Wyprowadzili Lockharta z gabinetu i zeszli po najbliższych schodach, a potem, idąc ciemnym korytarzem z magicznymi napisami, doszli do drzwi łazienki Jęczącej Marty.
-[pl] Kazali Lockhartowi wejść pierwszemu.
-[pl] Wszedł, dygocąc na całym ciele, co Harry’emu sprawiło dziwną satysfakcję.
-[pl] Jęcząca Marta siedziała na rezerwuarze w ostatniej kabinie.
-[pl] - Ach, to ty - powiedziała, kiedy zobaczyła Harry’ego.
-[pl] - Czego chcesz tym razem?
-[pl] - Zapytać cię, jak umarłaś - odpowiedział Harry.
-[pl] Marta nagle całkowicie się zmieniła.
-[pl] Sprawiała wrażenie zachwyconej tym pytaniem, które najwyraźniej połechtało jej próżność.
-[pl] - Oooooch, to było straszne - powiedziała z rozkoszą.
-[pl] - To stało się właśnie tutaj.
-[pl] Umarłam w tej oto kabinie.
-[pl] Pamiętam to dobrze.
-[pl] Schowałam się tutaj, bo Oliwią Hornby dokuczała mi z powodu moich okularów.
-[pl] Drzwi były zamknięte, ja ryczałam i nagle usłyszałam, że ktoś wchodzi.
+350-352[de]:Ich kann nichts tun.«
+[de] »Sie haben Glück«, sagte Harry und zwang Lockhart mit vorgehaltenem Zauberstab aufzustehen.
+~^
+367-368[pl]:- Tak się składa, że my wiemy, gdzie ona jest.
+352-353[de]:»Wir glauben zu wissen, wo sie ist.
+~^
+368-369[pl]:I co jest w środku.
+353-354[de]:Und was drin ist.
+~^
+369-370[pl]:Idziemy.
+354-355[de]:Gehen wir.«
+~^
+370-371[pl]:Wyprowadzili Lockharta z gabinetu i zeszli po najbliższych schodach, a potem, idąc ciemnym korytarzem z magicznymi napisami, doszli do drzwi łazienki Jęczącej Marty.
+355-356[de]:Lockhart vor sich herschiebend verließen sie das Büro und gingen die nächste Treppe hinunter, den dunklen Korridor entlang, wo die Botschaften an den Wänden leuchteten, bis zur Klotür der Maulenden Myrte.
+~^
+371-372[pl]:Kazali Lockhartowi wejść pierwszemu.
+356-357[de]:Sie schickten Lockhart als Ersten hinein.
+~^
+372-373[pl]:Wszedł, dygocąc na całym ciele, co Harry’emu sprawiło dziwną satysfakcję.
+357-358[de]:Harry sah vergnügt, dass er zitterte.
+~^
+373-374[pl]:Jęcząca Marta siedziała na rezerwuarze w ostatniej kabinie.
+358-359[de]:Die Maulende Myrte saß auf der Kloschüssel in der letzten Kabine.  
+~^
+374-375[pl]:- Ach, to ty - powiedziała, kiedy zobaczyła Harry’ego.
+359-360[de]:»Oh, du bist es«, sagte sie, als sie Harry erkannte.
+~^
+375-376[pl]:- Czego chcesz tym razem?
+360-361[de]:»Was willst du diesmal?«
+~^
+376-377[pl]:- Zapytać cię, jak umarłaś - odpowiedział Harry.
+361-362[de]:»Dich fragen, wie du gestorben bist«, sagte Harry.
+~^
+377-378[pl]:Marta nagle całkowicie się zmieniła.
+362-363[de]:Schlagartig änderte sich Myrtes ganzes Gebaren.
+~^
+378-379[pl]:Sprawiała wrażenie zachwyconej tym pytaniem, które najwyraźniej połechtało jej próżność.
+363-364[de]:Sie sah aus, als ob ihr noch nie jemand eine so schmeichelhafte Frage gestellt hätte.
+~^
+379-380[pl]:- Oooooch, to było straszne - powiedziała z rozkoszą.
+364-365[de]:»Ooooh, das war schrecklich«, sagte sie genüsslich.
+~^
+380-381[pl]:- To stało się właśnie tutaj.
+365-366[de]:»Es ist hier drin geschehen.
+~^
+381-382[pl]:Umarłam w tej oto kabinie.
+366-367[de]:Ich bin in dieser Kabine gestorben.
+~^
+382-383[pl]:Pamiętam to dobrze.
+367-368[de]:Ich erinnere mich noch so gut daran.
+~^
+383-384[pl]:Schowałam się tutaj, bo Oliwią Hornby dokuczała mi z powodu moich okularów.
+368-369[de]:Ich versteckte mich, weil Olive Hornby mich wegen meiner Brille hänselte.
+~^
+384-386[pl]:Drzwi były zamknięte, ja ryczałam i nagle usłyszałam, że ktoś wchodzi.
 [pl] Wchodzi i mówi coś dziwnego.
-[pl] Chyba w jakimś obcym języku.
-[pl] W każdym razie, wydawało mi się, że to mówi chłopiec.
+369-371[de]:Die Tür war verriegelt, und ich weinte, und dann hörte ich jemanden hereinkommen.
+[de] Dann wurde etwas Komisches gesagt.
+~^
+386-387[pl]:Chyba w jakimś obcym języku.
+371-372[de]:Eine andere Sprache muss es gewesen sein.
+~^
+387-389[pl]:W każdym razie, wydawało mi się, że to mówi chłopiec.
 [pl] Więc otworzyłam drzwi, żeby mu powiedzieć, że to toaleta dla dziewczyn, i wtedy...
-[pl] - Marta zrobiła ważną minę, twarz jej zajaśniała - wtedy umarłam.
+372-374[de]:jedenfalls, was mich wirklich gewundert hat, war, dass ein Junge sprach.
+[de] Also hab ich die Tür aufgemacht, um ihm zu sagen, er solle gefälligst verschwinden und sein eigenes Klo benutzen, und dann -«
+~^
+389-392[pl]:- Marta zrobiła ważną minę, twarz jej zajaśniała - wtedy umarłam.
 [pl] - Jak? - zapytał Harry.
 [pl] - Nie mam pojęcia - odpowiedziała Marta przyciszonym głosem.
-[pl] - Pamiętam tylko, że zobaczyłam parę wielkich żółtych oczu.
-[pl] Poczułam, jakby mi zdrętwiało całe ciało, a potem... potem już szybowałam w powietrzu, odlatywałam...
+374-377[de]:Myrte schwoll an und ihr Gesicht glänzte »- dann bin ich gestorben.«
+[de] »Wie?«, sagte Harry.
+[de] »Keine Ahnung«, sagte Myrte mit gedämpfter Stimme.
+~^
+392-393[pl]:- Pamiętam tylko, że zobaczyłam parę wielkich żółtych oczu.
+377-378[de]:»Ich weiß nur noch, dass ich ein Paar großer gelber Augen gesehen habe.
+~^
+393-395[pl]:Poczułam, jakby mi zdrętwiało całe ciało, a potem... potem już szybowałam w powietrzu, odlatywałam...
 [pl] - Spojrzała na Harry ego rozmarzonym wzrokiem.
-[pl] - A potem wróciłam.
-[pl] Postanowiłam nastraszyć Oliwię Hornby.
-[pl] Och, bardzo żałowała, że wyśmiewała się z moich okularów.
-[pl] - Gdzie dokładnie zobaczyłaś te oczy? - zapytał Harry.
-[pl] - Gdzieś tu - odpowiedziała Marta, machając ręką w stronę umywalki.
-[pl] Harry i Ron podbiegli do umywalki.
-[pl] Lockhart stał nieruchomo, z twarzą zastygłą w przerażeniu.
+378-380[de]:Mein ganzer Körper wurde starr und dann bin ich davongeschwebt ...«
+[de] Sie sah Harry traumverloren an.
+~^
+395-396[pl]:- A potem wróciłam.
+380-381[de]:»Und dann kam ich wieder zurück.
+~^
+396-397[pl]:Postanowiłam nastraszyć Oliwię Hornby.
+381-382[de]:Ich war entschlossen, mit Olive Hornby meinen Schabernack zu treiben.
+~^
+397-398[pl]:Och, bardzo żałowała, że wyśmiewała się z moich okularów.
+382-383[de]:Oh, es tat ihr ja so Leid, dass sie jemals über meine Brille gelacht hatte.«
+~^
+398-399[pl]:- Gdzie dokładnie zobaczyłaś te oczy? - zapytał Harry.
+383-384[de]:»Wo genau hast du diese Augen gesehen?«, sagte Harry.
+~^
+399-400[pl]:- Gdzieś tu - odpowiedziała Marta, machając ręką w stronę umywalki.
+384-385[de]:»Irgendwo dort« sie deutete auf das Waschbecken gegenüber.
+~^
+400-401[pl]:Harry i Ron podbiegli do umywalki.
+385-386[de]:Harry und Ron stürzten darauf zu.
+~^
+401-403[pl]:Lockhart stał nieruchomo, z twarzą zastygłą w przerażeniu.
 [pl] Umywalka wyglądała zupełnie zwyczajnie.
-[pl] Zbadali ją dokładnie, cal po calu, wewnątrz i na zewnątrz, łącznie z rurami pod spodem.
-[pl] I nagle Harry to zobaczył: na boku jednego z mosiężnych kranów wydrapany był maleńki wąż.
-[pl] - Ten kran nigdy nie działał - powiedziała beztrosko Marta, kiedy próbował go odkręcić.
+386-388[de]:Lockhart hielt sich im Hintergrund, mit einem Ausdruck sprachlosen Entsetzens im Gesicht.  
+[de] Es sah aus wie ein gewöhnliches Waschbecken.
+~^
+403-404[pl]:Zbadali ją dokładnie, cal po calu, wewnątrz i na zewnątrz, łącznie z rurami pod spodem.
+388-389[de]:Sie untersuchten jeden Zentimeter, innen und außen, und auch die Rohre darunter.
+~^
+404-405[pl]:I nagle Harry to zobaczył: na boku jednego z mosiężnych kranów wydrapany był maleńki wąż.
+389-390[de]:Und dann stutzte Harry: an der Seite eines der kupfernen Wasserhähne war eine winzige Schlange eingekratzt.
+~^
+405-408[pl]:- Ten kran nigdy nie działał - powiedziała beztrosko Marta, kiedy próbował go odkręcić.
 [pl] - Harry - szepnął Ron - powiedz coś.
 [pl] W języku wężów.
-[pl] - Ale... - Harry zaczął myśleć gorączkowo.
+390-394[de]:»Der Hahn hat nie funktioniert«, sagte Myrte munter, als sie ihn aufdrehen wollten.
+[de] »Harry«, sagte Ron.
+[de] »Sag was.
+[de] Etwas in der Parselsprache.«
+~^
+408-411[pl]:- Ale... - Harry zaczął myśleć gorączkowo.
 [pl] Do tej pory udawało mu się mówić tym językiem tylko wtedy, gdy miał do czynienia z prawdziwym wężem.
 [pl] Wpatrywał się w maleńki rysunek, starając się wyobrazić sobie, że to żywy wąż.
-[pl] - Otwórz się - powiedział.
-[pl] Spojrzał na Rona, który potrząsnął głową i powiedział: - Po angielsku.
-[pl] Harry znowu popatrzył na węża, całą siłą woli zmuszając się do uwierzenia, że to żywy wąż.
+394-397[de]:»Aber -« Harry überlegte fieberhaft.
+[de] Er hatte immer nur dann Parsel sprechen können, wenn er es mit einer echten Schlange zu tun hatte.
+[de] Er starrte die winzige Gravur an und versuchte sich vorzustellen, es sei eine lebende Schlange.
+~^
+411-412[pl]:- Otwórz się - powiedział.
+397-398[de]:»Mach auf«, sagte er.
+~^
+412-413[pl]:Spojrzał na Rona, który potrząsnął głową i powiedział: - Po angielsku.
+398-400[de]:Er sah Ron an, der den Kopf schüttelte.
+[de] »Noch mal«, sagte er.
+~^
+413-416[pl]:Harry znowu popatrzył na węża, całą siłą woli zmuszając się do uwierzenia, że to żywy wąż.
 [pl] Kiedy poruszył głową, blask świecy wywołał wrażenie, jakby wąż drgnął.
 [pl] - Otwórz się - powtórzył.
-[pl] Tym razem nie usłyszał własnych słów, ale dziwny syk, a kran natychmiast rozjarzył się białym blaskiem i zaczął się obracać.
+400-404[de]:Harry blickte wieder auf die Schlange und versuchte sich einzureden, sie würde leben.
+[de] Wenn er den Kopf bewegte, sah es im Kerzenlicht so aus, als würde sie ein wenig schlängeln.
+[de] »Mach auf«, sagte er.
+[de] Doch es waren nicht diese Worte, die er hörte;
+~^
+416-423[pl]:Tym razem nie usłyszał własnych słów, ale dziwny syk, a kran natychmiast rozjarzył się białym blaskiem i zaczął się obracać.
 [pl] W następnej sekundzie poruszyła się cała umywalka.
 [pl] I nagle znikła, ukazując wylot olbrzymiej rury, tak szerokiej, że mógłby się do niej wśliznąć człowiek.
 [pl] Harry usłyszał zduszony okrzyk Rona.
 [pl] Podniósł głowę i spojrzał na niego.
 [pl] Już wiedział, co teraz zrobi.
 [pl] - Schodzę tam - powiedział.
-[pl] Nie mógł tego nie zrobić, teraz, kiedy wreszcie znalazł wejście do Komnaty Tajemnic, nawet gdyby nie było choć najmniejszej, najbardziej nieprawdopodobnej szansy, że Ginny może jeszcze żyć.
-[pl] - Ja też - powiedział Ron.
-[pl] Zapanowało krótkie milczenie.
-[pl] - No... chyba już mnie nie potrzebujecie - rzeki Lockhart, a na jego pobladłej twarzy pojawił się cień jego dawnego uśmiechu.
+404-409[de]:ein unheimliches Zischen war ihm entwischt, und sofort erglühte der Hahn strahlend hell und begann sich zu drehen - kurz darauf begann sich das Waschbecken zu bewegen.
+[de] Es versank gänzlich in die Wand und gab das Ende eines großen Rohres frei, breit genug, damit ein Mensch hindurchrutschen konnte.
+[de] Harry hörte Ron aufstöhnen und sah hoch.
+[de] Er fasste einen Entschluss.
+[de] »Ich gehe da runter«, sagte er.
+~^
+423-424[pl]:Nie mógł tego nie zrobić, teraz, kiedy wreszcie znalazł wejście do Komnaty Tajemnic, nawet gdyby nie było choć najmniejszej, najbardziej nieprawdopodobnej szansy, że Ginny może jeszcze żyć.
+409-410[de]:Er konnte jetzt nicht weggehen, nicht jetzt, da sie den Eingang zur Kammer gefunden hatten, nicht, wenn es auch nur den geringsten, unglaublichsten, verrücktesten Hoffnungsschimmer gab, dass Ginny noch lebte.  
+~^
+424-425[pl]:- Ja też - powiedział Ron.
+410-411[de]:»Ich auch«, sagte Ron.
+~^
+425-426[pl]:Zapanowało krótkie milczenie.
+411-412[de]:Einen Moment lang herrschte Schweigen.
+~^
+426-428[pl]:- No... chyba już mnie nie potrzebujecie - rzeki Lockhart, a na jego pobladłej twarzy pojawił się cień jego dawnego uśmiechu.
 [pl] - Więc ja po prostu... Położył rękę na klamce, ale i Ron, i Harry wycelowali w niego różdżki.
-[pl] - Wejdziesz tam pierwszy - warknął Ron.
-[pl] Lockhart, biały jak kreda, pozbawiony swojej różdżki, zbliżył się do otworu.
-[pl] - Chłopcy... - wybąkał słabym głosem - chłopcy, co nam to da?
-[pl] Harry dźgnął go w plecy końcem różdżki.
-[pl] Lockhart włożył nogi do rury.
+412-415[de]:»Nun, Sie scheinen mich wohl kaum zu brauchen«, sagte Lockhart mit dem Schatten seines alten Lächelns auf dem Gesicht.
+[de] »Ich werde dann -«
+[de] Er griff zum Türknopf, doch Ron und Harry richteten ihre Zauberstäbe auf ihn.
+~^
+428-429[pl]:- Wejdziesz tam pierwszy - warknął Ron.
+415-416[de]:»Sie werden als Erster gehen«, knurrte Ron.
+~^
+429-430[pl]:Lockhart, biały jak kreda, pozbawiony swojej różdżki, zbliżył się do otworu.
+416-418[de]:Weiß im Gesicht und zauberstablos näherte sich Lockhart der Öffnung.
+[de] »Jungs«, sagte er mit schwacher Stimme.
+~^
+430-431[pl]:- Chłopcy... - wybąkał słabym głosem - chłopcy, co nam to da?
+418-419[de]:Jungs, was nützt das?«
+~^
+431-432[pl]:Harry dźgnął go w plecy końcem różdżki.
+419-420[de]:Harry stach ihm mit dem Zauberstab in den Rücken.
+~^
+432-434[pl]:Lockhart włożył nogi do rury.
 [pl] - Naprawdę nie sądzę... - zaczął, ale Ron popchnął go i Lockhart zniknął im z oczu.
-[pl] Harry szybko wskoczył za nim.
+420-422[de]:Lockhart steckte die Beine in das Rohr.
+[de] »Ich glaube wirklich nicht -«, fing er an, doch Ron gab ihm einen Stoß und er schlitterte davon.
+~^
+434-442[pl]:Harry szybko wskoczył za nim.
 [pl] Poczuł się tak, jakby ze straszliwą szybkością pomknął nie kończącą się, śliską, krętą i ciemną zjeżdżalnią w parku wodnym.
 [pl] Raz po raz migały po bokach wyloty innych rur, ale już nie tak szerokich jak ta, którą spadał coraz niżej i niżej, głębiej niż lochy pod zamkiem.
 [pl] Za sobą słyszał Rona, obijającego się na zakrętach.
@@ -792,29 +1155,76 @@
 [pl] Tuż obok Lockhart dźwigał się na nogi, cały okryty szlamem i blady jak duch.
 [pl] Harry odsunął się, bo usłyszał wylatującego z rury Rona.
 [pl] - Musimy być chyba parę mil pod szkołą - powiedział Harry, a jego głos odbił się głuchym echem po tunelu.
-[pl] - Może pod jeziorem - dodał Ron, przyglądając się ciemnym, obślizgłym ścianom.
-[pl] Wszyscy trzej wpatrzyli się w ciemność przed nimi.
-[pl] - Lumos! - mruknął Harry do swojej różdżki, a ta natychmiast zapłonęła bladym światłem.
+422-431[de]:Harry folgte ihm rasch.
+[de] Er stieg ins Rohr hinein und ließ sich hinabgleiten.
+[de] Es war, als rauschte er eine endlose, schleimige, dunkle Rutschbahn hinab.
+[de] Er sah andere Rohre in alle Richtungen abzweigen, doch keines war so dick wie das ihre, das in unendlich vielen Windungen steil abwärts lief, und Harry wusste, dass es tief hinabging unter die Schule, in Tiefen weit unterhalb der Kerker.
+[de] Hinter sich konnte er Ron hören, den es in den Biegungen sacht gegen die Wände schlug.
+[de] Und dann, gerade als Harry besorgt überlegte, wie er auf dem Boden aufschlagen würde, bog sich das Rohr nach oben und lief aus.
+[de] Mit einem nassen Glubschen kullerte er heraus und landete auf dem feuchten Boden eines dunklen Steintunnels, hoch genug, um darin stehen zu können.
+[de] Harry trat zur Seite, und hinter ihm plumpste Ron aus dem Rohr.
+[de] »Wir müssen meilenweit unter der Schule sein«, sagte Harry und seine Stimme hallte im dunklen Tunnel wider.  
+~^
+442-443[pl]:- Może pod jeziorem - dodał Ron, przyglądając się ciemnym, obślizgłym ścianom.
+431-432[de]:»Unter dem See wahrscheinlich«, sagte Ron und musterte die glitschigen Wände.
+~^
+443-444[pl]:Wszyscy trzej wpatrzyli się w ciemność przed nimi.
+432-433[de]:Alle drei drehten sich um und starrten in die Dunkelheit vor ihnen.
+~^
+444-447[pl]:- Lumos! - mruknął Harry do swojej różdżki, a ta natychmiast zapłonęła bladym światłem.
 [pl] - Idziemy - rzekł do Rona i Lockharta.
 [pl] Ruszyli przed siebie, chlupocąc nogami po mokrej posadzce.
-[pl] Tunel był tak ciemny, że niewiele widzieli przed sobą.
-[pl] Ich cienie na wilgotnych ścianach poruszały się jak mroczne widma.
-[pl] - Pamiętajcie - powiedział cicho Harry - kiedy tylko usłyszycie lub zobaczycie jakiś ruch, natychmiast zamknijcie oczy...
-[pl] Ale w tunelu było cicho jak w grobie, a pierwszym nieoczekiwanym odgłosem, jaki usłyszeli, było donośne chrupnięcie, kiedy Ron nadepnął na coś, co okazało się czaszką szczura.
-[pl] Harry opuścił różdżkę, żeby przyjrzeć się posadzce i zobaczył, że jest zasłana kośćmi małych zwierząt.
-[pl] Starając się nie myśleć o tym, jak będzie wyglądać Ginny, kiedy ją odnajdą, prowadził ich ciemnym tunelem, który zakręcał teraz łagodnie.
+433-435[de]:»Lumos!«, murmelte Harry seinem Zauberstab zu und der begann wieder zu leuchten.
+[de] »Weiter geht's«, sagte er zu Ron und Lockhart und sie gingen los, ihre Schritte klatschten laut auf dem nassen Boden.
+~^
+447-448[pl]:Tunel był tak ciemny, że niewiele widzieli przed sobą.
+435-436[de]:Im Tunnel war es so dunkel, dass sie nur ein paar Meter weit sehen konnten.
+~^
+448-449[pl]:Ich cienie na wilgotnych ścianach poruszały się jak mroczne widma.
+436-437[de]:Im Licht des Zauberstabs wirkten ihre Schatten an den Wänden wie Riesen.
+~^
+449-450[pl]:- Pamiętajcie - powiedział cicho Harry - kiedy tylko usłyszycie lub zobaczycie jakiś ruch, natychmiast zamknijcie oczy...
+437-438[de]:»Nicht vergessen«, sagte Harry, während sie vorsichtig weitergingen, »wenn sich irgendwas bewegt, gleich die Augen schließen ...«
+~^
+450-451[pl]:Ale w tunelu było cicho jak w grobie, a pierwszym nieoczekiwanym odgłosem, jaki usłyszeli, było donośne chrupnięcie, kiedy Ron nadepnął na coś, co okazało się czaszką szczura.
+438-439[de]:Doch der Tunnel war still wie ein Grab, und das erste unerwartete Geräusch, das sie hörten, war ein lautes Knirschen, als Ron auf etwas trat, das sich als Rattenschädel herausstellte.
+~^
+451-452[pl]:Harry opuścił różdżkę, żeby przyjrzeć się posadzce i zobaczył, że jest zasłana kośćmi małych zwierząt.
+439-440[de]:Harry richtete den Zauberstab auf den Boden und sah, dass er übersät war mit kleinen Tierknochen.
+~^
+452-455[pl]:Starając się nie myśleć o tym, jak będzie wyglądać Ginny, kiedy ją odnajdą, prowadził ich ciemnym tunelem, który zakręcał teraz łagodnie.
 [pl] - Harry, tam coś jest... - rozległ się ochrypły głos Rona, a potem poczuł jego uścisk na ramieniu.
 [pl] Zamarli, wbijając oczy w ciemność.
-[pl] Harry dostrzegł zarys czegoś wielkiego i poskręcanego, co leżało przed nimi w tunelu.
-[pl] Nie poruszało się.
-[pl] - Może śpi - wydyszał, odwracając się, żeby spojrzeć na Rona i Lockharta.
-[pl] Lockhart przyciskał dłonie do oczu.
-[pl] Harry znowu odwrócił głowę w kierunku tego czegoś, a serce biło mu tak szybko, że aż bolało.
+440-443[de]:Angestrengt versuchte er, den Gedanken zu vertreiben, wie Ginny wohl aussehen würde, wenn sie sie fänden, und führte die anderen weiter durch eine dunkle Biegung des Tunnels.
+[de] »Harry - da oben ist etwas -«, sagte Ron heiser und packte Harrys Schulter.
+[de] Sie erstarrten und sahen nach oben.
+~^
+455-456[pl]:Harry dostrzegł zarys czegoś wielkiego i poskręcanego, co leżało przed nimi w tunelu.
+443-444[de]:Harry konnte den Umriss von etwas Riesigem und Rundem sehen, das quer im Tunnel lag.
+~^
+456-457[pl]:Nie poruszało się.
+444-445[de]:Es bewegte sich nicht.
+~^
+457-458[pl]:- Może śpi - wydyszał, odwracając się, żeby spojrzeć na Rona i Lockharta.
+445-446[de]:»Vielleicht schläft es«, flüsterte er mit einem Blick zurück auf die andern beiden.
+~^
+458-459[pl]:Lockhart przyciskał dłonie do oczu.
+446-447[de]:Lockhart hatte die Hände auf die Augen gepresst.
+~^
+459-461[pl]:Harry znowu odwrócił głowę w kierunku tego czegoś, a serce biło mu tak szybko, że aż bolało.
 [pl] Powoli, mrużąc oczy tak, że ledwo widział przez wąskie szparki powiek, ruszył naprzód, wyciągając przed sobą różdżkę.
-[pl] Jej światło ześliznęło się po olbrzymiej, jadowicie zielonej skórze węża, spoczywającej w splotach na podłodze tunelu.
-[pl] Potwór, który ją zrzucił, musiał mieć przynajmniej dwadzieścia stóp.
+447-449[de]:Harry wandte sich wieder um und blickte zu dem Wesen empor, und sein Herz schlug so schnell, dass es schmerzte.  
+[de] Sehr langsam, mit erhobenem Zauberstab, die Augen zu winzigen Schlitzen verengt, schlich Harry sich weiter vor.
+~^
+461-462[pl]:Jej światło ześliznęło się po olbrzymiej, jadowicie zielonej skórze węża, spoczywającej w splotach na podłodze tunelu.
+449-450[de]:Das Licht huschte über eine gigantische Schlangenhaut von leuchtend giftgrüner Farbe, die zusammengerollt und leer quer über dem Tunnelboden lag.
+~^
+462-464[pl]:Potwór, który ją zrzucił, musiał mieć przynajmniej dwadzieścia stóp.
 [pl] - O rany... - szepnął Ron.
-[pl] Nagle coś się za nimi poruszyło.
+450-452[de]:Das Geschöpf, das sie abgeworfen hatte, musste mindestens sieben Meter lang sein.
+[de] »Ich fass es nicht«, sagte Ron matt.
+~^
+464-474[pl]:Nagle coś się za nimi poruszyło.
 [pl] Gilderoyowi Lockhartowi kolana odmówiły posłuszeństwa.
 [pl] - Wstawaj - powiedział ostro Ron, celując w niego różdżką.
 [pl] Lockhart wstał...
@@ -824,56 +1234,117 @@
 [pl] Dyszał ciężko, ale uśmiech wrócił na jego twarz.
 [pl] W ręku trzymał różdżkę Rona.
 [pl] - Koniec przygody, chłopcy! - powiedział swoim dawnym tonem.
-[pl] - Wezmę kawałek tej skóry, powiem im, że było za późno, żeby uratować tę dziewczynkę, a wy dwaj w tragiczny sposób postradaliście rozum na widok jej poszarpanego ciała.
+452-459[de]:Plötzlich bewegte sich etwas hinter ihnen.
+[de] Gilderoy
+[de] Lockharts Knie hatten nachgegeben.
+[de] »Stehen Sie auf«, sagte Ron scharf und richtete den Zauberstab auf Lockhart.
+[de] Lockhart rappelte sich hoch - und dann hechtete er auf Ron zu und schlug ihn zu Boden.
+[de] Harry sprang vor, doch zu spät - Lockhart erhob sich keuchend, Rons Zauberstab in der Hand und ein strahlendes Lächeln im Gesicht.
+[de] »Schluss mit lustig, Jungs!«, sagte er.
+~^
+474-477[pl]:- Wezmę kawałek tej skóry, powiem im, że było za późno, żeby uratować tę dziewczynkę, a wy dwaj w tragiczny sposób postradaliście rozum na widok jej poszarpanego ciała.
 [pl] Pożegnajcie się ze swoimi wspomnieniami!
 [pl] Uniósł oklejoną taśmą różdżkę Rona i ryknął: - Obliviate!
-[pl] Różdżka eksplodowała z siłą małej bomby.
+459-461[de]:»Ich nehme ein Stück von dieser Haut nach oben und sag ihnen, es sei zu spät gewesen, um das Mädchen zu retten, und dass ihr beide angesichts ihres zerfleischten Körpers tragischerweise den Verstand verloren hättet - sagt eurem Gedächtnis Adieu!«
+[de] Er hob Rons zauberbandgeflickten Stab hoch über den Kopf und rief »Amnesia!«.
+~^
+477-480[pl]:Różdżka eksplodowała z siłą małej bomby.
 [pl] Harry złapał się za głowę i rzucił się do przodu.
 [pl] Ślizgając się na skórze węża, zdążył umknąć przed wielkimi kawałami sufitu, które waliły się na podłogę.
-[pl] W następnej chwili stał samotnie, wpatrując się w piętrzącą się przed nim ścianę gruzu.
+461-463[de]:Der Zauberstab explodierte mit der Sprengkraft einer kleinen Bombe.
+[de] Harry schlang die Arme um den Kopf und rannte los, stolperte über die Reste der Schlangenhaut und versuchte den großen Stücken Tunneldecke auszuweichen, die auf den Boden donnerten.
+~^
+480-487[pl]:W następnej chwili stał samotnie, wpatrując się w piętrzącą się przed nim ścianę gruzu.
 [pl] - Ron! - krzyknął.
 [pl] - Nic ci nie jest?
 [pl] Ron! - Jestem tutaj! - dobiegł go zduszony głos Rona spoza zwaliska gruzu.
 [pl] - Nic mi się nie stało.
 [pl] Ale ten parszywiec...
 [pl] chyba go rozsadziło.
-[pl] Rozległ się głuchy łomot, a potem głośne „auu!”
-[pl] Sprawiało to wrażenie, jakby Ron z całej siły kopnął Lockharta w goleń.
-[pl] - Co teraz? - rozległ się głos Rona, brzmiący raczej rozpaczliwie.
-[pl] - Nie przejdziemy.
+463-468[de]:Einen Augenblick später war er allein und starrte auf eine undurchdringliche Wand aus herabgestürzten Felsstücken.
+[de] »Ron!«, rief er, »bist du okay?
+[de] Ron!«
+[de] »Ich bin hier«, ertönte eine gedämpfte Stimme hinter  dem Felseinbruch.
+[de] »Ich bin okay - der Aufschneider allerdings nicht - der Zauberstab hat ihn umgerissen -«
+~^
+487-488[pl]:Rozległ się głuchy łomot, a potem głośne „auu!”
+468-469[de]:Es gab einen dumpfen Schlag und ein lautes »Au!«.
+~^
+488-489[pl]:Sprawiało to wrażenie, jakby Ron z całej siły kopnął Lockharta w goleń.
+469-470[de]:Es hörte sich an, als hätte Ron Lockhart soeben gegen das Schienbein getreten.
+~^
+489-490[pl]:- Co teraz? - rozległ się głos Rona, brzmiący raczej rozpaczliwie.
+470-471[de]:»Was jetzt?«, ertönte Rons verzweifelt klingende Stimme.
+~^
+490-492[pl]:- Nie przejdziemy.
 [pl] Potrwa całe wieki, zanim się przekopiemy.
-[pl] Harry spojrzał na sklepienie tunelu.
+471-472[de]:»Wir kommen hier nicht durch - das dauert eine Ewigkeit ...«
+~^
+492-497[pl]:Harry spojrzał na sklepienie tunelu.
 [pl] Pojawiły się na nim szerokie szczeliny.
 [pl] Jeszcze nigdy nie próbował rozwalić za pomocą magii czegoś tak solidnego, jak to zwalisko, a ta chwila wcale nie wydawała się najodpowiedniejsza do prób.
 [pl] A jeśli cały tunel się zawali?
 [pl] Spoza ściany gruzu rozległo się kolejne głuche łupnięcie i jeszcze jedno „auu!” Tracili czas.
-[pl] Ginny już od wielu godzin jest w Komnacie Tajemnic.
-[pl] Harry zrozumiał, że ma tylko jedno wyjście.
-[pl] - Poczekaj tutaj! - zawołał do Rona.
+472-477[de]:Harry sah zur Tunneldecke empor.
+[de] Gewaltige Risse waren jetzt zu sehen.
+[de] Er hatte noch nie versucht, etwas so Riesiges wie diese Felsen entzweizuzaubern, und dies schien nicht der richtige Moment, um es zu probieren - was, wenn der Tunnel einbrach?
+[de] Hinter den Felsen hörte er einen weiteren Schlag und abermals ein »Au!«.
+[de] Sie verschwendeten ihre Zeit.
+~^
+497-498[pl]:Ginny już od wielu godzin jest w Komnacie Tajemnic.
+477-478[de]:Ginny war jetzt schon einige Stunden in der Kammer des Schreckens ...
+~^
+498-499[pl]:Harry zrozumiał, że ma tylko jedno wyjście.
+478-479[de]:Harry wusste, dass er nur eins tun konnte.
+~^
+499-503[pl]:- Poczekaj tutaj! - zawołał do Rona.
 [pl] - Czekaj tu z Lockhartem.
 [pl] Ja idę dalej.
 [pl] Jeśli nie wrócę w ciągu godziny. - zawiesił głos.
-[pl] - Spróbuję usunąć trochę tego gruzu - odezwał się Ron, starając się, żeby jego głos brzmiał spokojnie.
+479-483[de]:»Warte dort«, rief er Ron zu.
+[de] »Warte mit Lockhart.
+[de] Ich geh weiter ... wenn ich in einer Stunde nicht zurück bin ...«
+[de] Eine sehr gespannte Pause trat ein.
+~^
+503-506[pl]:- Spróbuję usunąć trochę tego gruzu - odezwał się Ron, starając się, żeby jego głos brzmiał spokojnie.
 [pl] - Więc będziesz mógł... będziesz mógł wrócić.
 [pl] I... Harry...
-[pl] - Niedługo się zobaczymy - powiedział Harry, starając się, żeby zabrzmiało to przekonująco.
-[pl] I ruszył samotnie naprzód, mijając skórę olbrzymiego węża.
+483-484[de]:»Ich probier ein paar dieser Felsen wegzuschieben«, antwortete Ron, der offenbar versuchte seine Stimme ruhig klingen zu lassen.
+~^
+506-507[pl]:- Niedługo się zobaczymy - powiedział Harry, starając się, żeby zabrzmiało to przekonująco.
+484-485[de]:»So dass du - zurückkannst. Und, Harry -« »Wir sehen uns gleich«, sagte Harry und packte so viel Zuversicht in seine zitternde Stimme wie nur möglich.
+~^
+507-509[pl]:I ruszył samotnie naprzód, mijając skórę olbrzymiego węża.
 [pl] Wkrótce umilkł hałas, jaki robił Ron, starając się poszerzyć wyłom w ścianie gruzu.
-[pl] Tunel wciąż zmieniał kierunek.
-[pl] Każdy nerw w ciele Harry’ego był boleśnie napięty.
-[pl] Bardzo chciał, żeby tunel już się skończył, a jednocześnie bardzo się bał, co spotka na końcu.
-[pl] I wreszcie, kiedy minął jeszcze jeden zakręt, zobaczył przed sobą solidny mur, na którym wyrzeźbione były dwa splecione ze sobą węże z oczami z wielkich, połyskujących szmaragdów.
+485-487[de]:Dann machte er sich an der riesigen Schlangenhaut vorbei allein auf den Weg.
+[de] Bald hörte er nur noch von fern, wie Ron versuchte die Felsen wegzuschieben, und dann war es still.
+~^
+509-510[pl]:Tunel wciąż zmieniał kierunek.
+487-488[de]:In endlosen Biegungen wand sich der Tunnel fort.
+~^
+510-511[pl]:Każdy nerw w ciele Harry’ego był boleśnie napięty.
+488-489[de]:jeder Nerv in Harrys Körper vibrierte unangenehm.
+~^
+511-512[pl]:Bardzo chciał, żeby tunel już się skończył, a jednocześnie bardzo się bał, co spotka na końcu.
+489-490[de]:Er wünschte, der Tunnel wäre zu Ende, doch ihm graute davor, was er dann finden würde.
+~^
+512-514[pl]:I wreszcie, kiedy minął jeszcze jeden zakręt, zobaczył przed sobą solidny mur, na którym wyrzeźbione były dwa splecione ze sobą węże z oczami z wielkich, połyskujących szmaragdów.
 [pl] Harry podszedł do ściany, czując dziwną suchość w gardle.
-[pl] Nie było potrzeby udawać, że kamienne węże są żywe, bo ich oczy naprawdę wyglądały jak żywe.
+490-493[de]:Und dann, endlich, als er um eine Biegung schlich, sah er vor sich eine Wand, in die zwei ineinander geflochtene  Schlangen eingemeißelt waren.
+[de] Ihre Augen waren große schimmernde Smaragde.
+[de] Mit ausgetrockneter Kehle trat Harry näher.
+~^
+514-520[pl]:Nie było potrzeby udawać, że kamienne węże są żywe, bo ich oczy naprawdę wyglądały jak żywe.
 [pl] Domyślił się, co powinien zrobić.
 [pl] Odchrząknął i wydało mu się, że szmaragdowe oczy drgnęły.
 [pl] - Otwórz się - rozkazał cichym sykiem.
 [pl] Węże rozdzieliły się, pojawiła się szczelina i dwie połowy muru rozsunęły się gładko, ginąc w ścianie.
 [pl] Harry, dygocąc od stóp do głów, wszedł do środka.
 
-202-207[de]:»Das Monster hat einen Schüler entführt.
-[de] Und zwar in die Kammer.«
-[de] Professor Flitwick stieß einen spitzen Schrei aus.
-[de] Professor Sprout schlug sich die Hände auf den Mund.
-[de] Snape umklammerte eine Stuhllehne und sagte:
+493-499[de]:Es war nicht nötig, sich einzubilden, dass diese steinernen Schlangen echt waren, denn ihre Augen sahen unheimlich lebendig aus.
+[de] Er ahnte, was er zu tun hatte.
+[de] Er räusperte sich und die Smaragdaugen schienen aufzuflackern.
+[de] »Öffnet!« sagte Harry mit einem tiefen, schwachen Zischen.
+[de] Die Schlangen entflochten sich und in der Wand tat sich ein Spalt auf Die beiden Wandhälften glitten sanft zur Seite und Harry;
+[de] von Kopf bis Fuß zitternd, trat ein.
 

@@ -142,6 +142,8 @@ def main():
         ch_de = get_german_chapter(chapter_n).replace("\n"," ")
         ch_pl = get_polish_chapter(chapter_n).replace("\n"," ")
         print(f"{len(ch_pl)=},{len(ch_de)=}")
+        print(f"{ch_de[:50]=}...{ch_de[-50:]=}")
+        print(f"{ch_pl[:50]=}...{ch_pl[-50:]=}")
         # ch_de = open("chapters/ch7de.txt", "r").read().replace("\n", " ").replace("\r", "")
         # ch_pl = open("chapters/ch7pl.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
         # ch_en = open("chapters/ch5en.txt", "r").read()#.replace("\n", ". ").replace("\r", "")
